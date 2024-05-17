@@ -1,0 +1,65 @@
+Question 3: Calculate 57 $ 35? The correct answer is:
+Correct Answer: 92
+Model's Response: 82
+Correct: False
+----------------------------------------
+Question 5: Calculate 56 @ 14? The correct answer is:
+Correct Answer: 784
+Model's Response: 1008
+Correct: False
+----------------------------------------
+Question 6: Calculate 26 $ 2? The correct answer is:
+Correct Answer: 28
+Model's Response: 24
+Correct: False
+----------------------------------------
+Question 9: Calculate 65 @ 47? The correct answer is:
+Correct Answer: 3055
+Model's Response: 1055
+Correct: False
+----------------------------------------
+Question 15: Calculate 43 $ 32? The correct answer is:
+Correct Answer: 75
+Model's Response: 11
+Correct: False
+----------------------------------------
+Question 17: Calculate 32 @ 24? The correct answer is:
+Correct Answer: 768
+Model's Response: 1088
+Correct: False
+----------------------------------------
+Question 19: Calculate 65 $ 17? The correct answer is:
+Correct Answer: 82
+Model's Response: 112
+Correct: False
+----------------------------------------
+Question 22: Calculate 62 @ 28? The correct answer is:
+Correct Answer: 1736
+Model's Response: 1744
+Correct: False
+----------------------------------------
+Question 27: Calculate 70 # 62? The correct answer is:
+Correct Answer: 8
+Model's Response: 7
+Correct: False
+----------------------------------------
+Question 42: Calculate 48 @ 2? The correct answer is:
+Correct Answer: 96
+Model's Response: 1008
+Correct: False
+----------------------------------------
+Question 44: Calculate 19 @ 4? The correct answer is:
+Correct Answer: 76
+Model's Response: 196
+Correct: False
+----------------------------------------
+Question 45: Calculate 60 $ 8? The correct answer is:
+Correct Answer: 68
+Model's Response: 72
+Correct: False
+----------------------------------------
+Question 50: Calculate 90 @ 3? The correct answer is:
+Correct Answer: 270
+Model's Response: 2700
+Correct: False
+----------------------------------------

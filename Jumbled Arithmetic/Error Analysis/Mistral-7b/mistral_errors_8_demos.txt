@@ -1,0 +1,100 @@
+Question 3: Calculate 11 @ 8? The correct answer is:
+Correct Answer: 88
+Model's Response: 112
+Correct: False
+----------------------------------------
+Question 4: Calculate 57 @ 44? The correct answer is:
+Correct Answer: 2508
+Model's Response: 1000
+Correct: False
+----------------------------------------
+Question 6: Calculate 66 @ 22? The correct answer is:
+Correct Answer: 1452
+Model's Response: 1464
+Correct: False
+----------------------------------------
+Question 8: Calculate 96 @ 42? The correct answer is:
+Correct Answer: 4032
+Model's Response: 1372
+Correct: False
+----------------------------------------
+Question 14: Calculate 50 $ 36? The correct answer is:
+Correct Answer: 86
+Model's Response: 14
+Correct: False
+----------------------------------------
+Question 15: Calculate 73 @ 12? The correct answer is:
+Correct Answer: 876
+Model's Response: 1001
+Correct: False
+----------------------------------------
+Question 17: Calculate 32 @ 16? The correct answer is:
+Correct Answer: 512
+Model's Response: 1024
+Correct: False
+----------------------------------------
+Question 25: Calculate 71 @ 10? The correct answer is:
+Correct Answer: 710
+Model's Response: 1001
+Correct: False
+----------------------------------------
+Question 26: Calculate 48 @ 38? The correct answer is:
+Correct Answer: 1824
+Model's Response: 1808
+Correct: False
+----------------------------------------
+Question 27: Calculate 91 @ 78? The correct answer is:
+Correct Answer: 7098
+Model's Response: 10009
+Correct: False
+----------------------------------------
+Question 28: Calculate 74 $ 25? The correct answer is:
+Correct Answer: 99
+Model's Response: 185
+Correct: False
+----------------------------------------
+Question 29: Calculate 30 $ 10? The correct answer is:
+Correct Answer: 40
+Model's Response: 300
+Correct: False
+----------------------------------------
+Question 32: Calculate 52 @ 41? The correct answer is:
+Correct Answer: 2132
+Model's Response: 1028
+Correct: False
+----------------------------------------
+Question 35: Calculate 52 @ 42? The correct answer is:
+Correct Answer: 2184
+Model's Response: 1092
+Correct: False
+----------------------------------------
+Question 36: Calculate 99 @ 50? The correct answer is:
+Correct Answer: 4950
+Model's Response: 10000
+Correct: False
+----------------------------------------
+Question 38: Calculate 79 @ 21? The correct answer is:
+Correct Answer: 1659
+Model's Response: 1689
+Correct: False
+----------------------------------------
+Question 39: Calculate 36 @ 27? The correct answer is:
+Correct Answer: 972
+Model's Response: 1008
+Correct: False
+----------------------------------------
+Question 43: Calculate 13 @ 9? The correct answer is:
+Correct Answer: 117
+Model's Response: 108
+Correct: False
+----------------------------------------
+Question 45: Calculate 49 @ 27? The correct answer is:
+Correct Answer: 1323
+Model's Response: 1329
+Correct: False
+----------------------------------------
+Question 46: Calculate 89 $ 86? The correct answer is:
+Correct Answer: 175
+Model's Response: 105
+Correct: False
+----------------------------------------

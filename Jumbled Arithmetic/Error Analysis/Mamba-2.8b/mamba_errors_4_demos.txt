@@ -1,0 +1,210 @@
+Question 1: Calculate 93 $ 46? The correct answer is:
+Correct Answer: 139
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 2: Calculate 96 $ 48? The correct answer is:
+Correct Answer: 144
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 3: Calculate 57 $ 35? The correct answer is:
+Correct Answer: 92
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 4: Calculate 25 # 19? The correct answer is:
+Correct Answer: 6
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 5: Calculate 56 @ 14? The correct answer is:
+Correct Answer: 784
+Model's Response: 728
+Correct: False
+----------------------------------------
+Question 6: Calculate 26 $ 2? The correct answer is:
+Correct Answer: 28
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 7: Calculate 84 # 45? The correct answer is:
+Correct Answer: 39
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 8: Calculate 27 $ 15? The correct answer is:
+Correct Answer: 42
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 9: Calculate 65 @ 47? The correct answer is:
+Correct Answer: 3055
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 10: Calculate 16 # 10? The correct answer is:
+Correct Answer: 6
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 11: Calculate 40 @ 14? The correct answer is:
+Correct Answer: 560
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 12: Calculate 49 # 24? The correct answer is:
+Correct Answer: 25
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 14: Calculate 27 # 13? The correct answer is:
+Correct Answer: 14
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 15: Calculate 43 $ 32? The correct answer is:
+Correct Answer: 75
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 16: Calculate 12 # 8? The correct answer is:
+Correct Answer: 4
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 17: Calculate 32 @ 24? The correct answer is:
+Correct Answer: 768
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 18: Calculate 26 $ 26? The correct answer is:
+Correct Answer: 52
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 19: Calculate 65 $ 17? The correct answer is:
+Correct Answer: 82
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 21: Calculate 92 # 63? The correct answer is:
+Correct Answer: 29
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 22: Calculate 62 @ 28? The correct answer is:
+Correct Answer: 1736
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 24: Calculate 79 # 29? The correct answer is:
+Correct Answer: 50
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 25: Calculate 71 $ 71? The correct answer is:
+Correct Answer: 142
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 26: Calculate 25 $ 19? The correct answer is:
+Correct Answer: 44
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 27: Calculate 70 # 62? The correct answer is:
+Correct Answer: 8
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 28: Calculate 75 @ 25? The correct answer is:
+Correct Answer: 1875
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 29: Calculate 80 @ 33? The correct answer is:
+Correct Answer: 2640
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 30: Calculate 16 $ 8? The correct answer is:
+Correct Answer: 24
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 31: Calculate 51 $ 10? The correct answer is:
+Correct Answer: 61
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 32: Calculate 69 @ 40? The correct answer is:
+Correct Answer: 2760
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 33: Calculate 12 # 8? The correct answer is:
+Correct Answer: 4
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 34: Calculate 47 $ 19? The correct answer is:
+Correct Answer: 66
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 36: Calculate 22 # 15? The correct answer is:
+Correct Answer: 7
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 37: Calculate 79 @ 28? The correct answer is:
+Correct Answer: 2212
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 38: Calculate 24 # 11? The correct answer is:
+Correct Answer: 13
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 39: Calculate 42 @ 24? The correct answer is:
+Correct Answer: 1008
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 40: Calculate 19 @ 17? The correct answer is:
+Correct Answer: 323
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 41: Calculate 21 @ 8? The correct answer is:
+Correct Answer: 168
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 43: Calculate 43 $ 4? The correct answer is:
+Correct Answer: 47
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 45: Calculate 60 $ 8? The correct answer is:
+Correct Answer: 68
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 46: Calculate 19 # 19? The correct answer is:
+Correct Answer: 0
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 48: Calculate 75 @ 55? The correct answer is:
+Correct Answer: 4125
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 49: Calculate 92 # 53? The correct answer is:
+Correct Answer: 39
+Model's Response: None
+Correct: False
+----------------------------------------

@@ -1,0 +1,85 @@
+Question 3: Calculate 3444 / 82? The correct answer is:
+Correct Answer: 42
+Model's Response: 41
+Correct: False
+----------------------------------------
+Question 23: Calculate 56 * 61? The correct answer is:
+Correct Answer: 3416
+Model's Response: 3436
+Correct: False
+----------------------------------------
+Question 26: Calculate 39 - 68? The correct answer is:
+Correct Answer: -29
+Model's Response: 29
+Correct: False
+----------------------------------------
+Question 34: Calculate 95 * 57? The correct answer is:
+Correct Answer: 5415
+Model's Response: 5395
+Correct: False
+----------------------------------------
+Question 41: Calculate 4212 / 81? The correct answer is:
+Correct Answer: 52
+Model's Response: 51
+Correct: False
+----------------------------------------
+Question 50: Calculate 21 - 56? The correct answer is:
+Correct Answer: -35
+Model's Response: 35
+Correct: False
+----------------------------------------
+Question 54: Calculate 59 * 83? The correct answer is:
+Correct Answer: 4897
+Model's Response: 4917
+Correct: False
+----------------------------------------
+Question 58: Calculate 2280 / 57? The correct answer is:
+Correct Answer: 40
+Model's Response: 39
+Correct: False
+----------------------------------------
+Question 63: Calculate 47 * 76? The correct answer is:
+Correct Answer: 3572
+Model's Response: 3562
+Correct: False
+----------------------------------------
+Question 69: Calculate 49 * 78? The correct answer is:
+Correct Answer: 3822
+Model's Response: 3782
+Correct: False
+----------------------------------------
+Question 74: Calculate 88 * 90? The correct answer is:
+Correct Answer: 7920
+Model's Response: 8080
+Correct: False
+----------------------------------------
+Question 75: Calculate 4680 / 52? The correct answer is:
+Correct Answer: 90
+Model's Response: 89
+Correct: False
+----------------------------------------
+Question 79: Calculate 2 - 44? The correct answer is:
+Correct Answer: -42
+Model's Response: 42
+Correct: False
+----------------------------------------
+Question 81: Calculate 26 * 78? The correct answer is:
+Correct Answer: 2028
+Model's Response: 2014
+Correct: False
+----------------------------------------
+Question 88: Calculate 61 * 28? The correct answer is:
+Correct Answer: 1708
+Model's Response: 1688
+Correct: False
+----------------------------------------
+Question 91: Calculate 19 * 48? The correct answer is:
+Correct Answer: 912
+Model's Response: 892
+Correct: False
+----------------------------------------
+Question 93: Calculate 96 * 59? The correct answer is:
+Correct Answer: 5664
+Model's Response: 5676
+Correct: False
+----------------------------------------

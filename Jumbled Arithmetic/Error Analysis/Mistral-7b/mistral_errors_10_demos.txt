@@ -1,0 +1,65 @@
+Question 1: Calculate 76 @ 41? The correct answer is:
+Correct Answer: 3116
+Model's Response: 2996
+Correct: False
+----------------------------------------
+Question 4: Calculate 31 @ 31? The correct answer is:
+Correct Answer: 961
+Model's Response: 1001
+Correct: False
+----------------------------------------
+Question 6: Calculate 81 @ 3? The correct answer is:
+Correct Answer: 243
+Model's Response: 123
+Correct: False
+----------------------------------------
+Question 15: Calculate 20 $ 4? The correct answer is:
+Correct Answer: 24
+Model's Response: 80
+Correct: False
+----------------------------------------
+Question 16: Calculate 21 @ 15? The correct answer is:
+Correct Answer: 315
+Model's Response: 18
+Correct: False
+----------------------------------------
+Question 18: Calculate 24 $ 1? The correct answer is:
+Correct Answer: 25
+Model's Response: 23
+Correct: False
+----------------------------------------
+Question 21: Calculate 39 @ 32? The correct answer is:
+Correct Answer: 1248
+Model's Response: 1296
+Correct: False
+----------------------------------------
+Question 26: Calculate 61 @ 40? The correct answer is:
+Correct Answer: 2440
+Model's Response: 1240
+Correct: False
+----------------------------------------
+Question 27: Calculate 95 @ 10? The correct answer is:
+Correct Answer: 950
+Model's Response: 10000
+Correct: False
+----------------------------------------
+Question 37: Calculate 73 @ 28? The correct answer is:
+Correct Answer: 2044
+Model's Response: 120
+Correct: False
+----------------------------------------
+Question 41: Calculate 87 @ 6? The correct answer is:
+Correct Answer: 522
+Model's Response: 1000
+Correct: False
+----------------------------------------
+Question 45: Calculate 56 @ 4? The correct answer is:
+Correct Answer: 224
+Model's Response: 1040
+Correct: False
+----------------------------------------
+Question 48: Calculate 54 @ 44? The correct answer is:
+Correct Answer: 2376
+Model's Response: 2388
+Correct: False
+----------------------------------------

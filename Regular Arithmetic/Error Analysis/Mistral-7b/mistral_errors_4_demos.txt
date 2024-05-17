@@ -1,0 +1,75 @@
+Question 2: Calculate 23 * 76? The correct answer is:
+Correct Answer: 1748
+Model's Response: 1752
+Correct: False
+----------------------------------------
+Question 7: Calculate 19 * 76? The correct answer is:
+Correct Answer: 1444
+Model's Response: 1456
+Correct: False
+----------------------------------------
+Question 14: Calculate 1943 / 67? The correct answer is:
+Correct Answer: 29
+Model's Response: 28
+Correct: False
+----------------------------------------
+Question 19: Calculate 18 - 38? The correct answer is:
+Correct Answer: -20
+Model's Response: 20
+Correct: False
+----------------------------------------
+Question 22: Calculate 78 * 59? The correct answer is:
+Correct Answer: 4602
+Model's Response: 4652
+Correct: False
+----------------------------------------
+Question 25: Calculate 2562 / 61? The correct answer is:
+Correct Answer: 42
+Model's Response: 754901960784315
+Correct: False
+----------------------------------------
+Question 26: Calculate 79 * 89? The correct answer is:
+Correct Answer: 7031
+Model's Response: 7001
+Correct: False
+----------------------------------------
+Question 35: Calculate 73 * 72? The correct answer is:
+Correct Answer: 5256
+Model's Response: 5276
+Correct: False
+----------------------------------------
+Question 39: Calculate 74 * 97? The correct answer is:
+Correct Answer: 7178
+Model's Response: 7158
+Correct: False
+----------------------------------------
+Question 49: Calculate 21 * 76? The correct answer is:
+Correct Answer: 1596
+Model's Response: 1606
+Correct: False
+----------------------------------------
+Question 67: Calculate 10 - 14? The correct answer is:
+Correct Answer: -4
+Model's Response: 4
+Correct: False
+----------------------------------------
+Question 76: Calculate 72 * 73? The correct answer is:
+Correct Answer: 5256
+Model's Response: 5276
+Correct: False
+----------------------------------------
+Question 77: Calculate 4292 / 74? The correct answer is:
+Correct Answer: 58
+Model's Response: 57
+Correct: False
+----------------------------------------
+Question 81: Calculate 1 - 94? The correct answer is:
+Correct Answer: -93
+Model's Response: 93
+Correct: False
+----------------------------------------
+Question 94: Calculate 49 * 21? The correct answer is:
+Correct Answer: 1029
+Model's Response: 1039
+Correct: False
+----------------------------------------

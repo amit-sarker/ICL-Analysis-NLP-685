@@ -1,0 +1,195 @@
+Question 2: Calculate 29 @ 10? The correct answer is:
+Correct Answer: 290
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 3: Calculate 87 # 70? The correct answer is:
+Correct Answer: 17
+Model's Response: 15
+Correct: False
+----------------------------------------
+Question 4: Calculate 5 $ 1? The correct answer is:
+Correct Answer: 6
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 5: Calculate 12 # 11? The correct answer is:
+Correct Answer: 1
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 7: Calculate 54 # 21? The correct answer is:
+Correct Answer: 33
+Model's Response: 35
+Correct: False
+----------------------------------------
+Question 8: Calculate 17 @ 2? The correct answer is:
+Correct Answer: 34
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 9: Calculate 86 @ 48? The correct answer is:
+Correct Answer: 4128
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 10: Calculate 60 $ 48? The correct answer is:
+Correct Answer: 108
+Model's Response: 2880
+Correct: False
+----------------------------------------
+Question 11: Calculate 25 # 20? The correct answer is:
+Correct Answer: 5
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 15: Calculate 67 $ 11? The correct answer is:
+Correct Answer: 78
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 16: Calculate 79 @ 30? The correct answer is:
+Correct Answer: 2370
+Model's Response: 20
+Correct: False
+----------------------------------------
+Question 17: Calculate 48 # 22? The correct answer is:
+Correct Answer: 26
+Model's Response: 1044
+Correct: False
+----------------------------------------
+Question 18: Calculate 60 # 19? The correct answer is:
+Correct Answer: 41
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 20: Calculate 63 $ 36? The correct answer is:
+Correct Answer: 99
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 22: Calculate 27 # 11? The correct answer is:
+Correct Answer: 16
+Model's Response: 271
+Correct: False
+----------------------------------------
+Question 23: Calculate 81 $ 50? The correct answer is:
+Correct Answer: 131
+Model's Response: 410
+Correct: False
+----------------------------------------
+Question 25: Calculate 20 $ 7? The correct answer is:
+Correct Answer: 27
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 26: Calculate 12 $ 2? The correct answer is:
+Correct Answer: 14
+Model's Response: 120
+Correct: False
+----------------------------------------
+Question 27: Calculate 52 @ 49? The correct answer is:
+Correct Answer: 2548
+Model's Response: 2676
+Correct: False
+----------------------------------------
+Question 28: Calculate 82 # 56? The correct answer is:
+Correct Answer: 26
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 29: Calculate 63 $ 9? The correct answer is:
+Correct Answer: 72
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 30: Calculate 67 @ 13? The correct answer is:
+Correct Answer: 871
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 31: Calculate 44 # 4? The correct answer is:
+Correct Answer: 40
+Model's Response: 176
+Correct: False
+----------------------------------------
+Question 32: Calculate 31 # 13? The correct answer is:
+Correct Answer: 18
+Model's Response: 42
+Correct: False
+----------------------------------------
+Question 34: Calculate 89 @ 56? The correct answer is:
+Correct Answer: 4984
+Model's Response: 4865
+Correct: False
+----------------------------------------
+Question 35: Calculate 44 # 44? The correct answer is:
+Correct Answer: 0
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 36: Calculate 80 @ 2? The correct answer is:
+Correct Answer: 160
+Model's Response: 460
+Correct: False
+----------------------------------------
+Question 37: Calculate 39 @ 34? The correct answer is:
+Correct Answer: 1326
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 38: Calculate 94 @ 13? The correct answer is:
+Correct Answer: 1222
+Model's Response: 3136
+Correct: False
+----------------------------------------
+Question 39: Calculate 57 @ 48? The correct answer is:
+Correct Answer: 2736
+Model's Response: 2796
+Correct: False
+----------------------------------------
+Question 40: Calculate 14 $ 9? The correct answer is:
+Correct Answer: 23
+Model's Response: 16
+Correct: False
+----------------------------------------
+Question 41: Calculate 69 # 58? The correct answer is:
+Correct Answer: 11
+Model's Response: 24
+Correct: False
+----------------------------------------
+Question 43: Calculate 74 @ 60? The correct answer is:
+Correct Answer: 4440
+Model's Response: 16340
+Correct: False
+----------------------------------------
+Question 44: Calculate 75 # 55? The correct answer is:
+Correct Answer: 20
+Model's Response: 49
+Correct: False
+----------------------------------------
+Question 45: Calculate 78 @ 12? The correct answer is:
+Correct Answer: 936
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 46: Calculate 37 $ 6? The correct answer is:
+Correct Answer: 43
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 48: Calculate 56 # 10? The correct answer is:
+Correct Answer: 46
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 49: Calculate 34 # 6? The correct answer is:
+Correct Answer: 28
+Model's Response: 62
+Correct: False
+----------------------------------------
+Question 50: Calculate 39 # 14? The correct answer is:
+Correct Answer: 25
+Model's Response: None
+Correct: False
+----------------------------------------

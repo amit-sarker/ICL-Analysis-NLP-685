@@ -1,0 +1,85 @@
+Question 2: Calculate 94 @ 46? The correct answer is:
+Correct Answer: 4324
+Model's Response: 4284
+Correct: False
+----------------------------------------
+Question 4: Calculate 9 # 81? The correct answer is:
+Correct Answer: -72
+Model's Response: 72
+Correct: False
+----------------------------------------
+Question 10: Calculate 17 # 73? The correct answer is:
+Correct Answer: -56
+Model's Response: 56
+Correct: False
+----------------------------------------
+Question 11: Calculate 89 # 94? The correct answer is:
+Correct Answer: -5
+Model's Response: 5
+Correct: False
+----------------------------------------
+Question 12: Calculate 31 @ 83? The correct answer is:
+Correct Answer: 2573
+Model's Response: 2583
+Correct: False
+----------------------------------------
+Question 13: Calculate 38 $ 18? The correct answer is:
+Correct Answer: 56
+Model's Response: 1
+Correct: False
+----------------------------------------
+Question 21: Calculate 13 # 70? The correct answer is:
+Correct Answer: -57
+Model's Response: 57
+Correct: False
+----------------------------------------
+Question 22: Calculate 66 @ 6? The correct answer is:
+Correct Answer: 396
+Model's Response: 4002
+Correct: False
+----------------------------------------
+Question 26: Calculate 69 @ 57? The correct answer is:
+Correct Answer: 3933
+Model's Response: 3963
+Correct: False
+----------------------------------------
+Question 28: Calculate 35 $ 3? The correct answer is:
+Correct Answer: 38
+Model's Response: 1
+Correct: False
+----------------------------------------
+Question 30: Calculate 58 @ 34? The correct answer is:
+Correct Answer: 1972
+Model's Response: 1992
+Correct: False
+----------------------------------------
+Question 33: Calculate 72 $ 100? The correct answer is:
+Correct Answer: 172
+Model's Response: 1
+Correct: False
+----------------------------------------
+Question 34: Calculate 74 @ 77? The correct answer is:
+Correct Answer: 5698
+Model's Response: 5716
+Correct: False
+----------------------------------------
+Question 35: Calculate 59 # 97? The correct answer is:
+Correct Answer: -38
+Model's Response: 38
+Correct: False
+----------------------------------------
+Question 42: Calculate 24 @ 69? The correct answer is:
+Correct Answer: 1656
+Model's Response: 1676
+Correct: False
+----------------------------------------
+Question 49: Calculate 27 @ 31? The correct answer is:
+Correct Answer: 837
+Model's Response: 843
+Correct: False
+----------------------------------------
+Question 50: Calculate 76 # 78? The correct answer is:
+Correct Answer: -2
+Model's Response: 18
+Correct: False
+----------------------------------------
