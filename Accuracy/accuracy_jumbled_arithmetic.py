@@ -79,17 +79,11 @@ def main():
     questions, correct_answers, model_responses, results = parse_file(file_path)
 
     for i in range(len(questions)):
-        # print(f"Question {i + 1}: {questions[i]}")
-        # print(f"Correct Answer: {correct_answers[i]}")
-        # print(f"Model's Response: {model_responses[i]}")
-        # print(f"Correct: {results[i]}")
-        # print("-" * 40)
-        if not results[i]:
-            print(f"Question {i + 1}: {questions[i]}")
-            print(f"Correct Answer: {correct_answers[i]}")
-            print(f"Model's Response: {model_responses[i]}")
-            print(f"Correct: {results[i]}")
-            print("-" * 40)
+        print(f"Question {i + 1}: {questions[i]}")
+        print(f"Correct Answer: {correct_answers[i]}")
+        print(f"Model's Response: {model_responses[i]}")
+        print(f"Correct: {results[i]}")
+        print("-" * 40)
 
     accuracy = calculate_accuracy(results)
     print(f"Model Accuracy: {accuracy:.2f}%")
