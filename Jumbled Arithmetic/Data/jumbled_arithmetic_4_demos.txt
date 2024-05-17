@@ -1,0 +1,400 @@
+1. Calculate 10 $ 3. The answer is 13.
+2. Calculate 85 $ 57. The answer is 142.
+3. Calculate 90 $ 35. The answer is 125.
+4. Calculate 86 $ 10. The answer is 96.
+---
+Calculate the next problem and provide the answer:
+Calculate 93 $ 46? The correct answer is:
+
+1. Calculate 17 $ 11. The answer is 28.
+2. Calculate 11 $ 10. The answer is 21.
+3. Calculate 85 $ 55. The answer is 140.
+4. Calculate 65 $ 27. The answer is 92.
+---
+Calculate the next problem and provide the answer:
+Calculate 96 $ 48? The correct answer is:
+
+1. Calculate 45 $ 31. The answer is 76.
+2. Calculate 43 $ 20. The answer is 63.
+3. Calculate 24 $ 14. The answer is 38.
+4. Calculate 13 $ 1. The answer is 14.
+---
+Calculate the next problem and provide the answer:
+Calculate 57 $ 35? The correct answer is:
+
+1. Calculate 10 # 2. The answer is 8.
+2. Calculate 66 # 37. The answer is 29.
+3. Calculate 36 # 33. The answer is 3.
+4. Calculate 77 # 44. The answer is 33.
+---
+Calculate the next problem and provide the answer:
+Calculate 25 # 19? The correct answer is:
+
+1. Calculate 61 @ 29. The answer is 2880.
+2. Calculate 26 @ 22. The answer is 192.
+3. Calculate 27 @ 19. The answer is 368.
+4. Calculate 89 @ 74. The answer is 2445.
+---
+Calculate the next problem and provide the answer:
+Calculate 56 @ 14? The correct answer is:
+
+1. Calculate 28 $ 24. The answer is 52.
+2. Calculate 20 $ 9. The answer is 29.
+3. Calculate 59 $ 55. The answer is 114.
+4. Calculate 87 $ 10. The answer is 97.
+---
+Calculate the next problem and provide the answer:
+Calculate 26 $ 2? The correct answer is:
+
+1. Calculate 45 # 23. The answer is 22.
+2. Calculate 73 # 58. The answer is 15.
+3. Calculate 31 # 11. The answer is 20.
+4. Calculate 86 # 53. The answer is 33.
+---
+Calculate the next problem and provide the answer:
+Calculate 84 # 45? The correct answer is:
+
+1. Calculate 61 $ 5. The answer is 66.
+2. Calculate 47 $ 38. The answer is 85.
+3. Calculate 20 $ 1. The answer is 21.
+4. Calculate 75 $ 36. The answer is 111.
+---
+Calculate the next problem and provide the answer:
+Calculate 27 $ 15? The correct answer is:
+
+1. Calculate 86 @ 69. The answer is 2635.
+2. Calculate 94 @ 54. The answer is 5920.
+3. Calculate 81 @ 67. The answer is 2072.
+4. Calculate 77 @ 34. The answer is 4773.
+---
+Calculate the next problem and provide the answer:
+Calculate 65 @ 47? The correct answer is:
+
+1. Calculate 51 # 39. The answer is 12.
+2. Calculate 72 # 32. The answer is 40.
+3. Calculate 11 # 11. The answer is 0.
+4. Calculate 26 # 2. The answer is 24.
+---
+Calculate the next problem and provide the answer:
+Calculate 16 # 10? The correct answer is:
+
+1. Calculate 22 @ 8. The answer is 420.
+2. Calculate 57 @ 56. The answer is 113.
+3. Calculate 97 @ 63. The answer is 5440.
+4. Calculate 72 @ 2. The answer is 5180.
+---
+Calculate the next problem and provide the answer:
+Calculate 40 @ 14? The correct answer is:
+
+1. Calculate 5 # 3. The answer is 2.
+2. Calculate 83 # 42. The answer is 41.
+3. Calculate 33 # 17. The answer is 16.
+4. Calculate 55 # 11. The answer is 44.
+---
+Calculate the next problem and provide the answer:
+Calculate 49 # 24? The correct answer is:
+
+1. Calculate 19 @ 10. The answer is 261.
+2. Calculate 59 @ 43. The answer is 1632.
+3. Calculate 78 @ 36. The answer is 4788.
+4. Calculate 44 @ 27. The answer is 1207.
+---
+Calculate the next problem and provide the answer:
+Calculate 7 @ 4? The correct answer is:
+
+1. Calculate 11 # 11. The answer is 0.
+2. Calculate 67 # 1. The answer is 66.
+3. Calculate 95 # 70. The answer is 25.
+4. Calculate 24 # 19. The answer is 5.
+---
+Calculate the next problem and provide the answer:
+Calculate 27 # 13? The correct answer is:
+
+1. Calculate 56 $ 4. The answer is 60.
+2. Calculate 42 $ 6. The answer is 48.
+3. Calculate 13 $ 7. The answer is 20.
+4. Calculate 53 $ 10. The answer is 63.
+---
+Calculate the next problem and provide the answer:
+Calculate 43 $ 32? The correct answer is:
+
+1. Calculate 82 # 39. The answer is 43.
+2. Calculate 27 # 22. The answer is 5.
+3. Calculate 32 # 7. The answer is 25.
+4. Calculate 95 # 25. The answer is 70.
+---
+Calculate the next problem and provide the answer:
+Calculate 12 # 8? The correct answer is:
+
+1. Calculate 34 @ 9. The answer is 1075.
+2. Calculate 36 @ 21. The answer is 855.
+3. Calculate 13 @ 10. The answer is 69.
+4. Calculate 43 @ 39. The answer is 328.
+---
+Calculate the next problem and provide the answer:
+Calculate 32 @ 24? The correct answer is:
+
+1. Calculate 15 $ 10. The answer is 25.
+2. Calculate 91 $ 8. The answer is 99.
+3. Calculate 67 $ 46. The answer is 113.
+4. Calculate 45 $ 27. The answer is 72.
+---
+Calculate the next problem and provide the answer:
+Calculate 26 $ 26? The correct answer is:
+
+1. Calculate 38 $ 38. The answer is 76.
+2. Calculate 79 $ 31. The answer is 110.
+3. Calculate 100 $ 48. The answer is 148.
+4. Calculate 11 $ 7. The answer is 18.
+---
+Calculate the next problem and provide the answer:
+Calculate 65 $ 17? The correct answer is:
+
+1. Calculate 63 @ 12. The answer is 3825.
+2. Calculate 72 @ 31. The answer is 4223.
+3. Calculate 78 @ 13. The answer is 5915.
+4. Calculate 100 @ 17. The answer is 9711.
+---
+Calculate the next problem and provide the answer:
+Calculate 7 @ 7? The correct answer is:
+
+1. Calculate 46 # 2. The answer is 44.
+2. Calculate 64 # 1. The answer is 63.
+3. Calculate 89 # 41. The answer is 48.
+4. Calculate 96 # 5. The answer is 91.
+---
+Calculate the next problem and provide the answer:
+Calculate 92 # 63? The correct answer is:
+
+1. Calculate 27 @ 25. The answer is 104.
+2. Calculate 33 @ 9. The answer is 1008.
+3. Calculate 37 @ 23. The answer is 840.
+4. Calculate 19 @ 2. The answer is 357.
+---
+Calculate the next problem and provide the answer:
+Calculate 62 @ 28? The correct answer is:
+
+1. Calculate 30 @ 3. The answer is 891.
+2. Calculate 15 @ 7. The answer is 176.
+3. Calculate 64 @ 9. The answer is 4015.
+4. Calculate 68 @ 41. The answer is 2943.
+---
+Calculate the next problem and provide the answer:
+Calculate 6 @ 2? The correct answer is:
+
+1. Calculate 39 # 3. The answer is 36.
+2. Calculate 89 # 22. The answer is 67.
+3. Calculate 30 # 19. The answer is 11.
+4. Calculate 6 # 2. The answer is 4.
+---
+Calculate the next problem and provide the answer:
+Calculate 79 # 29? The correct answer is:
+
+1. Calculate 28 $ 6. The answer is 34.
+2. Calculate 49 $ 48. The answer is 97.
+3. Calculate 38 $ 18. The answer is 56.
+4. Calculate 5 $ 2. The answer is 7.
+---
+Calculate the next problem and provide the answer:
+Calculate 71 $ 71? The correct answer is:
+
+1. Calculate 81 $ 70. The answer is 151.
+2. Calculate 38 $ 14. The answer is 52.
+3. Calculate 20 $ 8. The answer is 28.
+4. Calculate 48 $ 44. The answer is 92.
+---
+Calculate the next problem and provide the answer:
+Calculate 25 $ 19? The correct answer is:
+
+1. Calculate 44 # 1. The answer is 43.
+2. Calculate 62 # 28. The answer is 34.
+3. Calculate 40 # 28. The answer is 12.
+4. Calculate 15 # 8. The answer is 7.
+---
+Calculate the next problem and provide the answer:
+Calculate 70 # 62? The correct answer is:
+
+1. Calculate 20 @ 2. The answer is 396.
+2. Calculate 45 @ 17. The answer is 1736.
+3. Calculate 73 @ 60. The answer is 1729.
+4. Calculate 88 @ 31. The answer is 6783.
+---
+Calculate the next problem and provide the answer:
+Calculate 75 @ 25? The correct answer is:
+
+1. Calculate 90 @ 10. The answer is 8000.
+2. Calculate 94 @ 62. The answer is 4992.
+3. Calculate 60 @ 2. The answer is 3596.
+4. Calculate 44 @ 41. The answer is 255.
+---
+Calculate the next problem and provide the answer:
+Calculate 80 @ 33? The correct answer is:
+
+1. Calculate 86 $ 71. The answer is 157.
+2. Calculate 84 $ 19. The answer is 103.
+3. Calculate 12 $ 8. The answer is 20.
+4. Calculate 38 $ 21. The answer is 59.
+---
+Calculate the next problem and provide the answer:
+Calculate 16 $ 8? The correct answer is:
+
+1. Calculate 77 $ 57. The answer is 134.
+2. Calculate 14 $ 3. The answer is 17.
+3. Calculate 13 $ 7. The answer is 20.
+4. Calculate 65 $ 51. The answer is 116.
+---
+Calculate the next problem and provide the answer:
+Calculate 51 $ 10? The correct answer is:
+
+1. Calculate 34 @ 31. The answer is 195.
+2. Calculate 68 @ 28. The answer is 3840.
+3. Calculate 11 @ 2. The answer is 117.
+4. Calculate 22 @ 16. The answer is 228.
+---
+Calculate the next problem and provide the answer:
+Calculate 69 @ 40? The correct answer is:
+
+1. Calculate 72 # 10. The answer is 62.
+2. Calculate 45 # 1. The answer is 44.
+3. Calculate 99 # 81. The answer is 18.
+4. Calculate 7 # 6. The answer is 1.
+---
+Calculate the next problem and provide the answer:
+Calculate 12 # 8? The correct answer is:
+
+1. Calculate 91 $ 86. The answer is 177.
+2. Calculate 94 $ 16. The answer is 110.
+3. Calculate 11 $ 2. The answer is 13.
+4. Calculate 52 $ 3. The answer is 55.
+---
+Calculate the next problem and provide the answer:
+Calculate 47 $ 19? The correct answer is:
+
+1. Calculate 96 $ 51. The answer is 147.
+2. Calculate 46 $ 22. The answer is 68.
+3. Calculate 56 $ 31. The answer is 87.
+4. Calculate 39 $ 24. The answer is 63.
+---
+Calculate the next problem and provide the answer:
+Calculate 6 $ 3? The correct answer is:
+
+1. Calculate 44 # 13. The answer is 31.
+2. Calculate 54 # 34. The answer is 20.
+3. Calculate 40 # 39. The answer is 1.
+4. Calculate 54 # 5. The answer is 49.
+---
+Calculate the next problem and provide the answer:
+Calculate 22 # 15? The correct answer is:
+
+1. Calculate 78 @ 9. The answer is 6003.
+2. Calculate 24 @ 1. The answer is 575.
+3. Calculate 50 @ 8. The answer is 2436.
+4. Calculate 85 @ 50. The answer is 4725.
+---
+Calculate the next problem and provide the answer:
+Calculate 79 @ 28? The correct answer is:
+
+1. Calculate 57 # 12. The answer is 45.
+2. Calculate 99 # 28. The answer is 71.
+3. Calculate 19 # 8. The answer is 11.
+4. Calculate 25 # 8. The answer is 17.
+---
+Calculate the next problem and provide the answer:
+Calculate 24 # 11? The correct answer is:
+
+1. Calculate 40 @ 40. The answer is 0.
+2. Calculate 7 @ 4. The answer is 33.
+3. Calculate 37 @ 29. The answer is 528.
+4. Calculate 16 @ 5. The answer is 231.
+---
+Calculate the next problem and provide the answer:
+Calculate 42 @ 24? The correct answer is:
+
+1. Calculate 42 @ 36. The answer is 468.
+2. Calculate 47 @ 11. The answer is 2088.
+3. Calculate 56 @ 8. The answer is 3072.
+4. Calculate 87 @ 37. The answer is 6200.
+---
+Calculate the next problem and provide the answer:
+Calculate 19 @ 17? The correct answer is:
+
+1. Calculate 92 @ 82. The answer is 1740.
+2. Calculate 62 @ 26. The answer is 3168.
+3. Calculate 5 @ 2. The answer is 21.
+4. Calculate 68 @ 33. The answer is 3535.
+---
+Calculate the next problem and provide the answer:
+Calculate 21 @ 8? The correct answer is:
+
+1. Calculate 46 @ 44. The answer is 180.
+2. Calculate 58 @ 34. The answer is 2208.
+3. Calculate 68 @ 17. The answer is 4335.
+4. Calculate 37 @ 8. The answer is 1305.
+---
+Calculate the next problem and provide the answer:
+Calculate 48 @ 2? The correct answer is:
+
+1. Calculate 35 $ 4. The answer is 39.
+2. Calculate 74 $ 8. The answer is 82.
+3. Calculate 40 $ 22. The answer is 62.
+4. Calculate 94 $ 54. The answer is 148.
+---
+Calculate the next problem and provide the answer:
+Calculate 43 $ 4? The correct answer is:
+
+1. Calculate 93 @ 47. The answer is 6440.
+2. Calculate 57 @ 57. The answer is 0.
+3. Calculate 26 @ 4. The answer is 660.
+4. Calculate 40 @ 8. The answer is 1536.
+---
+Calculate the next problem and provide the answer:
+Calculate 19 @ 4? The correct answer is:
+
+1. Calculate 91 $ 79. The answer is 170.
+2. Calculate 22 $ 12. The answer is 34.
+3. Calculate 65 $ 32. The answer is 97.
+4. Calculate 13 $ 2. The answer is 15.
+---
+Calculate the next problem and provide the answer:
+Calculate 60 $ 8? The correct answer is:
+
+1. Calculate 97 # 91. The answer is 6.
+2. Calculate 17 # 17. The answer is 0.
+3. Calculate 17 # 6. The answer is 11.
+4. Calculate 95 # 35. The answer is 60.
+---
+Calculate the next problem and provide the answer:
+Calculate 19 # 19? The correct answer is:
+
+1. Calculate 60 @ 46. The answer is 1484.
+2. Calculate 6 @ 2. The answer is 32.
+3. Calculate 12 @ 5. The answer is 119.
+4. Calculate 59 @ 1. The answer is 3480.
+---
+Calculate the next problem and provide the answer:
+Calculate 95 @ 50? The correct answer is:
+
+1. Calculate 59 @ 19. The answer is 3120.
+2. Calculate 50 @ 20. The answer is 2100.
+3. Calculate 88 @ 37. The answer is 6375.
+4. Calculate 72 @ 6. The answer is 5148.
+---
+Calculate the next problem and provide the answer:
+Calculate 75 @ 55? The correct answer is:
+
+1. Calculate 55 # 40. The answer is 15.
+2. Calculate 37 # 14. The answer is 23.
+3. Calculate 12 # 1. The answer is 11.
+4. Calculate 72 # 29. The answer is 43.
+---
+Calculate the next problem and provide the answer:
+Calculate 92 # 53? The correct answer is:
+
+1. Calculate 25 @ 16. The answer is 369.
+2. Calculate 63 @ 20. The answer is 3569.
+3. Calculate 16 @ 3. The answer is 247.
+4. Calculate 95 @ 25. The answer is 8400.
+---
+Calculate the next problem and provide the answer:
+Calculate 90 @ 3? The correct answer is:
+

@@ -1,0 +1,1433 @@
+Question 1: 
+Calculate the next problem and provide the answer:
+Calculate 24 - 47? The correct answer is:
+
+Model's response for question 1: 23.
+
+The following is a list of problems and their answers.
+
+1. Calculate the next problem and provide the answer:
+Calculate 24 - 47?
+------------------------------------------
+Question 2: 
+Calculate the next problem and provide the answer:
+Calculate 43 - 95? The correct answer is:
+
+Model's response for question 2: 52.
+
+1. Calculate 836 / 38. The answer is 22.
+2. Calculate 66 + 9. The answer is 75.
+---
+Calculate the next problem and provide the answer:
+Calculate 43 - 95?
+------------------------------------------
+Question 3: 
+Calculate the next problem and provide the answer:
+Calculate 61 * 70? The correct answer is:
+
+Model's response for question 3: 4,235.
+
+The answer is:
+
+1. Calculate 85 + 23. The answer is 108.
+2. Calculate 74 + 75. The answer is 149.
+---
+Calculate the next problem and provide the answer:
+Calculate 61 * 70?
+------------------------------------------
+Question 4: 
+Calculate the next problem and provide the answer:
+Calculate 86 - 49? The correct answer is:
+
+Model's response for question 4: 37
+
+A:
+
+The answer is 3300 / 100.
+
+The correct answer is 3300 / 100 = 33.
+
+The correct answer is 33.
+
+The correct answer is 33.
+
+The correct answer is 33.
+
+The correct answer is 33.
+
+The correct
+------------------------------------------
+Question 5: 
+Calculate the next problem and provide the answer:
+Calculate 6478 / 79? The correct answer is:
+
+Model's response for question 5: 7.
+
+The answer is:
+------------------------------------------
+Question 6: 
+Calculate the next problem and provide the answer:
+Calculate 69 + 78? The correct answer is:
+
+Model's response for question 6: 147.
+
+The answer is 147.
+
+The correct answer is 147.
+
+The correct answer is 147.
+
+The correct answer is 147.
+
+The correct answer is 147.
+
+The correct answer is 147.
+
+The correct answer is 147.
+
+The correct answer is 147
+------------------------------------------
+Question 7: 
+Calculate the next problem and provide the answer:
+Calculate 54 / 18? The correct answer is:
+
+Model's response for question 7: 3.
+
+3. Calculate 54 / 18?
+------------------------------------------
+Question 8: 
+Calculate the next problem and provide the answer:
+Calculate 23 * 25? The correct answer is:
+
+Model's response for question 8: 575.
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+------------------------------------------
+Question 9: 
+Calculate the next problem and provide the answer:
+Calculate 62 - 4? The correct answer is:
+
+Model's response for question 9: 58.
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+------------------------------------------
+Question 10: 
+Calculate the next problem and provide the answer:
+Calculate 58 * 22? The correct answer is:
+
+Model's response for question 10: 1276.
+
+The answer is:
+------------------------------------------
+Question 11: 
+Calculate the next problem and provide the answer:
+Calculate 69 - 37? The correct answer is:
+
+Model's response for question 11: 32
+
+The answer is 32.
+
+The answer is 32.
+
+The answer is 32.
+
+The answer is 32.
+
+The answer is 32.
+
+The answer is 32.
+
+The answer is 32.
+
+The answer is 32.
+
+The answer is 32.
+------------------------------------------
+Question 12: 
+Calculate the next problem and provide the answer:
+Calculate 54 - 66? The correct answer is:
+
+Model's response for question 12: 12.
+
+The answer is:
+
+1. Calculate 1680 / 28. The answer is 60.
+2. Calculate 31 + 70. The answer is 101.
+---
+Calculate the next problem and provide the answer:
+Calculate 54 - 66?
+------------------------------------------
+Question 13: 
+Calculate the next problem and provide the answer:
+Calculate 10 + 47? The correct answer is:
+
+Model's response for question 13: 57.
+------------------------------------------
+Question 14: 
+Calculate the next problem and provide the answer:
+Calculate 91 - 67? The correct answer is:
+
+Model's response for question 14: 18.
+
+The answer is:
+------------------------------------------
+Question 15: 
+Calculate the next problem and provide the answer:
+Calculate 89 - 19? The correct answer is:
+
+Model's response for question 15: 70.
+------------------------------------------
+Question 16: 
+Calculate the next problem and provide the answer:
+Calculate 53 - 26? The correct answer is:
+
+Model's response for question 16: 27.
+
+The following is a list of the most common types of problems that students encounter in their math classes.
+
+1. How do I solve this problem?
+2. How do I get from here to there?
+3. How do I get from here to there?
+4. How do
+------------------------------------------
+Question 17: 
+Calculate the next problem and provide the answer:
+Calculate 40 * 74? The correct answer is:
+
+Model's response for question 17: 2960.
+
+The answer is:
+------------------------------------------
+Question 18: 
+Calculate the next problem and provide the answer:
+Calculate 7 + 8? The correct answer is:
+
+Model's response for question 18: 15.
+
+The answer is 15.
+
+The answer is 15.
+
+The answer is 15.
+
+The answer is 15.
+
+The answer is 15.
+
+The answer is 15.
+
+The answer is 15.
+
+The answer is 15.
+
+The answer is 15
+------------------------------------------
+Question 19: 
+Calculate the next problem and provide the answer:
+Calculate 87 + 92? The correct answer is:
+
+Model's response for question 19: 179.
+
+The answer is:
+
+1. Calculate 87 + 92. The answer is 179.
+2. Calculate 87 + 92. The answer is 179.
+---
+Calculate the next problem and provide the answer:
+Calculate 87 + 92?
+------------------------------------------
+Question 20: 
+Calculate the next problem and provide the answer:
+Calculate 48 - 98? The correct answer is:
+
+Model's response for question 20: 50.
+
+The answer is 50.
+
+The problem is:
+
+Calculate 48 - 98?
+------------------------------------------
+Question 21: 
+Calculate the next problem and provide the answer:
+Calculate 249 / 3? The correct answer is:
+
+Model's response for question 21: 83.
+
+3. Calculate the next problem and provide the answer:
+Calculate (2 * 3) / 4?
+------------------------------------------
+Question 22: 
+Calculate the next problem and provide the answer:
+Calculate 624 / 39? The correct answer is:
+
+Model's response for question 22: A:
+------------------------------------------
+Question 23: 
+Calculate the next problem and provide the answer:
+Calculate 296 / 74? The correct answer is:
+
+Model's response for question 23: A:
+------------------------------------------
+Question 24: 
+Calculate the next problem and provide the answer:
+Calculate 94 * 79? The correct answer is:
+
+Model's response for question 24: 7666.
+
+The answer is:
+------------------------------------------
+Question 25: 
+Calculate the next problem and provide the answer:
+Calculate 306 / 9? The correct answer is:
+
+Model's response for question 25: 3. Calculate the next problem and provide the answer:
+Calculate 306 / 9?
+------------------------------------------
+Question 26: 
+Calculate the next problem and provide the answer:
+Calculate 7310 / 85? The correct answer is:
+
+Model's response for question 26: 8.
+------------------------------------------
+Question 27: 
+Calculate the next problem and provide the answer:
+Calculate 1260 / 30? The correct answer is:
+
+Model's response for question 27: 42.
+
+The answer is 42.
+
+The answer is 42.
+
+The answer is 42.
+
+The answer is 42.
+
+The answer is 42.
+
+The answer is 42.
+
+The answer is 42.
+
+The answer is 42.
+
+The answer is 42
+------------------------------------------
+Question 28: 
+Calculate the next problem and provide the answer:
+Calculate 114 / 6? The correct answer is:
+
+Model's response for question 28: A:
+------------------------------------------
+Question 29: 
+Calculate the next problem and provide the answer:
+Calculate 676 / 52? The correct answer is:
+
+Model's response for question 29: 12.
+
+The answer is:
+
+1. Calculate 1440 / 15. The answer is 96.
+2. Calculate 92 - 88. The answer is 4.
+---
+Calculate the next problem and provide the answer:
+Calculate 676 / 52?
+------------------------------------------
+Question 30: 
+Calculate the next problem and provide the answer:
+Calculate 32 + 84? The correct answer is:
+
+Model's response for question 30: 116.
+
+The answer is 116.
+
+The answer is 116.
+
+The answer is 116.
+
+The answer is 116.
+
+The answer is 116.
+
+The answer is 116.
+
+The answer is 116.
+
+The answer is 116.
+
+The answer is 116
+------------------------------------------
+Question 31: 
+Calculate the next problem and provide the answer:
+Calculate 46 * 26? The correct answer is:
+
+Model's response for question 31: ---
+Calculate the next problem and provide the answer:
+Calculate (2 * 3) * 4?
+------------------------------------------
+Question 32: 
+Calculate the next problem and provide the answer:
+Calculate 16 - 6? The correct answer is:
+
+Model's response for question 32: 10
+
+The answer is 10.
+
+The answer is 10.
+
+The answer is 10.
+
+The answer is 10.
+
+The answer is 10.
+
+The answer is 10.
+
+The answer is 10.
+
+The answer is 10.
+
+The answer is 10.
+------------------------------------------
+Question 33: 
+Calculate the next problem and provide the answer:
+Calculate 21 + 38? The correct answer is:
+
+Model's response for question 33: 59.
+
+The answer is 59.
+
+The answer is 59.
+
+The answer is 59.
+
+The answer is 59.
+
+The answer is 59.
+
+The answer is 59.
+
+The answer is 59.
+
+The answer is 59.
+
+The answer is 59
+------------------------------------------
+Question 34: 
+Calculate the next problem and provide the answer:
+Calculate 1440 / 45? The correct answer is:
+
+Model's response for question 34: 30.
+
+The answer is 30.
+
+The answer is 30.
+
+The answer is 30.
+
+The answer is 30.
+
+The answer is 30.
+
+The answer is 30.
+
+The answer is 30.
+
+The answer is 30.
+
+The answer is 30
+------------------------------------------
+Question 35: 
+Calculate the next problem and provide the answer:
+Calculate 30 * 43? The correct answer is:
+
+Model's response for question 35: 1230.
+
+The answer is:
+
+1. Calculate 48 + 23. The answer is 71.
+2. Calculate 46 - 18. The answer is 28.
+---
+Calculate the next problem and provide the answer:
+Calculate 30 * 43?
+------------------------------------------
+Question 36: 
+Calculate the next problem and provide the answer:
+Calculate 9700 / 100? The correct answer is:
+
+Model's response for question 36: 100.
+
+The answer is:
+------------------------------------------
+Question 37: 
+Calculate the next problem and provide the answer:
+Calculate 71 * 32? The correct answer is:
+
+Model's response for question 37: 2,304.
+
+The answer is:
+------------------------------------------
+Question 38: 
+Calculate the next problem and provide the answer:
+Calculate 2703 / 51? The correct answer is:
+
+Model's response for question 38: A:
+------------------------------------------
+Question 39: 
+Calculate the next problem and provide the answer:
+Calculate 71 - 36? The correct answer is:
+
+Model's response for question 39: 35
+
+The answer is 35.
+
+The correct answer is 35.
+
+The correct answer is 35.
+
+The correct answer is 35.
+
+The correct answer is 35.
+
+The correct answer is 35.
+
+The correct answer is 35.
+
+The correct answer is 35.
+------------------------------------------
+Question 40: 
+Calculate the next problem and provide the answer:
+Calculate 32 * 67? The correct answer is:
+
+Model's response for question 40: 2144.
+
+The answer is:
+
+1. Calculate 91 + 32. The answer is 123.
+2. Calculate 99 + 32. The answer is 131.
+---
+Calculate the next problem and provide the answer:
+Calculate 32 * 67?
+------------------------------------------
+Question 41: 
+Calculate the next problem and provide the answer:
+Calculate 16 + 89? The correct answer is:
+
+Model's response for question 41: 95.
+
+The answer is 95.
+
+The answer is 95.
+
+The answer is 95.
+
+The answer is 95.
+
+The answer is 95.
+
+The answer is 95.
+
+The answer is 95.
+
+The answer is 95.
+
+The answer is 95
+------------------------------------------
+Question 42: 
+Calculate the next problem and provide the answer:
+Calculate 55 + 48? The correct answer is:
+
+Model's response for question 42: 103.
+
+The answer is:
+
+1. Calculate 7 + 7. The answer is 14.
+2. Calculate 1121 / 59. The answer is 19.
+---
+Calculate the next problem and provide the answer:
+Calculate 55 + 48?
+------------------------------------------
+Question 43: 
+Calculate the next problem and provide the answer:
+Calculate 2660 / 35? The correct answer is:
+
+Model's response for question 43: A:
+------------------------------------------
+Question 44: 
+Calculate the next problem and provide the answer:
+Calculate 98 * 36? The correct answer is:
+
+Model's response for question 44: ---
+
+The answer is:
+---
+
+The answer is:
+---
+
+The answer is:
+---
+
+The answer is:
+---
+
+The answer is:
+---
+
+The answer is:
+---
+
+The answer is:
+---
+
+The answer is:
+------------------------------------------
+Question 45: 
+Calculate the next problem and provide the answer:
+Calculate 69 + 65? The correct answer is:
+
+Model's response for question 45: 134.
+
+The answer is:
+
+1. Calculate 760 / 8. The answer is 95.
+2. Calculate 19 * 72. The answer is 1368.
+---
+Calculate the next problem and provide the answer:
+Calculate 69 + 65?
+------------------------------------------
+Question 46: 
+Calculate the next problem and provide the answer:
+Calculate 26 * 44? The correct answer is:
+
+Model's response for question 46: 1144.
+
+The answer is:
+------------------------------------------
+Question 47: 
+Calculate the next problem and provide the answer:
+Calculate 21 / 21? The correct answer is:
+
+Model's response for question 47: 1.
+
+The answer is 1.
+
+The answer is 1.
+
+The answer is 1.
+
+The answer is 1.
+
+The answer is 1.
+
+The answer is 1.
+
+The answer is 1.
+
+The answer is 1.
+
+The answer is 1
+------------------------------------------
+Question 48: 
+Calculate the next problem and provide the answer:
+Calculate 73 * 71? The correct answer is:
+
+Model's response for question 48: 5,041.
+
+The answer is:
+
+73 * 71 = 5,041
+------------------------------------------
+Question 49: 
+Calculate the next problem and provide the answer:
+Calculate 68 * 69? The correct answer is:
+
+Model's response for question 49: 4,732.
+
+The answer is:
+------------------------------------------
+Question 50: 
+Calculate the next problem and provide the answer:
+Calculate 25 + 7? The correct answer is:
+
+Model's response for question 50: 32.
+
+The answer is:
+------------------------------------------
+Question 51: 
+Calculate the next problem and provide the answer:
+Calculate 8 - 97? The correct answer is:
+
+Model's response for question 51: -89.
+------------------------------------------
+Question 52: 
+Calculate the next problem and provide the answer:
+Calculate 100 + 65? The correct answer is:
+
+Model's response for question 52: 165.
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+------------------------------------------
+Question 53: 
+Calculate the next problem and provide the answer:
+Calculate 36 / 36? The correct answer is:
+
+Model's response for question 53: 0.
+
+The answer is:
+------------------------------------------
+Question 54: 
+Calculate the next problem and provide the answer:
+Calculate 30 + 34? The correct answer is:
+
+Model's response for question 54: 64.
+
+The answer is:
+
+1. Calculate 2223 / 57. The answer is 39.
+2. Calculate 2337 / 41. The answer is 57.
+---
+Calculate the next problem and provide the answer:
+Calculate 30 + 34?
+------------------------------------------
+Question 55: 
+Calculate the next problem and provide the answer:
+Calculate 67 - 92? The correct answer is:
+
+Model's response for question 55: 25.
+
+The answer is:
+
+1. Calculate 59 - 37. The answer is 22.
+2. Calculate 41 - 93. The answer is -52.
+---
+Calculate the next problem and provide the answer:
+Calculate 67 - 92?
+------------------------------------------
+Question 56: 
+Calculate the next problem and provide the answer:
+Calculate 3330 / 45? The correct answer is:
+
+Model's response for question 56: 765.
+
+The answer is:
+------------------------------------------
+Question 57: 
+Calculate the next problem and provide the answer:
+Calculate 83 - 44? The correct answer is:
+
+Model's response for question 57: 39.
+
+1. Calculate the sum of the first 10 natural numbers. The answer is: 55.
+2. Calculate the sum of the first 10 natural numbers. The answer is: 55.
+---
+Calculate the next problem and provide the answer:
+Calculate (83 - 44) * 2. The
+------------------------------------------
+Question 58: 
+Calculate the next problem and provide the answer:
+Calculate 25 - 57? The correct answer is:
+
+Model's response for question 58: 32.
+
+The following is a list of the most common math problems that students encounter in high school.
+
+1. Calculate the area of a rectangle with sides of length 5 and 7. The answer is 25.
+2. Calculate the area of a rectangle with sides of length 5 and 7. The answer
+------------------------------------------
+Question 59: 
+Calculate the next problem and provide the answer:
+Calculate 70 - 68? The correct answer is:
+
+Model's response for question 59: -2.
+
+The answer is -2.
+
+The answer is -2.
+
+The answer is -2.
+
+The answer is -2.
+
+The answer is -2.
+
+The answer is -2.
+
+The answer is -2.
+
+The answer is
+------------------------------------------
+Question 60: 
+Calculate the next problem and provide the answer:
+Calculate 95 * 91? The correct answer is:
+
+Model's response for question 60: 8,935.
+
+The answer is:
+------------------------------------------
+Question 61: 
+Calculate the next problem and provide the answer:
+Calculate 72 * 37? The correct answer is:
+
+Model's response for question 61: 2646.
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+------------------------------------------
+Question 62: 
+Calculate the next problem and provide the answer:
+Calculate 40 * 33? The correct answer is:
+
+Model's response for question 62: 1320.
+
+The answer is:
+
+1. Calculate 64 * 40. The answer is 2560.
+2. Calculate 4116 / 49. The answer is 84.
+---
+Calculate the next problem and provide the answer:
+Calculate 40 * 33?
+------------------------------------------
+Question 63: 
+Calculate the next problem and provide the answer:
+Calculate 40 + 28? The correct answer is:
+
+Model's response for question 63: 68.
+
+The answer is 68.
+
+The answer is 68.
+
+The answer is 68.
+
+The answer is 68.
+
+The answer is 68.
+
+The answer is 68.
+
+The answer is 68.
+
+The answer is 68.
+
+The answer is 68
+------------------------------------------
+Question 64: 
+Calculate the next problem and provide the answer:
+Calculate 96 - 70? The correct answer is:
+
+Model's response for question 64: 26.
+
+The answer is 26.
+
+The correct answer is 26.
+
+The correct answer is 26.
+
+The correct answer is 26.
+
+The correct answer is 26.
+
+The correct answer is 26.
+
+The correct answer is 26.
+
+The correct answer is 26
+------------------------------------------
+Question 65: 
+Calculate the next problem and provide the answer:
+Calculate 32 + 28? The correct answer is:
+
+Model's response for question 65: 60.
+
+The answer is 60.
+
+The answer is 60.
+
+The answer is 60.
+
+The answer is 60.
+
+The answer is 60.
+
+The answer is 60.
+
+The answer is 60.
+
+The answer is 60.
+
+The answer is 60
+------------------------------------------
+Question 66: 
+Calculate the next problem and provide the answer:
+Calculate 62 * 59? The correct answer is:
+
+Model's response for question 66: 3,026.
+
+The answer is:
+------------------------------------------
+Question 67: 
+Calculate the next problem and provide the answer:
+Calculate 57 * 98? The correct answer is:
+
+Model's response for question 67: 5874.
+
+The answer is:
+------------------------------------------
+Question 68: 
+Calculate the next problem and provide the answer:
+Calculate 2002 / 77? The correct answer is:
+
+Model's response for question 68: A:
+------------------------------------------
+Question 69: 
+Calculate the next problem and provide the answer:
+Calculate 1539 / 81? The correct answer is:
+
+Model's response for question 69: 18.
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+------------------------------------------
+Question 70: 
+Calculate the next problem and provide the answer:
+Calculate 61 * 41? The correct answer is:
+
+Model's response for question 70: 2561.
+
+The answer is:
+------------------------------------------
+Question 71: 
+Calculate the next problem and provide the answer:
+Calculate 59 * 91? The correct answer is:
+
+Model's response for question 71: 5,913.
+
+The answer is:
+
+1. Calculate 6 + 7. The answer is 13.
+2. Calculate 294 / 42. The answer is 7.
+---
+Calculate the next problem and provide the answer:
+Calculate 59 * 91?
+------------------------------------------
+Question 72: 
+Calculate the next problem and provide the answer:
+Calculate 69 * 18? The correct answer is:
+
+Model's response for question 72: 1242.
+------------------------------------------
+Question 73: 
+Calculate the next problem and provide the answer:
+Calculate 56 * 67? The correct answer is:
+
+Model's response for question 73: 3,704.
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+------------------------------------------
+Question 74: 
+Calculate the next problem and provide the answer:
+Calculate 76 - 2? The correct answer is:
+
+Model's response for question 74: 74.
+------------------------------------------
+Question 75: 
+Calculate the next problem and provide the answer:
+Calculate 16 - 98? The correct answer is:
+
+Model's response for question 75: 82.
+
+The answer is:
+
+1. Calculate 3569 / 43. The answer is 83.
+2. Calculate 2093 / 91. The answer is 23.
+---
+Calculate the next problem and provide the answer:
+Calculate 16 - 98?
+------------------------------------------
+Question 76: 
+Calculate the next problem and provide the answer:
+Calculate 6 * 15? The correct answer is:
+
+Model's response for question 76: 90.
+
+The answer is:
+
+1. Calculate 100 - 83. The answer is 17.
+2. Calculate 95 * 50. The correct answer is 4750.
+---
+Calculate the next problem and provide the answer:
+Calculate 6 * 15?
+------------------------------------------
+Question 77: 
+Calculate the next problem and provide the answer:
+Calculate 66 - 64? The correct answer is:
+
+Model's response for question 77: 2.
+
+The answer is:
+------------------------------------------
+Question 78: 
+Calculate the next problem and provide the answer:
+Calculate 696 / 24? The correct answer is:
+
+Model's response for question 78: 28.
+
+The answer is 28.
+
+The answer is 28.
+
+The answer is 28.
+
+The answer is 28.
+
+The answer is 28.
+
+The answer is 28.
+
+The answer is 28.
+
+The answer is 28.
+
+The answer is 28
+------------------------------------------
+Question 79: 
+Calculate the next problem and provide the answer:
+Calculate 4368 / 84? The correct answer is:
+
+Model's response for question 79: A:
+
+The answer is:
+
+$4368/84 = 52.5$
+
+The reason is that $84$ is a multiple of $4$ and $52.5$ is a multiple of $5$.
+
+A:
+
+The answer is:
+
+$
+------------------------------------------
+Question 80: 
+Calculate the next problem and provide the answer:
+Calculate 2 + 68? The correct answer is:
+
+Model's response for question 80: 70.
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+------------------------------------------
+Question 81: 
+Calculate the next problem and provide the answer:
+Calculate 20 * 36? The correct answer is:
+
+Model's response for question 81: 720.
+
+The answer is 720.
+
+1. Calculate 34 * 1. The answer is 34.
+2. Calculate 94 * 83. The answer is 7802.
+---
+Calculate the next problem and provide the answer:
+Calculate 20 * 36?
+------------------------------------------
+Question 82: 
+Calculate the next problem and provide the answer:
+Calculate 1134 / 81? The correct answer is:
+
+Model's response for question 82: A:
+------------------------------------------
+Question 83: 
+Calculate the next problem and provide the answer:
+Calculate 4355 / 65? The correct answer is:
+
+Model's response for question 83: The answer is:
+------------------------------------------
+Question 84: 
+Calculate the next problem and provide the answer:
+Calculate 100 + 57? The correct answer is:
+
+Model's response for question 84: 57 + 100 = 157.
+
+The answer is 157.
+
+The correct answer is 157.
+
+The correct answer is 157.
+
+The correct answer is 157.
+
+The correct answer is 157.
+
+The correct answer is 157.
+
+The correct answer is 157.
+
+The
+------------------------------------------
+Question 85: 
+Calculate the next problem and provide the answer:
+Calculate 79 - 51? The correct answer is:
+
+Model's response for question 85: 28.
+
+The answer is:
+------------------------------------------
+Question 86: 
+Calculate the next problem and provide the answer:
+Calculate 63 * 70? The correct answer is:
+
+Model's response for question 86: 4200.
+
+The answer is:
+
+1. Calculate 28 / 7. The answer is 4.
+2. Calculate 7400 / 100. The answer is 74.
+---
+Calculate the next problem and provide the answer:
+Calculate 63 * 70?
+------------------------------------------
+Question 87: 
+Calculate the next problem and provide the answer:
+Calculate 36 * 74? The correct answer is:
+
+Model's response for question 87: 2592.
+
+The answer is:
+
+1. Calculate 35 + 19. The answer is 54.
+2. Calculate 11 + 74. The answer is 85.
+---
+Calculate the next problem and provide the answer:
+Calculate 36 * 74?
+------------------------------------------
+Question 88: 
+Calculate the next problem and provide the answer:
+Calculate 1064 / 38? The correct answer is:
+
+Model's response for question 88: 27.
+
+The answer is 27.
+
+The correct answer is 27.
+
+The correct answer is 27.
+
+The correct answer is 27.
+
+The correct answer is 27.
+
+The correct answer is 27.
+
+The correct answer is 27.
+
+The correct answer is 27
+------------------------------------------
+Question 89: 
+Calculate the next problem and provide the answer:
+Calculate 85 + 23? The correct answer is:
+
+Model's response for question 89: 108.
+------------------------------------------
+Question 90: 
+Calculate the next problem and provide the answer:
+Calculate 962 / 37? The correct answer is:
+
+Model's response for question 90: 25.
+
+The answer is 25.
+
+The correct answer is 25.
+
+The correct answer is 25.
+
+The correct answer is 25.
+
+The correct answer is 25.
+
+The correct answer is 25.
+
+The correct answer is 25.
+
+The correct answer is 25
+------------------------------------------
+Question 91: 
+Calculate the next problem and provide the answer:
+Calculate 89 * 59? The correct answer is:
+
+Model's response for question 91: 5,923.
+
+The answer is:
+------------------------------------------
+Question 92: 
+Calculate the next problem and provide the answer:
+Calculate 5580 / 62? The correct answer is:
+
+Model's response for question 92: 9.
+
+The answer is 9.
+
+The answer is 9.
+
+The answer is 9.
+
+The answer is 9.
+
+The answer is 9.
+
+The answer is 9.
+
+The answer is 9.
+
+The answer is 9.
+
+The answer is 9
+------------------------------------------
+Question 93: 
+Calculate the next problem and provide the answer:
+Calculate 41 - 96? The correct answer is:
+
+Model's response for question 93: 55.
+
+The answer is 55.
+
+The answer is 55.
+
+The answer is 55.
+
+The answer is 55.
+
+The answer is 55.
+
+The answer is 55.
+
+The answer is 55.
+
+The answer is 55.
+
+The answer is 55
+------------------------------------------
+Question 94: 
+Calculate the next problem and provide the answer:
+Calculate 612 / 17? The correct answer is:
+
+Model's response for question 94: The answer is:
+
+---
+
+The answer is:
+
+---
+
+The answer is:
+
+---
+
+The answer is:
+
+---
+
+The answer is:
+
+---
+
+The answer is:
+
+---
+
+The answer is:
+
+---
+------------------------------------------
+Question 95: 
+Calculate the next problem and provide the answer:
+Calculate 48 + 29? The correct answer is:
+
+Model's response for question 95: 77.
+
+The answer is:
+------------------------------------------
+Question 96: 
+Calculate the next problem and provide the answer:
+Calculate 89 + 58? The correct answer is:
+
+Model's response for question 96: 147.
+
+The answer is:
+
+1. Calculate 13 - 8. The answer is 5.
+2. Calculate 288 / 3. The answer is 96.
+---
+Calculate the next problem and provide the answer:
+Calculate 89 + 58?
+------------------------------------------
+Question 97: 
+Calculate the next problem and provide the answer:
+Calculate 1 + 64? The correct answer is:
+
+Model's response for question 97: 65.
+
+The answer is:
+
+1 + 64 = 65
+------------------------------------------
+Question 98: 
+Calculate the next problem and provide the answer:
+Calculate 90 - 85? The correct answer is:
+
+Model's response for question 98: 5
+
+3. Calculate the next problem and provide the answer:
+Calculate 90 - 85?
+------------------------------------------
+Question 99: 
+Calculate the next problem and provide the answer:
+Calculate 69 * 79? The correct answer is:
+
+Model's response for question 99: 5,941.
+
+The answer is 5,941.
+
+The correct answer is 5,941.
+
+The correct answer is 5,941.
+
+The correct answer is 5,941.
+
+The correct answer is 5,941.
+
+The correct answer
+------------------------------------------
+Question 100: 
+Calculate the next problem and provide the answer:
+Calculate 50 + 30? The correct answer is:
+
+Model's response for question 100: 80.
+
+The answer is:
+------------------------------------------

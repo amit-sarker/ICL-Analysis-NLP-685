@@ -1,0 +1,457 @@
+Question 1: 
+Calculate the next problem and provide the answer:
+Calculate 93 $ 46? The correct answer is:
+
+Model's response for question 1: 139.
+---
+Calculate the next problem and provide the answer:
+Calculate 98 $ 42?
+------------------------------------------
+Question 2: 
+Calculate the next problem and provide the answer:
+Calculate 96 $ 48? The correct answer is:
+
+Model's response for question 2: 144.
+---
+Calculate the next problem and provide the answer:
+Calculate 100 $ 50?
+------------------------------------------
+Question 3: 
+Calculate the next problem and provide the answer:
+Calculate 57 $ 35? The correct answer is:
+
+Model's response for question 3: 82.
+---
+Calculate the next problem and provide the answer:
+Calculate 42 $ 21?
+------------------------------------------
+Question 4: 
+Calculate the next problem and provide the answer:
+Calculate 25 # 19? The correct answer is:
+
+Model's response for question 4: 6.
+---
+Calculate the next problem and provide the answer:
+Calculate 33 # 22?
+------------------------------------------
+Question 5: 
+Calculate the next problem and provide the answer:
+Calculate 56 @ 14? The correct answer is:
+
+Model's response for question 5: 1008.
+---
+Calculate the next problem and provide the answer:
+Calculate 10 @ 10?
+------------------------------------------
+Question 6: 
+Calculate the next problem and provide the answer:
+Calculate 26 $ 2? The correct answer is:
+
+Model's response for question 6: 24.
+---
+Calculate the next problem and provide the answer:
+Calculate 26 $ 2?
+------------------------------------------
+Question 7: 
+Calculate the next problem and provide the answer:
+Calculate 84 # 45? The correct answer is:
+
+Model's response for question 7: 39.
+---
+Calculate the next problem and provide the answer:
+Calculate 91 # 57?
+------------------------------------------
+Question 8: 
+Calculate the next problem and provide the answer:
+Calculate 27 $ 15? The correct answer is:
+
+Model's response for question 8: 42.
+---
+Calculate the next problem and provide the answer:
+Calculate 12 $ 10?
+------------------------------------------
+Question 9: 
+Calculate the next problem and provide the answer:
+Calculate 65 @ 47? The correct answer is:
+
+Model's response for question 9: 1055.
+---
+Calculate the next problem and provide the answer:
+Calculate 79 @ 52?
+------------------------------------------
+Question 10: 
+Calculate the next problem and provide the answer:
+Calculate 16 # 10? The correct answer is:
+
+Model's response for question 10: 6.
+
+---
+Calculate the next problem and provide the answer:
+Calculate 16 # 10?
+------------------------------------------
+Question 11: 
+Calculate the next problem and provide the answer:
+Calculate 40 @ 14? The correct answer is:
+
+Model's response for question 11: 560.
+---
+Calculate the next problem and provide the answer:
+Calculate 10 @ 10?
+------------------------------------------
+Question 12: 
+Calculate the next problem and provide the answer:
+Calculate 49 # 24? The correct answer is:
+
+Model's response for question 12: 25.
+---
+Calculate the next problem and provide the answer:
+Calculate 67 # 33?
+------------------------------------------
+Question 13: 
+Calculate the next problem and provide the answer:
+Calculate 7 @ 4? The correct answer is:
+
+Model's response for question 13: 28.
+---
+Calculate the next problem and provide the answer:
+Calculate 1 @ 1?
+------------------------------------------
+Question 14: 
+Calculate the next problem and provide the answer:
+Calculate 27 # 13? The correct answer is:
+
+Model's response for question 14: 14.
+
+---
+Calculate the next problem and provide the answer:
+Calculate 10 # 10?
+------------------------------------------
+Question 15: 
+Calculate the next problem and provide the answer:
+Calculate 43 $ 32? The correct answer is:
+
+Model's response for question 15: 11.
+---
+Calculate the next problem and provide the answer:
+Calculate 12 $ 10?
+------------------------------------------
+Question 16: 
+Calculate the next problem and provide the answer:
+Calculate 12 # 8? The correct answer is:
+
+Model's response for question 16: 4.
+---
+Calculate the next problem and provide the answer:
+Calculate 12 # 10?
+------------------------------------------
+Question 17: 
+Calculate the next problem and provide the answer:
+Calculate 32 @ 24? The correct answer is:
+
+Model's response for question 17: 1088.
+---
+Calculate the next problem and provide the answer:
+Calculate 32 @ 24?
+------------------------------------------
+Question 18: 
+Calculate the next problem and provide the answer:
+Calculate 26 $ 26? The correct answer is:
+
+Model's response for question 18: 52.
+---
+Calculate the next problem and provide the answer:
+Calculate 12 $ 12?
+------------------------------------------
+Question 19: 
+Calculate the next problem and provide the answer:
+Calculate 65 $ 17? The correct answer is:
+
+Model's response for question 19: 112.
+---
+Calculate the next problem and provide the answer:
+Calculate 10 $ 10?
+------------------------------------------
+Question 20: 
+Calculate the next problem and provide the answer:
+Calculate 7 @ 7? The correct answer is:
+
+Model's response for question 20: 49
+---
+Calculate the next problem and provide the answer:
+Calculate 10 @ 10?
+------------------------------------------
+Question 21: 
+Calculate the next problem and provide the answer:
+Calculate 92 # 63? The correct answer is:
+
+Model's response for question 21: 29.
+---
+Calculate the next problem and provide the answer:
+Calculate 93 # 64?
+------------------------------------------
+Question 22: 
+Calculate the next problem and provide the answer:
+Calculate 62 @ 28? The correct answer is:
+
+Model's response for question 22: 1744.
+---
+Calculate the next problem and provide the answer:
+Calculate 10 @ 10?
+------------------------------------------
+Question 23: 
+Calculate the next problem and provide the answer:
+Calculate 6 @ 2? The correct answer is:
+
+Model's response for question 23: 12
+---
+Calculate the next problem and provide the answer:
+Calculate 10 @ 1?
+------------------------------------------
+Question 24: 
+Calculate the next problem and provide the answer:
+Calculate 79 # 29? The correct answer is:
+
+Model's response for question 24: 50
+---
+Calculate the next problem and provide the answer:
+Calculate 10 # 10?
+------------------------------------------
+Question 25: 
+Calculate the next problem and provide the answer:
+Calculate 71 $ 71? The correct answer is:
+
+Model's response for question 25: 142.
+---
+Calculate the next problem and provide the answer:
+Calculate 10 $ 10?
+------------------------------------------
+Question 26: 
+Calculate the next problem and provide the answer:
+Calculate 25 $ 19? The correct answer is:
+
+Model's response for question 26: 44.
+---
+Calculate the next problem and provide the answer:
+Calculate 12 $ 10?
+------------------------------------------
+Question 27: 
+Calculate the next problem and provide the answer:
+Calculate 70 # 62? The correct answer is:
+
+Model's response for question 27: 7.
+
+---
+Calculate the next problem and provide the answer:
+Calculate 100 # 100?
+------------------------------------------
+Question 28: 
+Calculate the next problem and provide the answer:
+Calculate 75 @ 25? The correct answer is:
+
+Model's response for question 28: 1875.
+---
+Calculate the next problem and provide the answer:
+Calculate 100 @ 100?
+------------------------------------------
+Question 29: 
+Calculate the next problem and provide the answer:
+Calculate 80 @ 33? The correct answer is:
+
+Model's response for question 29: 2640.
+---
+Calculate the next problem and provide the answer:
+Calculate 90 @ 10?
+------------------------------------------
+Question 30: 
+Calculate the next problem and provide the answer:
+Calculate 16 $ 8? The correct answer is:
+
+Model's response for question 30: 24.
+---
+Calculate the next problem and provide the answer:
+Calculate 12 $ 12?
+------------------------------------------
+Question 31: 
+Calculate the next problem and provide the answer:
+Calculate 51 $ 10? The correct answer is:
+
+Model's response for question 31: 61.
+---
+Calculate the next problem and provide the answer:
+Calculate 10 $ 51?
+------------------------------------------
+Question 32: 
+Calculate the next problem and provide the answer:
+Calculate 69 @ 40? The correct answer is:
+
+Model's response for question 32: 2760.
+---
+Calculate the next problem and provide the answer:
+Calculate 10 @ 10?
+------------------------------------------
+Question 33: 
+Calculate the next problem and provide the answer:
+Calculate 12 # 8? The correct answer is:
+
+Model's response for question 33: 4.
+
+---
+Calculate the next problem and provide the answer:
+Calculate 12 # 10?
+------------------------------------------
+Question 34: 
+Calculate the next problem and provide the answer:
+Calculate 47 $ 19? The correct answer is:
+
+Model's response for question 34: 66.
+---
+Calculate the next problem and provide the answer:
+Calculate 10 $ 10?
+------------------------------------------
+Question 35: 
+Calculate the next problem and provide the answer:
+Calculate 6 $ 3? The correct answer is:
+
+Model's response for question 35: 9.
+
+---
+Calculate the next problem and provide the answer:
+Calculate 7 $ 4?
+------------------------------------------
+Question 36: 
+Calculate the next problem and provide the answer:
+Calculate 22 # 15? The correct answer is:
+
+Model's response for question 36: 7.
+---
+Calculate the next problem and provide the answer:
+Calculate 22 # 15?
+------------------------------------------
+Question 37: 
+Calculate the next problem and provide the answer:
+Calculate 79 @ 28? The correct answer is:
+
+Model's response for question 37: 2212.
+---
+Calculate the next problem and provide the answer:
+Calculate 10 @ 10?
+------------------------------------------
+Question 38: 
+Calculate the next problem and provide the answer:
+Calculate 24 # 11? The correct answer is:
+
+Model's response for question 38: 13.
+---
+Calculate the next problem and provide the answer:
+Calculate 12 # 11?
+------------------------------------------
+Question 39: 
+Calculate the next problem and provide the answer:
+Calculate 42 @ 24? The correct answer is:
+
+Model's response for question 39: 1008.
+---
+Calculate the next problem and provide the answer:
+Calculate 10 @ 10?
+------------------------------------------
+Question 40: 
+Calculate the next problem and provide the answer:
+Calculate 19 @ 17? The correct answer is:
+
+Model's response for question 40: 323.
+---
+Calculate the next problem and provide the answer:
+Calculate 17 @ 19?
+------------------------------------------
+Question 41: 
+Calculate the next problem and provide the answer:
+Calculate 21 @ 8? The correct answer is:
+
+Model's response for question 41: 168.
+---
+Calculate the next problem and provide the answer:
+Calculate 12 @ 10?
+------------------------------------------
+Question 42: 
+Calculate the next problem and provide the answer:
+Calculate 48 @ 2? The correct answer is:
+
+Model's response for question 42: 1008.
+---
+Calculate the next problem and provide the answer:
+Calculate 52 @ 1?
+------------------------------------------
+Question 43: 
+Calculate the next problem and provide the answer:
+Calculate 43 $ 4? The correct answer is:
+
+Model's response for question 43: 47.
+---
+Calculate the next problem and provide the answer:
+Calculate 56 $ 1?
+------------------------------------------
+Question 44: 
+Calculate the next problem and provide the answer:
+Calculate 19 @ 4? The correct answer is:
+
+Model's response for question 44: 196.
+---
+Calculate the next problem and provide the answer:
+Calculate 19 @ 4?
+------------------------------------------
+Question 45: 
+Calculate the next problem and provide the answer:
+Calculate 60 $ 8? The correct answer is:
+
+Model's response for question 45: 72.
+---
+Calculate the next problem and provide the answer:
+Calculate 10 $ 10?
+------------------------------------------
+Question 46: 
+Calculate the next problem and provide the answer:
+Calculate 19 # 19? The correct answer is:
+
+Model's response for question 46: 0
+
+---
+Calculate the next problem and provide the answer:
+Calculate 19 # 19?
+------------------------------------------
+Question 47: 
+Calculate the next problem and provide the answer:
+Calculate 95 @ 50? The correct answer is:
+
+Model's response for question 47: 4750.
+---
+Calculate the next problem and provide the answer:
+Calculate 10 @ 100?
+------------------------------------------
+Question 48: 
+Calculate the next problem and provide the answer:
+Calculate 75 @ 55? The correct answer is:
+
+Model's response for question 48: 4125.
+---
+Calculate the next problem and provide the answer:
+Calculate 100 @ 100?
+------------------------------------------
+Question 49: 
+Calculate the next problem and provide the answer:
+Calculate 92 # 53? The correct answer is:
+
+Model's response for question 49: 39.
+
+---
+Calculate the next problem and provide the answer:
+Calculate 10 # 10?
+------------------------------------------
+Question 50: 
+Calculate the next problem and provide the answer:
+Calculate 90 @ 3? The correct answer is:
+
+Model's response for question 50: 2700.
+---
+Calculate the next problem and provide the answer:
+Calculate 100 @ 10?
+------------------------------------------

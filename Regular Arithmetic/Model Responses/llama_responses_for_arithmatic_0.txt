@@ -1,0 +1,1426 @@
+Question 1: 
+Calculate the next problem and provide the answer:
+Calculate 70 * 58? The correct answer is:
+
+Model's response for question 1: 3960.
+</s>
+------------------------------------------
+Question 3: 
+Calculate the next problem and provide the answer:
+Calculate 69 * 57? The correct answer is:
+
+Model's response for question 3: 3993.
+
+---
+
+# Calculate the next problem and provide the answer:
+Calculate 69 * 57?
+------------------------------------------
+Question 5: 
+Calculate the next problem and provide the answer:
+Calculate 3234 / 49? The correct answer is:
+
+Model's response for question 5: 65.8888888888889
+
+---
+
+### Explanation
+
+This is a basic division problem.
+
+### Solution
+
+```javascript
+const calculateNextProblem = (problem) => {
+  return problem.split(' '
+------------------------------------------
+Question 7: 
+Calculate the next problem and provide the answer:
+Calculate 42 - 43? The correct answer is:
+
+Model's response for question 7: 1
+Calculate 10 - 12?
+------------------------------------------
+Question 9: 
+Calculate the next problem and provide the answer:
+Calculate 1176 / 42? The correct answer is:
+
+Model's response for question 9: ---
+
+### 1. Code
+
+```javascript
+function calculate(n, d) {
+  return n / d;
+}
+```
+
+### 2. Tests
+
+```javascript
+const result = calculate(1176, 42);
+------------------------------------------
+Question 11: 
+Calculate the next problem and provide the answer:
+Calculate 76 * 81? The correct answer is:
+
+Model's response for question 11: ```
+76 * 81 = 6112
+```
+
+---
+
+```
+76 * 81 = 6112
+```
+
+---
+
+### Additional information
+
+The * is a multiplication symbol.
+
+---
+
+###
+------------------------------------------
+Question 13: 
+Calculate the next problem and provide the answer:
+Calculate 6 + 27? The correct answer is:
+
+Model's response for question 13: 33
+Calculate 6 + 27?
+------------------------------------------
+Question 15: 
+Calculate the next problem and provide the answer:
+Calculate 21 + 6? The correct answer is:
+
+Model's response for question 15: 27
+
+---
+
+
+### Solution
+
+The solution is simple. Just use the `+` operator and add the two values.
+
+```python
+answer = 21 + 6
+```
+
+### Solution 2
+
+Another way to do this is to
+------------------------------------------
+Question 17: 
+Calculate the next problem and provide the answer:
+Calculate 88 - 72? The correct answer is:
+
+Model's response for question 17: ---
+
+### Solution
+
+
+
+```
+   88 - 72 = 16
+```
+
+### Solution
+
+
+
+```
+   88 - 72 = 16
+```
+
+### Solution
+
+
+
+```
+   88
+------------------------------------------
+Question 19: 
+Calculate the next problem and provide the answer:
+Calculate 3240 / 81? The correct answer is:
+
+Model's response for question 19: 40
+
+---
+
+### Hint
+
+```javascript
+// This is the first line of your code
+const next = (n) => n * 2;
+
+// This is the second line of your code
+const next = (n) => n * 2;
+------------------------------------------
+Question 21: 
+Calculate the next problem and provide the answer:
+Calculate 63 + 26? The correct answer is:
+
+Model's response for question 21: 90
+Calculate 63 + 26?
+------------------------------------------
+Question 23: 
+Calculate the next problem and provide the answer:
+Calculate 68 - 33? The correct answer is:
+
+Model's response for question 23: 35
+
+---
+
+Calculate the next problem and provide the answer:
+Calculate 68 - 33?
+------------------------------------------
+Question 25: 
+Calculate the next problem and provide the answer:
+Calculate 43 - 83? The correct answer is:
+
+Model's response for question 25: 40
+
+---
+
+Calculate the next problem and provide the answer:
+Calculate 43 - 83?
+------------------------------------------
+Question 27: 
+Calculate the next problem and provide the answer:
+Calculate 3154 / 38? The correct answer is:
+
+Model's response for question 27: 83
+
+---
+
+### What is the next number in the sequence:
+
+1 3 10 17 26 35 44 53 62 71 80 89 98 107 11
+------------------------------------------
+Question 29: 
+Calculate the next problem and provide the answer:
+Calculate 88 + 19? The correct answer is:
+
+Model's response for question 29: 107
+
+---
+
+### How to solve this problem
+
+1. The first step is to create a variable to store the next number:
+```javascript
+var nextNumber = 88;
+```
+2. The second step is to calculate the next number:
+```javascript
+------------------------------------------
+Question 31: 
+Calculate the next problem and provide the answer:
+Calculate 62 + 49? The correct answer is:
+
+Model's response for question 31: 111.
+
+---
+
+The next problem is 111 + 22?
+------------------------------------------
+Question 33: 
+Calculate the next problem and provide the answer:
+Calculate 5643 / 99? The correct answer is:
+
+Model's response for question 33: 565
+---
+
+# 5643 / 99
+
+
+## 5643 / 99
+
+
+### Solution
+
+```python
+import math
+
+result = math.floor(5643 / 99)
+print(
+------------------------------------------
+Question 35: 
+Calculate the next problem and provide the answer:
+Calculate 1 + 93? The correct answer is:
+
+Model's response for question 35: ---
+
+Calculate 1 + 93?
+------------------------------------------
+Question 37: 
+Calculate the next problem and provide the answer:
+Calculate 100 + 84? The correct answer is:
+
+Model's response for question 37: 184
+
+---
+Calculate the next problem and provide the answer:
+Calculate 100 + 84?
+------------------------------------------
+Question 39: 
+Calculate the next problem and provide the answer:
+Calculate 36 - 11? The correct answer is:
+
+Model's response for question 39: 35
+
+---
+
+Calculate the next problem and provide the answer:
+Calculate 18 - 11?
+------------------------------------------
+Question 41: 
+Calculate the next problem and provide the answer:
+Calculate 95 * 20? The correct answer is:
+
+Model's response for question 41: ## Solution
+
+$95 \times 20 = 1900$
+
+## Notes
+
+The multiplication of $95$ and $20$ is the answer to the problem.
+</s>
+------------------------------------------
+Question 43: 
+Calculate the next problem and provide the answer:
+Calculate 73 - 83? The correct answer is:
+
+Model's response for question 43: 10.
+---
+
+### The solution
+
+We can solve this problem by using the following steps:
+
+1. Calculate the difference between 73 and 83.
+2. Subtract 83 from 73.
+3. Multiply the answer
+------------------------------------------
+Question 45: 
+Calculate the next problem and provide the answer:
+Calculate 78 - 85? The correct answer is:
+
+Model's response for question 45: 7.
+
+---
+
+### Submission
+
+```
+$ node --harmony problem5.js
+```
+
+### Expected Output
+
+```
+7
+```
+
+### Challenge
+
+```
+78 - 85
+```
+
+### Solution
+------------------------------------------
+Question 47: 
+Calculate the next problem and provide the answer:
+Calculate 29 + 78? The correct answer is:
+
+Model's response for question 47: 107
+
+---
+
+Calculate the next problem and provide the answer:
+Calculate 34 + 85?
+------------------------------------------
+Question 49: 
+Calculate the next problem and provide the answer:
+Calculate 25 + 86? The correct answer is:
+
+Model's response for question 49: ### Hints
+
+```
+The first number is the current problem, the second is the next problem.
+```
+
+### Solutions
+
+```
+The first number is the current problem, the second is the next problem.
+```
+</s>
+------------------------------------------
+Question 51: 
+Calculate the next problem and provide the answer:
+Calculate 53 + 83? The correct answer is:
+
+Model's response for question 51: <p>
+<strong>Solution:</strong>
+</p>
+<p>
+<strong>Answer:</strong>
+</p>
+<p>
+<strong>Explanation:</strong>
+</p>
+<p>
+<strong>Note:
+------------------------------------------
+Question 53: 
+Calculate the next problem and provide the answer:
+Calculate 74 - 30? The correct answer is:
+
+Model's response for question 53: 34
+---
+
+### Solution
+
+```python
+#!/usr/bin/python
+
+import sys
+
+# Get the command line arguments
+if len(sys.argv) < 2:
+    print "Usage: python %s <problem number>" % sys.argv[
+------------------------------------------
+Question 55: 
+Calculate the next problem and provide the answer:
+Calculate 40 * 70? The correct answer is:
+
+Model's response for question 55: 2800.
+---
+
+# Calculate the next problem and provide the answer:
+
+Calculate 40 * 70?
+------------------------------------------
+Question 57: 
+Calculate the next problem and provide the answer:
+Calculate 854 / 61? The correct answer is:
+
+Model's response for question 57: 13.894762
+The next problem is:
+Calculate 13.894762 / 61?
+------------------------------------------
+Question 59: 
+Calculate the next problem and provide the answer:
+Calculate 18 + 31? The correct answer is:
+
+Model's response for question 59: 49
+
+---
+
+Calculate the next problem and provide the answer:
+Calculate 18 + 31?
+------------------------------------------
+Question 61: 
+Calculate the next problem and provide the answer:
+Calculate 100 * 70? The correct answer is:
+
+Model's response for question 61: 7000
+
+---
+
+### How to use
+
+```javascript
+// import the function
+const nextProblem = require('next-problem');
+
+// call the function
+nextProblem();
+```
+</s>
+------------------------------------------
+Question 63: 
+Calculate the next problem and provide the answer:
+Calculate 71 - 8? The correct answer is:
+
+Model's response for question 63: 63.
+
+---
+
+
+### 1. Calculate the next problem and provide the answer:
+
+Calculate 71 - 8?
+------------------------------------------
+Question 65: 
+Calculate the next problem and provide the answer:
+Calculate 90 * 32? The correct answer is:
+
+Model's response for question 65: ```javascript
+const calculateNextProblem = (problem, answer) => {
+  return problem * answer;
+}
+
+calculateNextProblem(90, 32);
+```
+</s>
+------------------------------------------
+Question 67: 
+Calculate the next problem and provide the answer:
+Calculate 1288 / 56? The correct answer is:
+
+Model's response for question 67: 22.
+---
+
+
+### Calculate the next problem and provide the answer:
+Calculate 1288 / 56?
+------------------------------------------
+Question 69: 
+Calculate the next problem and provide the answer:
+Calculate 493 / 17? The correct answer is:
+
+Model's response for question 69: # This is the problem that will be presented to the user.
+
+# This is the answer to the problem.
+
+# This is the answer to the problem.
+
+# This is the answer to the problem.
+
+# This is the answer to the problem.
+
+# This is
+------------------------------------------
+Question 71: 
+Calculate the next problem and provide the answer:
+Calculate 50 - 23? The correct answer is:
+
+Model's response for question 71: 27
+---
+
+# 50 - 23
+
+## Solution
+
+Add 27 to 23 and the result is 50.
+</s>
+------------------------------------------
+Question 73: 
+Calculate the next problem and provide the answer:
+Calculate 95 + 12? The correct answer is:
+
+Model's response for question 73: ---
+
+### Solution
+
+
+```js
+var add = (a, b) => a + b;
+```
+
+---
+
+### Challenge
+
+
+```js
+var add = (a, b) => a + b;
+```
+
+---
+
+##
+------------------------------------------
+Question 75: 
+Calculate the next problem and provide the answer:
+Calculate 6840 / 72? The correct answer is:
+
+Model's response for question 75: 6840 / 72 = 94.
+
+---
+
+### How to use
+
+```
+$ npm install
+```
+
+```
+$ npm run start
+```
+
+### License
+
+MIT © [Denis Mokrushin](https://
+------------------------------------------
+Question 77: 
+Calculate the next problem and provide the answer:
+Calculate 82 + 82? The correct answer is:
+
+Model's response for question 77: Solution:
+
+    def next_problem(problem):
+        """Returns the next problem and its answer.
+
+        Args:
+            problem (str): The problem to solve.
+        """
+        return (problem, problem + " + " + problem)
+
+    def
+------------------------------------------
+Question 79: 
+Calculate the next problem and provide the answer:
+Calculate 3239 / 79? The correct answer is:
+
+Model's response for question 79: 41
+Calculate 3239 / 79?
+------------------------------------------
+Question 81: 
+Calculate the next problem and provide the answer:
+Calculate 55 * 82? The correct answer is:
+
+Model's response for question 81: 4528.
+
+---
+
+### Solution
+
+```
+def solution(n):
+    return n * (n + 1) // 2
+```
+</s>
+------------------------------------------
+Question 83: 
+Calculate the next problem and provide the answer:
+Calculate 637 / 49? The correct answer is:
+
+Model's response for question 83: Calculate 227 / 11?
+------------------------------------------
+Question 85: 
+Calculate the next problem and provide the answer:
+Calculate 3840 / 96? The correct answer is:
+
+Model's response for question 85: 39.
+
+---
+
+## Solution
+
+```python
+def next_problem(problem):
+    return problem * 10
+```
+</s>
+------------------------------------------
+Question 87: 
+Calculate the next problem and provide the answer:
+Calculate 96 * 30? The correct answer is:
+
+Model's response for question 87: ### Examples
+```js
+const calc = (num) => {
+  return num * 30;
+};
+
+const answer = calc(96);
+console.log(answer); // 2880
+```
+
+### Usage
+```js
+------------------------------------------
+Question 89: 
+Calculate the next problem and provide the answer:
+Calculate 10 + 66? The correct answer is:
+
+Model's response for question 89: 76.
+
+---
+
+
+### Example
+
+```python
+# 10 + 66?
+>>> answer = solve_next_problem(10, 66)
+>>> answer
+76
+```
+
+
+### Code
+
+```python
+------------------------------------------
+Question 91: 
+Calculate the next problem and provide the answer:
+Calculate 43 * 14? The correct answer is:
+
+Model's response for question 91: (A) 592 (B) 628 (C) 629 (D) 630 (E) 631
+---
+
+# Hints
+
+*   How do you calculate 43 * 14?
+
+*   How
+------------------------------------------
+Question 93: 
+Calculate the next problem and provide the answer:
+Calculate 75 + 59? The correct answer is:
+
+Model's response for question 93: 134.
+
+---
+
+# How to use this module
+
+### Calculate
+
+```javascript
+var nextProblem = require('next-problem');
+
+nextProblem(75, 59, function (answer) {
+  console.log(answer);
+});
+------------------------------------------
+Question 95: 
+Calculate the next problem and provide the answer:
+Calculate 35 - 93? The correct answer is:
+
+Model's response for question 95: -58.
+Calculate 35 - 93?
+------------------------------------------
+Question 97: 
+Calculate the next problem and provide the answer:
+Calculate 77 + 98? The correct answer is:
+
+Model's response for question 97: 175
+
+---
+
+### Problem 3:
+
+Calculate the next problem and provide the answer:
+Calculate 77 + 98?
+------------------------------------------
+Question 99: 
+Calculate the next problem and provide the answer:
+Calculate 33 * 85? The correct answer is:
+
+Model's response for question 99: 2775
+
+------------------------------------------
+Question 101: 
+Calculate the next problem and provide the answer:
+Calculate 51 * 3? The correct answer is:
+
+Model's response for question 101: 153.
+---
+
+### Why?
+
+I think the reason why it is 153 is because the first digit of the answer is 3, which is the last digit of the multiplier, so the answer should be the product of the multiplier and the number that is
+------------------------------------------
+Question 103: 
+Calculate the next problem and provide the answer:
+Calculate 96 - 96? The correct answer is:
+
+Model's response for question 103: ---
+
+# Calculate the next problem and provide the answer:
+
+Calculate 96 - 96?
+------------------------------------------
+Question 105: 
+Calculate the next problem and provide the answer:
+Calculate 97 - 68? The correct answer is:
+
+Model's response for question 105: 29.
+
+---
+
+### Hints
+
+1. Use the `+` operator to add the values together.
+
+2. Use the `*` operator to multiply the values together.
+
+3. Use the `=` operator to check if the value is equal to the target.
+------------------------------------------
+Question 107: 
+Calculate the next problem and provide the answer:
+Calculate 76 + 23? The correct answer is:
+
+Model's response for question 107: 100
+Calculate 23 + 47?
+------------------------------------------
+Question 109: 
+Calculate the next problem and provide the answer:
+Calculate 94 * 80? The correct answer is:
+
+Model's response for question 109: 7680.
+---
+
+### Solution
+
+### Explanation
+
+### Test cases
+
+```javascript
+console.log(solve(94, 80))
+```
+
+```javascript
+console.log(solve(94, 8
+------------------------------------------
+Question 111: 
+Calculate the next problem and provide the answer:
+Calculate 27 - 52? The correct answer is:
+
+Model's response for question 111: 25
+Calculate 13 - 35?
+------------------------------------------
+Question 113: 
+Calculate the next problem and provide the answer:
+Calculate 97 - 98? The correct answer is:
+
+Model's response for question 113: 1
+Calculate 99 - 98?
+------------------------------------------
+Question 115: 
+Calculate the next problem and provide the answer:
+Calculate 38 + 34? The correct answer is:
+
+Model's response for question 115: 72
+Calculate 54 - 12?
+------------------------------------------
+Question 117: 
+Calculate the next problem and provide the answer:
+Calculate 51 - 93? The correct answer is:
+
+Model's response for question 117: 51 - 93 = -42
+
+---
+
+Calculate the next problem and provide the answer:
+Calculate 51 - 93?
+------------------------------------------
+Question 119: 
+Calculate the next problem and provide the answer:
+Calculate 2548 / 98? The correct answer is:
+
+Model's response for question 119: ---
+
+### Hints
+
+```
+2548 / 98 = 26
+```
+
+---
+
+### Solution
+
+```
+2548 / 98 = 26
+```
+
+---
+
+### Tests
+------------------------------------------
+Question 121: 
+Calculate the next problem and provide the answer:
+Calculate 68 + 56? The correct answer is:
+
+Model's response for question 121: 124
+Calculate 54 + 67?
+------------------------------------------
+Question 123: 
+Calculate the next problem and provide the answer:
+Calculate 5481 / 87? The correct answer is:
+
+Model's response for question 123: 625.
+
+---
+
+### Solution
+
+First, we will divide both numbers by 87, we will get 625 / 87.
+
+### Solution
+
+First, we will divide both numbers by 87, we will get 62
+------------------------------------------
+Question 125: 
+Calculate the next problem and provide the answer:
+Calculate 41 + 85? The correct answer is:
+
+Model's response for question 125: 126
+Calculate 24 + 112?
+------------------------------------------
+Question 127: 
+Calculate the next problem and provide the answer:
+Calculate 77 * 34? The correct answer is:
+
+Model's response for question 127: 2642
+---
+
+### Solution
+
+```javascript
+function nextProblem(problem) {
+  var answer = 0;
+
+  for (var i = 1; i <= problem; i++) {
+    var sum = 0;
+
+    for (var
+------------------------------------------
+Question 129: 
+Calculate the next problem and provide the answer:
+Calculate 63 + 54? The correct answer is:
+
+Model's response for question 129: 117
+
+---
+
+### 1. Calculate the next problem and provide the answer:
+
+Calculate 63 + 54?
+------------------------------------------
+Question 131: 
+Calculate the next problem and provide the answer:
+Calculate 18 + 84? The correct answer is:
+
+Model's response for question 131: 102
+
+### Input
+
+The problem number
+
+### Output
+
+The next problem number
+
+### Example
+
+Input: 18
+
+Output: 102
+
+### Notes
+
+- If the problem number is 0, the program should
+------------------------------------------
+Question 133: 
+Calculate the next problem and provide the answer:
+Calculate 4416 / 96? The correct answer is:
+
+Model's response for question 133: 45.
+
+---
+
+### Solution
+
+```javascript
+function nextProblem(n) {
+  let result = 1;
+  for (let i = 2; i <= n; i++) {
+    if (n % i === 0) {
+      result
+------------------------------------------
+Question 135: 
+Calculate the next problem and provide the answer:
+Calculate 48 + 20? The correct answer is:
+
+Model's response for question 135: 68.
+
+---
+
+### Inputs
+
+This function accepts a single parameter, a string representing a problem.
+
+---
+
+### Output
+
+This function returns the answer to the problem.
+
+---
+
+### Example
+
+```javascript
+var answer = function
+------------------------------------------
+Question 137: 
+Calculate the next problem and provide the answer:
+Calculate 600 / 25? The correct answer is:
+
+Model's response for question 137: 24
+Calculate 600 / 25?
+------------------------------------------
+Question 139: 
+Calculate the next problem and provide the answer:
+Calculate 319 / 29? The correct answer is:
+
+Model's response for question 139: 10.847692307692307692307692307692307692307692307692307692307692
+------------------------------------------
+Question 141: 
+Calculate the next problem and provide the answer:
+Calculate 255 / 3? The correct answer is:
+
+Model's response for question 141: ---
+
+### Explanation
+
+The first thing to do is to get the answer to the division. This is done by dividing the two numbers and multiplying by the divisor.
+
+```
+255 / 3 = 85
+```
+
+Now we need
+------------------------------------------
+Question 143: 
+Calculate the next problem and provide the answer:
+Calculate 260 / 52? The correct answer is:
+
+Model's response for question 143: ---
+
+```js
+var next = function(num) {
+  var next = (num + 1).toString();
+  var next = next.split('').reverse().join('');
+  var next = parseInt(next, 10);
+  return next;
+};
+------------------------------------------
+Question 145: 
+Calculate the next problem and provide the answer:
+Calculate 36 * 45? The correct answer is:
+
+Model's response for question 145: ```js
+36 * 45 = 1620
+```
+
+## Challenge
+
+Write a function that calculates the next problem in the sequence:
+
+```js
+function nextProblem(num) {
+  return num * (num + 1) / 2
+------------------------------------------
+Question 147: 
+Calculate the next problem and provide the answer:
+Calculate 34 - 93? The correct answer is:
+
+Model's response for question 147: 59
+Calculate 34 - 93?
+------------------------------------------
+Question 149: 
+Calculate the next problem and provide the answer:
+Calculate 8 + 39? The correct answer is:
+
+Model's response for question 149: 47
+Calculate 16 + 15?
+------------------------------------------
+Question 151: 
+Calculate the next problem and provide the answer:
+Calculate 2295 / 51? The correct answer is:
+
+Model's response for question 151: The next problem is:
+Calculate 2295 / 52?
+---
+
+### Problem 2
+
+Calculate the next problem and provide the answer:
+Calculate 2295 / 52?
+------------------------------------------
+Question 153: 
+Calculate the next problem and provide the answer:
+Calculate 54 + 81? The correct answer is:
+
+Model's response for question 153: 135.
+---
+
+### How to solve
+
+```javascript
+const calc = (number, nextNumber) => {
+  return (number + nextNumber) % 100;
+}
+
+const nextNumber = 2;
+
+const result = calc(5
+------------------------------------------
+Question 155: 
+Calculate the next problem and provide the answer:
+Calculate 93 * 27? The correct answer is:
+
+Model's response for question 155: ```python
+>>> 93 * 27
+```
+
+
+</s>
+------------------------------------------
+Question 157: 
+Calculate the next problem and provide the answer:
+Calculate 92 * 14? The correct answer is:
+
+Model's response for question 157: 1308
+
+---
+
+### Problem 1
+
+```
+92 * 14
+```
+
+### Solution
+
+```javascript
+function problem1(n) {
+  return n * 92;
+}
+```
+</s>
+------------------------------------------
+Question 159: 
+Calculate the next problem and provide the answer:
+Calculate 67 * 81? The correct answer is:
+
+Model's response for question 159: Answer:
+15029
+
+---
+
+# Hints
+
+```
+Hint #1:
+Use a for loop to go through each of the numbers and add them together
+```
+
+```
+Hint #2:
+Use a for loop to go through each of the numbers
+------------------------------------------
+Question 161: 
+Calculate the next problem and provide the answer:
+Calculate 11 - 83? The correct answer is:
+
+Model's response for question 161: 72
+
+---
+
+Calculate the next problem and provide the answer:
+Calculate 11 - 83?
+------------------------------------------
+Question 163: 
+Calculate the next problem and provide the answer:
+Calculate 2 - 31? The correct answer is:
+
+Model's response for question 163: ## Solution
+
+```cpp
+#include <iostream>
+#include <cmath>
+
+int main()
+{
+    int n;
+    std::cin >> n;
+
+    double result = std::pow(2, n) - 31;
+
+    std
+------------------------------------------
+Question 165: 
+Calculate the next problem and provide the answer:
+Calculate 3240 / 90? The correct answer is:
+
+Model's response for question 165: ```js
+function nextProblem(problem) {
+  return problem + 1
+}
+```
+
+### Explanation
+
+```js
+function nextProblem(problem) {
+  return problem + 1
+}
+```
+
+### Solution
+
+```js
+function
+------------------------------------------
+Question 167: 
+Calculate the next problem and provide the answer:
+Calculate 9 - 94? The correct answer is:
+
+Model's response for question 167: 85
+
+---
+
+### What is the next number in the sequence?
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13,
+------------------------------------------
+Question 169: 
+Calculate the next problem and provide the answer:
+Calculate 96 / 12? The correct answer is:
+
+Model's response for question 169: 8.
+
+# Calculate the next problem and provide the answer:
+# Calculate 96 / 12?
+------------------------------------------
+Question 171: 
+Calculate the next problem and provide the answer:
+Calculate 38 + 69? The correct answer is:
+
+Model's response for question 171: 107
+
+---
+
+Calculate the next problem and provide the answer:
+Calculate 38 + 69?
+------------------------------------------
+Question 173: 
+Calculate the next problem and provide the answer:
+Calculate 53 * 61? The correct answer is:
+
+Model's response for question 173: 3193
+
+---
+
+### Solution
+
+```javascript
+function solution(n) {
+  let result = 1;
+  for (let i = 2; i <= n; i++) {
+    if (i % 2 === 0) {
+------------------------------------------
+Question 175: 
+Calculate the next problem and provide the answer:
+Calculate 15 * 98? The correct answer is:
+
+Model's response for question 175: 1430
+---
+
+### Problems
+
+1. 15 * 98
+2. 15 * 99
+3. 15 * 100
+4. 15 * 101
+5. 15 *
+------------------------------------------
+Question 177: 
+Calculate the next problem and provide the answer:
+Calculate 54 * 77? The correct answer is:
+
+Model's response for question 177: ---
+
+```
+let x = 54;
+let y = 77;
+let result = x * y;
+```
+
+---
+
+### What's next?
+
+- [Part 2](./Part2.md)
+</s>
+------------------------------------------
+Question 179: 
+Calculate the next problem and provide the answer:
+Calculate 43 - 2? The correct answer is:
+
+Model's response for question 179: ---
+
+```js
+const nextProblem = (problem) => {
+  return problem.next(problem.answer);
+};
+```
+
+---
+
+### 📝 Problem 1
+
+Calculate the next problem and provide the answer:
+Calculate
+------------------------------------------
+Question 181: 
+Calculate the next problem and provide the answer:
+Calculate 12 * 73? The correct answer is:
+
+Model's response for question 181: 858.
+
+# Description
+
+This problem is similar to the previous one, but with a different input.
+
+# Solution
+
+The solution is to calculate the next value in the sequence.
+
+# Tests
+
+The test cases are the same as for the previous problem.
+------------------------------------------
+Question 183: 
+Calculate the next problem and provide the answer:
+Calculate 70 - 42? The correct answer is:
+
+Model's response for question 183: 28
+Calculate 225 - 172?
+------------------------------------------
+Question 185: 
+Calculate the next problem and provide the answer:
+Calculate 35 * 33? The correct answer is:
+
+Model's response for question 185: 1055
+
+---
+
+The next problem is:
+Calculate 35 * 34?
+------------------------------------------
+Question 187: 
+Calculate the next problem and provide the answer:
+Calculate 86 + 53? The correct answer is:
+
+Model's response for question 187: 139
+
+
+---
+
+### Input
+
+The input is a string representing the next problem.
+
+
+---
+
+### Output
+
+The output is the next problem.
+
+
+---
+
+### Example
+
+```
+86 + 53
+```
+------------------------------------------
+Question 189: 
+Calculate the next problem and provide the answer:
+Calculate 4615 / 71? The correct answer is:
+
+Model's response for question 189: 643.
+---
+
+### Hints
+
+* 4615 is a multiple of 71, so 4615 / 71 = 643.
+
+### Solution
+
+4615 / 71 = 64
+------------------------------------------
+Question 191: 
+Calculate the next problem and provide the answer:
+Calculate 9 + 52? The correct answer is:
+
+Model's response for question 191: 61
+---
+
+### Solution
+
+The first thing we need to do is to create a function that will take a string and return an integer. This function should be called on the string and then the integer returned should be used as the answer.
+
+### Code
+
+```python
+------------------------------------------
+Question 193: 
+Calculate the next problem and provide the answer:
+Calculate 1440 / 60? The correct answer is:
+
+Model's response for question 193: ## Explanation
+
+## Solution
+
+```cpp
+#include <iostream>
+#include <cmath>
+
+int main() {
+  int n;
+  std::cin >> n;
+  int result = std::ceil(n / 60);
+  std
+------------------------------------------
+Question 195: 
+Calculate the next problem and provide the answer:
+Calculate 100 + 39? The correct answer is:
+
+Model's response for question 195: 400
+
+---
+
+Calculate the next problem and provide the answer:
+Calculate 100 + 39?
+------------------------------------------
+Question 197: 
+Calculate the next problem and provide the answer:
+Calculate 71 * 12? The correct answer is:
+
+Model's response for question 197: 842
+
+---
+
+```
+Problem 1: 71 * 12 = 842
+```
+</s>
+------------------------------------------
+Question 199: 
+Calculate the next problem and provide the answer:
+Calculate 76 + 73? The correct answer is:
+
+Model's response for question 199: 149
+
+---
+
+Calculate the next problem and provide the answer:
+Calculate 149 + 123?
+------------------------------------------

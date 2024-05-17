@@ -1,0 +1,1500 @@
+1. Calculate 93 * 16. The answer is 1488.
+2. Calculate 5 * 29. The answer is 145.
+3. Calculate 53 * 53. The answer is 2809.
+4. Calculate 33 * 36. The answer is 1188.
+5. Calculate 58 * 15. The answer is 870.
+6. Calculate 41 - 1. The answer is 40.
+7. Calculate 47 + 39. The answer is 86.
+8. Calculate 4340 / 62. The answer is 70.
+9. Calculate 5246 / 61. The answer is 86.
+10. Calculate 43 * 1. The answer is 43.
+---
+Calculate the next problem and provide the answer:
+Calculate 59 + 66? The correct answer is:
+
+
+1. Calculate 21 + 5. The answer is 26.
+2. Calculate 32 * 3. The answer is 96.
+3. Calculate 1872 / 24. The answer is 78.
+4. Calculate 222 / 74. The answer is 3.
+5. Calculate 3024 / 48. The answer is 63.
+6. Calculate 84 + 90. The answer is 174.
+7. Calculate 58 * 36. The answer is 2088.
+8. Calculate 81 - 7. The answer is 74.
+9. Calculate 2 - 54. The answer is -52.
+10. Calculate 16 + 48. The answer is 64.
+---
+Calculate the next problem and provide the answer:
+Calculate 97 * 41? The correct answer is:
+
+
+1. Calculate 1368 / 24. The answer is 57.
+2. Calculate 95 * 41. The answer is 3895.
+3. Calculate 100 * 12. The answer is 1200.
+4. Calculate 5760 / 72. The answer is 80.
+5. Calculate 42 - 54. The answer is -12.
+6. Calculate 37 - 81. The answer is -44.
+7. Calculate 38 + 41. The answer is 79.
+8. Calculate 2128 / 28. The answer is 76.
+9. Calculate 2322 / 54. The answer is 43.
+10. Calculate 66 + 69. The answer is 135.
+---
+Calculate the next problem and provide the answer:
+Calculate 49 + 25? The correct answer is:
+
+
+1. Calculate 85 * 61. The answer is 5185.
+2. Calculate 54 - 83. The answer is -29.
+3. Calculate 13 * 5. The answer is 65.
+4. Calculate 3440 / 40. The answer is 86.
+5. Calculate 1241 / 17. The answer is 73.
+6. Calculate 34 * 49. The answer is 1666.
+7. Calculate 2 - 91. The answer is -89.
+8. Calculate 79 * 93. The answer is 7347.
+9. Calculate 35 - 79. The answer is -44.
+10. Calculate 29 - 80. The answer is -51.
+---
+Calculate the next problem and provide the answer:
+Calculate 47 + 43? The correct answer is:
+
+
+1. Calculate 52 * 88. The answer is 4576.
+2. Calculate 87 + 14. The answer is 101.
+3. Calculate 77 * 79. The answer is 6083.
+4. Calculate 1 - 15. The answer is -14.
+5. Calculate 5760 / 64. The answer is 90.
+6. Calculate 84 + 72. The answer is 156.
+7. Calculate 87 + 2. The answer is 89.
+8. Calculate 7227 / 73. The answer is 99.
+9. Calculate 9 + 12. The answer is 21.
+10. Calculate 76 / 2. The answer is 38.
+---
+Calculate the next problem and provide the answer:
+Calculate 21 * 19? The correct answer is:
+
+
+1. Calculate 968 / 88. The answer is 11.
+2. Calculate 24 * 38. The answer is 912.
+3. Calculate 41 * 59. The answer is 2419.
+4. Calculate 1001 / 11. The answer is 91.
+5. Calculate 83 + 17. The answer is 100.
+6. Calculate 1911 / 91. The answer is 21.
+7. Calculate 4187 / 53. The answer is 79.
+8. Calculate 59 - 30. The answer is 29.
+9. Calculate 42 - 5. The answer is 37.
+10. Calculate 880 / 10. The answer is 88.
+---
+Calculate the next problem and provide the answer:
+Calculate 74 - 24? The correct answer is:
+
+
+1. Calculate 6460 / 68. The answer is 95.
+2. Calculate 80 + 84. The answer is 164.
+3. Calculate 90 * 43. The answer is 3870.
+4. Calculate 47 - 62. The answer is -15.
+5. Calculate 30 - 66. The answer is -36.
+6. Calculate 66 + 67. The answer is 133.
+7. Calculate 18 - 55. The answer is -37.
+8. Calculate 61 + 98. The answer is 159.
+9. Calculate 15 + 68. The answer is 83.
+10. Calculate 73 * 84. The answer is 6132.
+---
+Calculate the next problem and provide the answer:
+Calculate 1848 / 56? The correct answer is:
+
+
+1. Calculate 52 * 91. The answer is 4732.
+2. Calculate 7708 / 82. The answer is 94.
+3. Calculate 57 * 91. The answer is 5187.
+4. Calculate 40 + 38. The answer is 78.
+5. Calculate 89 + 27. The answer is 116.
+6. Calculate 32 * 38. The answer is 1216.
+7. Calculate 27 + 30. The answer is 57.
+8. Calculate 59 + 98. The answer is 157.
+9. Calculate 544 / 34. The answer is 16.
+10. Calculate 81 - 55. The answer is 26.
+---
+Calculate the next problem and provide the answer:
+Calculate 6424 / 88? The correct answer is:
+
+
+1. Calculate 46 + 37. The answer is 83.
+2. Calculate 61 + 36. The answer is 97.
+3. Calculate 94 * 44. The answer is 4136.
+4. Calculate 48 - 44. The answer is 4.
+5. Calculate 11 * 69. The answer is 759.
+6. Calculate 100 * 80. The answer is 8000.
+7. Calculate 3570 / 42. The answer is 85.
+8. Calculate 71 * 18. The answer is 1278.
+9. Calculate 94 - 59. The answer is 35.
+10. Calculate 57 * 99. The answer is 5643.
+---
+Calculate the next problem and provide the answer:
+Calculate 73 + 98? The correct answer is:
+
+
+1. Calculate 22 + 22. The answer is 44.
+2. Calculate 12 - 65. The answer is -53.
+3. Calculate 26 + 36. The answer is 62.
+4. Calculate 13 + 3. The answer is 16.
+5. Calculate 18 + 5. The answer is 23.
+6. Calculate 375 / 75. The answer is 5.
+7. Calculate 126 / 63. The answer is 2.
+8. Calculate 33 - 92. The answer is -59.
+9. Calculate 97 - 51. The answer is 46.
+10. Calculate 84 * 27. The answer is 2268.
+---
+Calculate the next problem and provide the answer:
+Calculate 67 - 92? The correct answer is:
+
+
+1. Calculate 79 - 40. The answer is 39.
+2. Calculate 352 / 4. The answer is 88.
+3. Calculate 30 + 60. The answer is 90.
+4. Calculate 3074 / 53. The answer is 58.
+5. Calculate 37 - 53. The answer is -16.
+6. Calculate 90 * 5. The answer is 450.
+7. Calculate 46 + 14. The answer is 60.
+8. Calculate 1406 / 19. The answer is 74.
+9. Calculate 30 + 36. The answer is 66.
+10. Calculate 92 / 4. The answer is 23.
+---
+Calculate the next problem and provide the answer:
+Calculate 9 * 71? The correct answer is:
+
+
+1. Calculate 8 * 25. The answer is 200.
+2. Calculate 2640 / 55. The answer is 48.
+3. Calculate 5402 / 74. The answer is 73.
+4. Calculate 66 + 24. The answer is 90.
+5. Calculate 100 + 15. The answer is 115.
+6. Calculate 27 + 60. The answer is 87.
+7. Calculate 83 - 72. The answer is 11.
+8. Calculate 56 - 8. The answer is 48.
+9. Calculate 3201 / 33. The answer is 97.
+10. Calculate 3416 / 56. The answer is 61.
+---
+Calculate the next problem and provide the answer:
+Calculate 4140 / 60? The correct answer is:
+
+
+1. Calculate 7740 / 86. The answer is 90.
+2. Calculate 48 + 65. The answer is 113.
+3. Calculate 44 * 19. The answer is 836.
+4. Calculate 41 - 58. The answer is -17.
+5. Calculate 100 * 87. The answer is 8700.
+6. Calculate 32 * 63. The answer is 2016.
+7. Calculate 74 - 3. The answer is 71.
+8. Calculate 23 - 77. The answer is -54.
+9. Calculate 6461 / 91. The answer is 71.
+10. Calculate 6 - 44. The answer is -38.
+---
+Calculate the next problem and provide the answer:
+Calculate 43 + 86? The correct answer is:
+
+
+1. Calculate 5727 / 69. The answer is 83.
+2. Calculate 2376 / 54. The answer is 44.
+3. Calculate 4 + 24. The answer is 28.
+4. Calculate 37 - 24. The answer is 13.
+5. Calculate 2574 / 33. The answer is 78.
+6. Calculate 26 * 63. The answer is 1638.
+7. Calculate 47 * 18. The answer is 846.
+8. Calculate 71 - 20. The answer is 51.
+9. Calculate 280 / 40. The answer is 7.
+10. Calculate 35 - 9. The answer is 26.
+---
+Calculate the next problem and provide the answer:
+Calculate 100 - 71? The correct answer is:
+
+
+1. Calculate 1360 / 68. The answer is 20.
+2. Calculate 3584 / 64. The answer is 56.
+3. Calculate 76 + 41. The answer is 117.
+4. Calculate 99 - 50. The answer is 49.
+5. Calculate 477 / 53. The answer is 9.
+6. Calculate 3 - 98. The answer is -95.
+7. Calculate 57 + 42. The answer is 99.
+8. Calculate 2366 / 26. The answer is 91.
+9. Calculate 77 * 48. The answer is 3696.
+10. Calculate 46 + 45. The answer is 91.
+---
+Calculate the next problem and provide the answer:
+Calculate 83 * 39? The correct answer is:
+
+
+1. Calculate 2048 / 64. The answer is 32.
+2. Calculate 322 / 14. The answer is 23.
+3. Calculate 62 * 61. The answer is 3782.
+4. Calculate 42 + 94. The answer is 136.
+5. Calculate 208 / 26. The answer is 8.
+6. Calculate 12 * 96. The answer is 1152.
+7. Calculate 74 + 87. The answer is 161.
+8. Calculate 60 * 61. The answer is 3660.
+9. Calculate 2178 / 66. The answer is 33.
+10. Calculate 2376 / 36. The answer is 66.
+---
+Calculate the next problem and provide the answer:
+Calculate 63 * 99? The correct answer is:
+
+
+1. Calculate 26 * 79. The answer is 2054.
+2. Calculate 1456 / 91. The answer is 16.
+3. Calculate 3762 / 66. The answer is 57.
+4. Calculate 1376 / 86. The answer is 16.
+5. Calculate 676 / 13. The answer is 52.
+6. Calculate 80 - 13. The answer is 67.
+7. Calculate 544 / 34. The answer is 16.
+8. Calculate 5 + 36. The answer is 41.
+9. Calculate 89 - 21. The answer is 68.
+10. Calculate 83 * 82. The answer is 6806.
+---
+Calculate the next problem and provide the answer:
+Calculate 28 + 66? The correct answer is:
+
+
+1. Calculate 1100 / 100. The answer is 11.
+2. Calculate 2914 / 31. The answer is 94.
+3. Calculate 70 * 95. The answer is 6650.
+4. Calculate 54 + 92. The answer is 146.
+5. Calculate 13 + 87. The answer is 100.
+6. Calculate 47 * 15. The answer is 705.
+7. Calculate 3915 / 87. The answer is 45.
+8. Calculate 55 - 92. The answer is -37.
+9. Calculate 12 * 70. The answer is 840.
+10. Calculate 89 - 2. The answer is 87.
+---
+Calculate the next problem and provide the answer:
+Calculate 900 / 25? The correct answer is:
+
+
+1. Calculate 79 - 81. The answer is -2.
+2. Calculate 73 + 52. The answer is 125.
+3. Calculate 67 + 31. The answer is 98.
+4. Calculate 51 + 16. The answer is 67.
+5. Calculate 42 + 8. The answer is 50.
+6. Calculate 16 - 39. The answer is -23.
+7. Calculate 62 - 23. The answer is 39.
+8. Calculate 2242 / 38. The answer is 59.
+9. Calculate 21 + 49. The answer is 70.
+10. Calculate 40 + 22. The answer is 62.
+---
+Calculate the next problem and provide the answer:
+Calculate 28 - 9? The correct answer is:
+
+
+1. Calculate 504 / 7. The answer is 72.
+2. Calculate 35 - 4. The answer is 31.
+3. Calculate 40 - 60. The answer is -20.
+4. Calculate 55 - 87. The answer is -32.
+5. Calculate 1 * 5. The answer is 5.
+6. Calculate 4536 / 81. The answer is 56.
+7. Calculate 43 - 92. The answer is -49.
+8. Calculate 88 - 13. The answer is 75.
+9. Calculate 87 + 67. The answer is 154.
+10. Calculate 90 * 95. The answer is 8550.
+---
+Calculate the next problem and provide the answer:
+Calculate 455 / 7? The correct answer is:
+
+
+1. Calculate 26 - 27. The answer is -1.
+2. Calculate 870 / 87. The answer is 10.
+3. Calculate 105 / 3. The answer is 35.
+4. Calculate 5 - 77. The answer is -72.
+5. Calculate 16 - 67. The answer is -51.
+6. Calculate 95 / 19. The answer is 5.
+7. Calculate 46 + 56. The answer is 102.
+8. Calculate 71 * 37. The answer is 2627.
+9. Calculate 26 * 27. The answer is 702.
+10. Calculate 69 + 30. The answer is 99.
+---
+Calculate the next problem and provide the answer:
+Calculate 96 + 100? The correct answer is:
+
+
+1. Calculate 32 - 86. The answer is -54.
+2. Calculate 90 * 27. The answer is 2430.
+3. Calculate 450 / 90. The answer is 5.
+4. Calculate 75 / 15. The answer is 5.
+5. Calculate 28 - 63. The answer is -35.
+6. Calculate 43 - 65. The answer is -22.
+7. Calculate 56 + 96. The answer is 152.
+8. Calculate 5 * 5. The answer is 25.
+9. Calculate 21 + 89. The answer is 110.
+10. Calculate 8 + 10. The answer is 18.
+---
+Calculate the next problem and provide the answer:
+Calculate 51 + 93? The correct answer is:
+
+
+1. Calculate 61 - 86. The answer is -25.
+2. Calculate 91 * 30. The answer is 2730.
+3. Calculate 79 + 19. The answer is 98.
+4. Calculate 20 + 20. The answer is 40.
+5. Calculate 48 + 49. The answer is 97.
+6. Calculate 98 * 94. The answer is 9212.
+7. Calculate 76 * 68. The answer is 5168.
+8. Calculate 20 - 69. The answer is -49.
+9. Calculate 63 - 62. The answer is 1.
+10. Calculate 42 * 25. The answer is 1050.
+---
+Calculate the next problem and provide the answer:
+Calculate 52 - 96? The correct answer is:
+
+
+1. Calculate 68 + 28. The answer is 96.
+2. Calculate 4770 / 53. The answer is 90.
+3. Calculate 4 * 1. The answer is 4.
+4. Calculate 17 - 48. The answer is -31.
+5. Calculate 2821 / 91. The answer is 31.
+6. Calculate 34 - 60. The answer is -26.
+7. Calculate 1 + 53. The answer is 54.
+8. Calculate 840 / 10. The answer is 84.
+9. Calculate 74 - 80. The answer is -6.
+10. Calculate 2200 / 100. The answer is 22.
+---
+Calculate the next problem and provide the answer:
+Calculate 34 - 49? The correct answer is:
+
+
+1. Calculate 2112 / 32. The answer is 66.
+2. Calculate 97 - 50. The answer is 47.
+3. Calculate 62 * 44. The answer is 2728.
+4. Calculate 2800 / 50. The answer is 56.
+5. Calculate 6510 / 93. The answer is 70.
+6. Calculate 67 + 42. The answer is 109.
+7. Calculate 31 + 39. The answer is 70.
+8. Calculate 86 + 97. The answer is 183.
+9. Calculate 4 - 58. The answer is -54.
+10. Calculate 88 * 29. The answer is 2552.
+---
+Calculate the next problem and provide the answer:
+Calculate 15 + 4? The correct answer is:
+
+
+1. Calculate 26 * 40. The answer is 1040.
+2. Calculate 62 - 30. The answer is 32.
+3. Calculate 60 + 24. The answer is 84.
+4. Calculate 82 - 59. The answer is 23.
+5. Calculate 88 * 54. The answer is 4752.
+6. Calculate 13 * 11. The answer is 143.
+7. Calculate 91 * 19. The answer is 1729.
+8. Calculate 73 - 39. The answer is 34.
+9. Calculate 99 * 71. The answer is 7029.
+10. Calculate 5712 / 68. The answer is 84.
+---
+Calculate the next problem and provide the answer:
+Calculate 86 * 51? The correct answer is:
+
+
+1. Calculate 1947 / 59. The answer is 33.
+2. Calculate 71 + 52. The answer is 123.
+3. Calculate 1144 / 88. The answer is 13.
+4. Calculate 100 - 43. The answer is 57.
+5. Calculate 92 * 24. The answer is 2208.
+6. Calculate 62 - 55. The answer is 7.
+7. Calculate 4900 / 98. The answer is 50.
+8. Calculate 12 + 23. The answer is 35.
+9. Calculate 30 * 14. The answer is 420.
+10. Calculate 60 * 4. The answer is 240.
+---
+Calculate the next problem and provide the answer:
+Calculate 49 + 29? The correct answer is:
+
+
+1. Calculate 60 - 56. The answer is 4.
+2. Calculate 3293 / 37. The answer is 89.
+3. Calculate 924 / 77. The answer is 12.
+4. Calculate 27 * 89. The answer is 2403.
+5. Calculate 76 + 13. The answer is 89.
+6. Calculate 100 * 35. The answer is 3500.
+7. Calculate 62 * 86. The answer is 5332.
+8. Calculate 1 * 23. The answer is 23.
+9. Calculate 17 * 20. The answer is 340.
+10. Calculate 36 - 41. The answer is -5.
+---
+Calculate the next problem and provide the answer:
+Calculate 896 / 14? The correct answer is:
+
+
+1. Calculate 62 * 68. The answer is 4216.
+2. Calculate 34 - 95. The answer is -61.
+3. Calculate 68 - 17. The answer is 51.
+4. Calculate 2688 / 84. The answer is 32.
+5. Calculate 2912 / 56. The answer is 52.
+6. Calculate 99 - 15. The answer is 84.
+7. Calculate 86 + 21. The answer is 107.
+8. Calculate 37 + 67. The answer is 104.
+9. Calculate 93 * 6. The answer is 558.
+10. Calculate 25 * 10. The answer is 250.
+---
+Calculate the next problem and provide the answer:
+Calculate 91 + 11? The correct answer is:
+
+
+1. Calculate 89 + 93. The answer is 182.
+2. Calculate 1800 / 72. The answer is 25.
+3. Calculate 36 * 98. The answer is 3528.
+4. Calculate 84 - 4. The answer is 80.
+5. Calculate 2 - 72. The answer is -70.
+6. Calculate 40 - 98. The answer is -58.
+7. Calculate 58 + 51. The answer is 109.
+8. Calculate 76 * 61. The answer is 4636.
+9. Calculate 50 - 14. The answer is 36.
+10. Calculate 84 * 5. The answer is 420.
+---
+Calculate the next problem and provide the answer:
+Calculate 480 / 16? The correct answer is:
+
+
+1. Calculate 95 + 34. The answer is 129.
+2. Calculate 37 + 10. The answer is 47.
+3. Calculate 585 / 9. The answer is 65.
+4. Calculate 19 + 69. The answer is 88.
+5. Calculate 748 / 68. The answer is 11.
+6. Calculate 38 + 93. The answer is 131.
+7. Calculate 38 * 58. The answer is 2204.
+8. Calculate 78 / 2. The answer is 39.
+9. Calculate 5 - 22. The answer is -17.
+10. Calculate 21 + 7. The answer is 28.
+---
+Calculate the next problem and provide the answer:
+Calculate 82 + 88? The correct answer is:
+
+
+1. Calculate 43 + 75. The answer is 118.
+2. Calculate 88 * 16. The answer is 1408.
+3. Calculate 82 * 83. The answer is 6806.
+4. Calculate 11 + 16. The answer is 27.
+5. Calculate 40 * 90. The answer is 3600.
+6. Calculate 1287 / 39. The answer is 33.
+7. Calculate 74 + 5. The answer is 79.
+8. Calculate 80 * 10. The answer is 800.
+9. Calculate 1160 / 58. The answer is 20.
+10. Calculate 2 + 18. The answer is 20.
+---
+Calculate the next problem and provide the answer:
+Calculate 63 + 1? The correct answer is:
+
+
+1. Calculate 90 + 75. The answer is 165.
+2. Calculate 56 * 26. The answer is 1456.
+3. Calculate 38 + 40. The answer is 78.
+4. Calculate 90 - 61. The answer is 29.
+5. Calculate 12 + 16. The answer is 28.
+6. Calculate 912 / 76. The answer is 12.
+7. Calculate 2 * 31. The answer is 62.
+8. Calculate 99 * 6. The answer is 594.
+9. Calculate 2054 / 79. The answer is 26.
+10. Calculate 48 * 8. The answer is 384.
+---
+Calculate the next problem and provide the answer:
+Calculate 65 * 13? The correct answer is:
+
+
+1. Calculate 638 / 58. The answer is 11.
+2. Calculate 34 * 90. The answer is 3060.
+3. Calculate 94 + 15. The answer is 109.
+4. Calculate 78 * 21. The answer is 1638.
+5. Calculate 39 * 44. The answer is 1716.
+6. Calculate 49 * 51. The answer is 2499.
+7. Calculate 13 + 10. The answer is 23.
+8. Calculate 90 + 32. The answer is 122.
+9. Calculate 98 + 59. The answer is 157.
+10. Calculate 72 * 80. The answer is 5760.
+---
+Calculate the next problem and provide the answer:
+Calculate 40 / 8? The correct answer is:
+
+
+1. Calculate 27 + 74. The answer is 101.
+2. Calculate 9500 / 95. The answer is 100.
+3. Calculate 78 - 26. The answer is 52.
+4. Calculate 97 * 45. The answer is 4365.
+5. Calculate 3 * 64. The answer is 192.
+6. Calculate 296 / 8. The answer is 37.
+7. Calculate 4 * 80. The answer is 320.
+8. Calculate 44 - 81. The answer is -37.
+9. Calculate 940 / 47. The answer is 20.
+10. Calculate 64 * 3. The answer is 192.
+---
+Calculate the next problem and provide the answer:
+Calculate 95 + 35? The correct answer is:
+
+
+1. Calculate 93 + 75. The answer is 168.
+2. Calculate 32 - 93. The answer is -61.
+3. Calculate 11 * 32. The answer is 352.
+4. Calculate 4 + 20. The answer is 24.
+5. Calculate 41 * 49. The answer is 2009.
+6. Calculate 34 - 92. The answer is -58.
+7. Calculate 3180 / 60. The answer is 53.
+8. Calculate 1072 / 16. The answer is 67.
+9. Calculate 4575 / 61. The answer is 75.
+10. Calculate 42 - 99. The answer is -57.
+---
+Calculate the next problem and provide the answer:
+Calculate 48 - 95? The correct answer is:
+
+
+1. Calculate 682 / 11. The answer is 62.
+2. Calculate 37 - 66. The answer is -29.
+3. Calculate 142 / 71. The answer is 2.
+4. Calculate 79 * 26. The answer is 2054.
+5. Calculate 66 - 48. The answer is 18.
+6. Calculate 53 * 49. The answer is 2597.
+7. Calculate 7600 / 76. The answer is 100.
+8. Calculate 76 - 64. The answer is 12.
+9. Calculate 40 + 1. The answer is 41.
+10. Calculate 64 * 9. The answer is 576.
+---
+Calculate the next problem and provide the answer:
+Calculate 51 * 51? The correct answer is:
+
+
+1. Calculate 9 - 39. The answer is -30.
+2. Calculate 55 * 93. The answer is 5115.
+3. Calculate 4641 / 51. The answer is 91.
+4. Calculate 10 + 36. The answer is 46.
+5. Calculate 1175 / 25. The answer is 47.
+6. Calculate 5428 / 92. The answer is 59.
+7. Calculate 4 * 77. The answer is 308.
+8. Calculate 49 * 50. The answer is 2450.
+9. Calculate 46 + 50. The answer is 96.
+10. Calculate 72 + 20. The answer is 92.
+---
+Calculate the next problem and provide the answer:
+Calculate 3082 / 67? The correct answer is:
+
+
+1. Calculate 36 * 63. The answer is 2268.
+2. Calculate 13 + 53. The answer is 66.
+3. Calculate 31 - 53. The answer is -22.
+4. Calculate 46 * 15. The answer is 690.
+5. Calculate 74 + 84. The answer is 158.
+6. Calculate 3450 / 50. The answer is 69.
+7. Calculate 76 - 60. The answer is 16.
+8. Calculate 90 * 11. The answer is 990.
+9. Calculate 97 + 29. The answer is 126.
+10. Calculate 36 - 19. The answer is 17.
+---
+Calculate the next problem and provide the answer:
+Calculate 77 - 97? The correct answer is:
+
+
+1. Calculate 42 - 2. The answer is 40.
+2. Calculate 60 - 81. The answer is -21.
+3. Calculate 1936 / 44. The answer is 44.
+4. Calculate 336 / 6. The answer is 56.
+5. Calculate 9 - 34. The answer is -25.
+6. Calculate 47 - 17. The answer is 30.
+7. Calculate 91 + 79. The answer is 170.
+8. Calculate 4335 / 51. The answer is 85.
+9. Calculate 93 * 85. The answer is 7905.
+10. Calculate 94 * 7. The answer is 658.
+---
+Calculate the next problem and provide the answer:
+Calculate 55 - 65? The correct answer is:
+
+
+1. Calculate 8 + 20. The answer is 28.
+2. Calculate 54 / 2. The answer is 27.
+3. Calculate 870 / 29. The answer is 30.
+4. Calculate 42 - 6. The answer is 36.
+5. Calculate 43 * 64. The answer is 2752.
+6. Calculate 33 + 100. The answer is 133.
+7. Calculate 31 - 86. The answer is -55.
+8. Calculate 79 + 38. The answer is 117.
+9. Calculate 2225 / 25. The answer is 89.
+10. Calculate 24 - 2. The answer is 22.
+---
+Calculate the next problem and provide the answer:
+Calculate 32 - 64? The correct answer is:
+
+
+1. Calculate 44 + 61. The answer is 105.
+2. Calculate 352 / 8. The answer is 44.
+3. Calculate 2268 / 42. The answer is 54.
+4. Calculate 65 - 6. The answer is 59.
+5. Calculate 6930 / 90. The answer is 77.
+6. Calculate 38 + 68. The answer is 106.
+7. Calculate 67 * 75. The answer is 5025.
+8. Calculate 67 - 96. The answer is -29.
+9. Calculate 100 - 51. The answer is 49.
+10. Calculate 16 + 13. The answer is 29.
+---
+Calculate the next problem and provide the answer:
+Calculate 84 + 1? The correct answer is:
+
+
+1. Calculate 800 / 8. The answer is 100.
+2. Calculate 4230 / 45. The answer is 94.
+3. Calculate 79 * 50. The answer is 3950.
+4. Calculate 47 - 75. The answer is -28.
+5. Calculate 22 - 34. The answer is -12.
+6. Calculate 35 * 53. The answer is 1855.
+7. Calculate 16 - 54. The answer is -38.
+8. Calculate 49 + 40. The answer is 89.
+9. Calculate 9 * 48. The answer is 432.
+10. Calculate 81 * 87. The answer is 7047.
+---
+Calculate the next problem and provide the answer:
+Calculate 8645 / 91? The correct answer is:
+
+
+1. Calculate 5110 / 73. The answer is 70.
+2. Calculate 91 + 30. The answer is 121.
+3. Calculate 3 - 46. The answer is -43.
+4. Calculate 6 - 22. The answer is -16.
+5. Calculate 72 * 91. The answer is 6552.
+6. Calculate 61 + 14. The answer is 75.
+7. Calculate 28 * 81. The answer is 2268.
+8. Calculate 90 * 89. The answer is 8010.
+9. Calculate 55 * 87. The answer is 4785.
+10. Calculate 72 + 15. The answer is 87.
+---
+Calculate the next problem and provide the answer:
+Calculate 2 - 20? The correct answer is:
+
+
+1. Calculate 6290 / 85. The answer is 74.
+2. Calculate 54 - 74. The answer is -20.
+3. Calculate 49 + 17. The answer is 66.
+4. Calculate 63 - 95. The answer is -32.
+5. Calculate 55 * 40. The answer is 2200.
+6. Calculate 96 + 1. The answer is 97.
+7. Calculate 26 + 86. The answer is 112.
+8. Calculate 70 * 64. The answer is 4480.
+9. Calculate 3596 / 62. The answer is 58.
+10. Calculate 37 + 32. The answer is 69.
+---
+Calculate the next problem and provide the answer:
+Calculate 57 * 85? The correct answer is:
+
+
+1. Calculate 75 + 33. The answer is 108.
+2. Calculate 17 + 38. The answer is 55.
+3. Calculate 83 + 64. The answer is 147.
+4. Calculate 61 * 10. The answer is 610.
+5. Calculate 2613 / 67. The answer is 39.
+6. Calculate 85 * 81. The answer is 6885.
+7. Calculate 36 - 3. The answer is 33.
+8. Calculate 57 * 92. The answer is 5244.
+9. Calculate 93 - 85. The answer is 8.
+10. Calculate 7 + 22. The answer is 29.
+---
+Calculate the next problem and provide the answer:
+Calculate 18 * 93? The correct answer is:
+
+
+1. Calculate 61 * 92. The answer is 5612.
+2. Calculate 71 * 86. The answer is 6106.
+3. Calculate 79 + 22. The answer is 101.
+4. Calculate 39 * 56. The answer is 2184.
+5. Calculate 29 + 5. The answer is 34.
+6. Calculate 50 * 85. The answer is 4250.
+7. Calculate 74 * 15. The answer is 1110.
+8. Calculate 82 + 99. The answer is 181.
+9. Calculate 24 - 61. The answer is -37.
+10. Calculate 28 * 68. The answer is 1904.
+---
+Calculate the next problem and provide the answer:
+Calculate 70 - 87? The correct answer is:
+
+
+1. Calculate 1748 / 46. The answer is 38.
+2. Calculate 1 - 58. The answer is -57.
+3. Calculate 76 * 79. The answer is 6004.
+4. Calculate 228 / 38. The answer is 6.
+5. Calculate 1242 / 27. The answer is 46.
+6. Calculate 17 - 23. The answer is -6.
+7. Calculate 84 - 98. The answer is -14.
+8. Calculate 72 + 65. The answer is 137.
+9. Calculate 74 - 25. The answer is 49.
+10. Calculate 35 * 56. The answer is 1960.
+---
+Calculate the next problem and provide the answer:
+Calculate 5166 / 63? The correct answer is:
+
+
+1. Calculate 1608 / 24. The answer is 67.
+2. Calculate 16 * 98. The answer is 1568.
+3. Calculate 47 * 60. The answer is 2820.
+4. Calculate 14 - 86. The answer is -72.
+5. Calculate 1280 / 32. The answer is 40.
+6. Calculate 100 + 55. The answer is 155.
+7. Calculate 228 / 4. The answer is 57.
+8. Calculate 84 + 10. The answer is 94.
+9. Calculate 80 * 97. The answer is 7760.
+10. Calculate 27 - 81. The answer is -54.
+---
+Calculate the next problem and provide the answer:
+Calculate 31 * 61? The correct answer is:
+
+
+1. Calculate 27 + 21. The answer is 48.
+2. Calculate 63 + 2. The answer is 65.
+3. Calculate 31 + 31. The answer is 62.
+4. Calculate 12 - 81. The answer is -69.
+5. Calculate 82 * 11. The answer is 902.
+6. Calculate 3000 / 40. The answer is 75.
+7. Calculate 4 - 2. The answer is 2.
+8. Calculate 76 * 35. The answer is 2660.
+9. Calculate 34 * 30. The answer is 1020.
+10. Calculate 2160 / 36. The answer is 60.
+---
+Calculate the next problem and provide the answer:
+Calculate 4788 / 84? The correct answer is:
+
+
+1. Calculate 47 + 10. The answer is 57.
+2. Calculate 43 + 99. The answer is 142.
+3. Calculate 77 - 57. The answer is 20.
+4. Calculate 51 * 6. The answer is 306.
+5. Calculate 19 - 80. The answer is -61.
+6. Calculate 31 + 70. The answer is 101.
+7. Calculate 54 * 52. The answer is 2808.
+8. Calculate 672 / 42. The answer is 16.
+9. Calculate 100 + 54. The answer is 154.
+10. Calculate 864 / 54. The answer is 16.
+---
+Calculate the next problem and provide the answer:
+Calculate 2324 / 83? The correct answer is:
+
+
+1. Calculate 40 - 53. The answer is -13.
+2. Calculate 30 - 74. The answer is -44.
+3. Calculate 10 + 73. The answer is 83.
+4. Calculate 94 + 43. The answer is 137.
+5. Calculate 96 * 22. The answer is 2112.
+6. Calculate 26 + 23. The answer is 49.
+7. Calculate 36 + 60. The answer is 96.
+8. Calculate 48 + 3. The answer is 51.
+9. Calculate 320 / 64. The answer is 5.
+10. Calculate 98 * 79. The answer is 7742.
+---
+Calculate the next problem and provide the answer:
+Calculate 23 + 53? The correct answer is:
+
+
+1. Calculate 1350 / 75. The answer is 18.
+2. Calculate 1300 / 65. The answer is 20.
+3. Calculate 62 * 19. The answer is 1178.
+4. Calculate 1 + 83. The answer is 84.
+5. Calculate 4352 / 64. The answer is 68.
+6. Calculate 31 + 71. The answer is 102.
+7. Calculate 54 + 28. The answer is 82.
+8. Calculate 34 + 4. The answer is 38.
+9. Calculate 90 * 75. The answer is 6750.
+10. Calculate 13 - 92. The answer is -79.
+---
+Calculate the next problem and provide the answer:
+Calculate 63 * 63? The correct answer is:
+
+
+1. Calculate 71 + 26. The answer is 97.
+2. Calculate 442 / 34. The answer is 13.
+3. Calculate 86 * 81. The answer is 6966.
+4. Calculate 48 - 20. The answer is 28.
+5. Calculate 59 - 41. The answer is 18.
+6. Calculate 2349 / 29. The answer is 81.
+7. Calculate 4425 / 59. The answer is 75.
+8. Calculate 88 * 44. The answer is 3872.
+9. Calculate 360 / 4. The answer is 90.
+10. Calculate 87 - 54. The answer is 33.
+---
+Calculate the next problem and provide the answer:
+Calculate 46 * 77? The correct answer is:
+
+
+1. Calculate 27 - 26. The answer is 1.
+2. Calculate 59 - 50. The answer is 9.
+3. Calculate 1239 / 59. The answer is 21.
+4. Calculate 28 - 90. The answer is -62.
+5. Calculate 61 + 14. The answer is 75.
+6. Calculate 450 / 6. The answer is 75.
+7. Calculate 3483 / 43. The answer is 81.
+8. Calculate 5 - 6. The answer is -1.
+9. Calculate 9 + 6. The answer is 15.
+10. Calculate 814 / 74. The answer is 11.
+---
+Calculate the next problem and provide the answer:
+Calculate 5 + 19? The correct answer is:
+
+
+1. Calculate 20 * 64. The answer is 1280.
+2. Calculate 2288 / 52. The answer is 44.
+3. Calculate 69 - 72. The answer is -3.
+4. Calculate 25 * 27. The answer is 675.
+5. Calculate 3 * 62. The answer is 186.
+6. Calculate 92 - 64. The answer is 28.
+7. Calculate 846 / 47. The answer is 18.
+8. Calculate 5092 / 76. The answer is 67.
+9. Calculate 17 + 43. The answer is 60.
+10. Calculate 12 * 66. The answer is 792.
+---
+Calculate the next problem and provide the answer:
+Calculate 2592 / 48? The correct answer is:
+
+
+1. Calculate 70 - 13. The answer is 57.
+2. Calculate 7 * 45. The answer is 315.
+3. Calculate 82 + 32. The answer is 114.
+4. Calculate 97 * 80. The answer is 7760.
+5. Calculate 61 + 1. The answer is 62.
+6. Calculate 62 + 73. The answer is 135.
+7. Calculate 41 + 83. The answer is 124.
+8. Calculate 31 + 97. The answer is 128.
+9. Calculate 100 + 69. The answer is 169.
+10. Calculate 10 - 76. The answer is -66.
+---
+Calculate the next problem and provide the answer:
+Calculate 2021 / 43? The correct answer is:
+
+
+1. Calculate 28 * 91. The answer is 2548.
+2. Calculate 90 + 14. The answer is 104.
+3. Calculate 630 / 63. The answer is 10.
+4. Calculate 21 * 63. The answer is 1323.
+5. Calculate 6 * 98. The answer is 588.
+6. Calculate 60 / 20. The answer is 3.
+7. Calculate 3792 / 79. The answer is 48.
+8. Calculate 99 + 45. The answer is 144.
+9. Calculate 31 + 33. The answer is 64.
+10. Calculate 875 / 25. The answer is 35.
+---
+Calculate the next problem and provide the answer:
+Calculate 726 / 11? The correct answer is:
+
+
+1. Calculate 1116 / 36. The answer is 31.
+2. Calculate 3588 / 92. The answer is 39.
+3. Calculate 89 * 27. The answer is 2403.
+4. Calculate 44 - 80. The answer is -36.
+5. Calculate 4214 / 49. The answer is 86.
+6. Calculate 44 * 24. The answer is 1056.
+7. Calculate 71 - 62. The answer is 9.
+8. Calculate 19 - 79. The answer is -60.
+9. Calculate 86 + 98. The answer is 184.
+10. Calculate 58 - 70. The answer is -12.
+---
+Calculate the next problem and provide the answer:
+Calculate 273 / 91? The correct answer is:
+
+
+1. Calculate 24 * 1. The answer is 24.
+2. Calculate 49 + 94. The answer is 143.
+3. Calculate 1242 / 54. The answer is 23.
+4. Calculate 85 - 52. The answer is 33.
+5. Calculate 96 - 99. The answer is -3.
+6. Calculate 21 - 71. The answer is -50.
+7. Calculate 56 + 5. The answer is 61.
+8. Calculate 49 * 57. The answer is 2793.
+9. Calculate 2553 / 69. The answer is 37.
+10. Calculate 75 - 18. The answer is 57.
+---
+Calculate the next problem and provide the answer:
+Calculate 49 - 43? The correct answer is:
+
+
+1. Calculate 96 * 53. The answer is 5088.
+2. Calculate 36 + 64. The answer is 100.
+3. Calculate 3416 / 56. The answer is 61.
+4. Calculate 100 - 17. The answer is 83.
+5. Calculate 100 - 42. The answer is 58.
+6. Calculate 4 + 14. The answer is 18.
+7. Calculate 50 + 91. The answer is 141.
+8. Calculate 23 - 24. The answer is -1.
+9. Calculate 30 + 66. The answer is 96.
+10. Calculate 77 - 59. The answer is 18.
+---
+Calculate the next problem and provide the answer:
+Calculate 70 - 25? The correct answer is:
+
+
+1. Calculate 2193 / 51. The answer is 43.
+2. Calculate 42 - 86. The answer is -44.
+3. Calculate 15 * 80. The answer is 1200.
+4. Calculate 78 - 74. The answer is 4.
+5. Calculate 87 * 68. The answer is 5916.
+6. Calculate 12 + 22. The answer is 34.
+7. Calculate 60 + 19. The answer is 79.
+8. Calculate 60 - 53. The answer is 7.
+9. Calculate 57 - 45. The answer is 12.
+10. Calculate 66 + 65. The answer is 131.
+---
+Calculate the next problem and provide the answer:
+Calculate 23 * 97? The correct answer is:
+
+
+1. Calculate 13 * 28. The answer is 364.
+2. Calculate 44 - 93. The answer is -49.
+3. Calculate 61 - 55. The answer is 6.
+4. Calculate 26 * 71. The answer is 1846.
+5. Calculate 66 - 63. The answer is 3.
+6. Calculate 2622 / 69. The answer is 38.
+7. Calculate 4 * 12. The answer is 48.
+8. Calculate 80 * 67. The answer is 5360.
+9. Calculate 83 * 99. The answer is 8217.
+10. Calculate 34 + 83. The answer is 117.
+---
+Calculate the next problem and provide the answer:
+Calculate 30 - 98? The correct answer is:
+
+
+1. Calculate 46 + 61. The answer is 107.
+2. Calculate 76 - 84. The answer is -8.
+3. Calculate 3078 / 38. The answer is 81.
+4. Calculate 70 - 88. The answer is -18.
+5. Calculate 61 - 88. The answer is -27.
+6. Calculate 2320 / 80. The answer is 29.
+7. Calculate 530 / 53. The answer is 10.
+8. Calculate 11 + 54. The answer is 65.
+9. Calculate 190 / 2. The answer is 95.
+10. Calculate 1216 / 16. The answer is 76.
+---
+Calculate the next problem and provide the answer:
+Calculate 228 / 6? The correct answer is:
+
+
+1. Calculate 48 - 39. The answer is 9.
+2. Calculate 4680 / 60. The answer is 78.
+3. Calculate 17 - 57. The answer is -40.
+4. Calculate 100 - 50. The answer is 50.
+5. Calculate 23 + 13. The answer is 36.
+6. Calculate 1702 / 74. The answer is 23.
+7. Calculate 87 - 20. The answer is 67.
+8. Calculate 40 + 61. The answer is 101.
+9. Calculate 952 / 56. The answer is 17.
+10. Calculate 44 * 61. The answer is 2684.
+---
+Calculate the next problem and provide the answer:
+Calculate 62 - 71? The correct answer is:
+
+
+1. Calculate 54 * 46. The answer is 2484.
+2. Calculate 88 - 66. The answer is 22.
+3. Calculate 64 - 52. The answer is 12.
+4. Calculate 2784 / 87. The answer is 32.
+5. Calculate 18 + 91. The answer is 109.
+6. Calculate 1620 / 27. The answer is 60.
+7. Calculate 493 / 17. The answer is 29.
+8. Calculate 17 * 35. The answer is 595.
+9. Calculate 1408 / 64. The answer is 22.
+10. Calculate 44 + 49. The answer is 93.
+---
+Calculate the next problem and provide the answer:
+Calculate 8232 / 98? The correct answer is:
+
+
+1. Calculate 600 / 40. The answer is 15.
+2. Calculate 24 * 18. The answer is 432.
+3. Calculate 81 * 68. The answer is 5508.
+4. Calculate 26 * 57. The answer is 1482.
+5. Calculate 150 / 25. The answer is 6.
+6. Calculate 4784 / 52. The answer is 92.
+7. Calculate 68 * 10. The answer is 680.
+8. Calculate 58 + 1. The answer is 59.
+9. Calculate 32 * 60. The answer is 1920.
+10. Calculate 195 / 13. The answer is 15.
+---
+Calculate the next problem and provide the answer:
+Calculate 73 - 48? The correct answer is:
+
+
+1. Calculate 1711 / 59. The answer is 29.
+2. Calculate 4655 / 49. The answer is 95.
+3. Calculate 42 - 92. The answer is -50.
+4. Calculate 534 / 89. The answer is 6.
+5. Calculate 88 - 35. The answer is 53.
+6. Calculate 2310 / 30. The answer is 77.
+7. Calculate 150 / 10. The answer is 15.
+8. Calculate 99 - 72. The answer is 27.
+9. Calculate 50 - 48. The answer is 2.
+10. Calculate 31 * 70. The answer is 2170.
+---
+Calculate the next problem and provide the answer:
+Calculate 32 + 53? The correct answer is:
+
+
+1. Calculate 4026 / 66. The answer is 61.
+2. Calculate 13 + 54. The answer is 67.
+3. Calculate 1007 / 53. The answer is 19.
+4. Calculate 87 + 34. The answer is 121.
+5. Calculate 11 * 86. The answer is 946.
+6. Calculate 30 * 35. The answer is 1050.
+7. Calculate 66 - 25. The answer is 41.
+8. Calculate 94 + 47. The answer is 141.
+9. Calculate 2 * 15. The answer is 30.
+10. Calculate 2080 / 40. The answer is 52.
+---
+Calculate the next problem and provide the answer:
+Calculate 24 + 31? The correct answer is:
+
+
+1. Calculate 93 + 20. The answer is 113.
+2. Calculate 180 / 10. The answer is 18.
+3. Calculate 71 + 19. The answer is 90.
+4. Calculate 53 * 77. The answer is 4081.
+5. Calculate 1260 / 90. The answer is 14.
+6. Calculate 88 - 88. The answer is 0.
+7. Calculate 1728 / 48. The answer is 36.
+8. Calculate 5 - 2. The answer is 3.
+9. Calculate 3159 / 81. The answer is 39.
+10. Calculate 52 * 5. The answer is 260.
+---
+Calculate the next problem and provide the answer:
+Calculate 45 + 73? The correct answer is:
+
+
+1. Calculate 44 - 57. The answer is -13.
+2. Calculate 72 * 88. The answer is 6336.
+3. Calculate 93 * 50. The answer is 4650.
+4. Calculate 56 * 29. The answer is 1624.
+5. Calculate 15 - 65. The answer is -50.
+6. Calculate 46 - 79. The answer is -33.
+7. Calculate 31 + 28. The answer is 59.
+8. Calculate 328 / 4. The answer is 82.
+9. Calculate 15 + 89. The answer is 104.
+10. Calculate 53 + 37. The answer is 90.
+---
+Calculate the next problem and provide the answer:
+Calculate 3626 / 74? The correct answer is:
+
+
+1. Calculate 86 + 38. The answer is 124.
+2. Calculate 63 + 86. The answer is 149.
+3. Calculate 53 * 67. The answer is 3551.
+4. Calculate 94 + 91. The answer is 185.
+5. Calculate 2015 / 31. The answer is 65.
+6. Calculate 1152 / 36. The answer is 32.
+7. Calculate 70 * 30. The answer is 2100.
+8. Calculate 47 - 14. The answer is 33.
+9. Calculate 1 - 43. The answer is -42.
+10. Calculate 87 * 74. The answer is 6438.
+---
+Calculate the next problem and provide the answer:
+Calculate 1 - 31? The correct answer is:
+
+
+1. Calculate 7 - 88. The answer is -81.
+2. Calculate 42 * 15. The answer is 630.
+3. Calculate 81 + 85. The answer is 166.
+4. Calculate 46 - 84. The answer is -38.
+5. Calculate 81 - 66. The answer is 15.
+6. Calculate 52 + 19. The answer is 71.
+7. Calculate 82 - 54. The answer is 28.
+8. Calculate 1932 / 42. The answer is 46.
+9. Calculate 26 + 10. The answer is 36.
+10. Calculate 4264 / 82. The answer is 52.
+---
+Calculate the next problem and provide the answer:
+Calculate 7470 / 83? The correct answer is:
+
+
+1. Calculate 83 - 48. The answer is 35.
+2. Calculate 49 * 48. The answer is 2352.
+3. Calculate 21 - 100. The answer is -79.
+4. Calculate 85 * 99. The answer is 8415.
+5. Calculate 1950 / 26. The answer is 75.
+6. Calculate 75 - 60. The answer is 15.
+7. Calculate 77 - 17. The answer is 60.
+8. Calculate 99 / 3. The answer is 33.
+9. Calculate 42 + 86. The answer is 128.
+10. Calculate 12 - 57. The answer is -45.
+---
+Calculate the next problem and provide the answer:
+Calculate 96 - 12? The correct answer is:
+
+
+1. Calculate 189 / 63. The answer is 3.
+2. Calculate 26 + 74. The answer is 100.
+3. Calculate 3796 / 73. The answer is 52.
+4. Calculate 1080 / 20. The answer is 54.
+5. Calculate 589 / 19. The answer is 31.
+6. Calculate 65 - 28. The answer is 37.
+7. Calculate 32 * 71. The answer is 2272.
+8. Calculate 2500 / 50. The answer is 50.
+9. Calculate 49 + 73. The answer is 122.
+10. Calculate 14 * 38. The answer is 532.
+---
+Calculate the next problem and provide the answer:
+Calculate 378 / 27? The correct answer is:
+
+
+1. Calculate 70 - 17. The answer is 53.
+2. Calculate 29 * 84. The answer is 2436.
+3. Calculate 7 + 97. The answer is 104.
+4. Calculate 40 - 44. The answer is -4.
+5. Calculate 72 + 18. The answer is 90.
+6. Calculate 97 * 57. The answer is 5529.
+7. Calculate 65 - 82. The answer is -17.
+8. Calculate 91 - 34. The answer is 57.
+9. Calculate 62 + 19. The answer is 81.
+10. Calculate 62 - 82. The answer is -20.
+---
+Calculate the next problem and provide the answer:
+Calculate 86 + 86? The correct answer is:
+
+
+1. Calculate 50 + 69. The answer is 119.
+2. Calculate 2470 / 38. The answer is 65.
+3. Calculate 62 - 12. The answer is 50.
+4. Calculate 12 + 60. The answer is 72.
+5. Calculate 23 - 52. The answer is -29.
+6. Calculate 29 - 95. The answer is -66.
+7. Calculate 5913 / 73. The answer is 81.
+8. Calculate 851 / 23. The answer is 37.
+9. Calculate 7 - 64. The answer is -57.
+10. Calculate 97 - 55. The answer is 42.
+---
+Calculate the next problem and provide the answer:
+Calculate 96 - 16? The correct answer is:
+
+
+1. Calculate 1850 / 74. The answer is 25.
+2. Calculate 275 / 55. The answer is 5.
+3. Calculate 840 / 70. The answer is 12.
+4. Calculate 322 / 46. The answer is 7.
+5. Calculate 2233 / 29. The answer is 77.
+6. Calculate 8 - 24. The answer is -16.
+7. Calculate 6048 / 63. The answer is 96.
+8. Calculate 2236 / 52. The answer is 43.
+9. Calculate 5200 / 80. The answer is 65.
+10. Calculate 7470 / 83. The answer is 90.
+---
+Calculate the next problem and provide the answer:
+Calculate 2132 / 82? The correct answer is:
+
+
+1. Calculate 53 - 31. The answer is 22.
+2. Calculate 68 - 72. The answer is -4.
+3. Calculate 63 + 43. The answer is 106.
+4. Calculate 1463 / 77. The answer is 19.
+5. Calculate 1649 / 17. The answer is 97.
+6. Calculate 1530 / 51. The answer is 30.
+7. Calculate 864 / 24. The answer is 36.
+8. Calculate 10 - 94. The answer is -84.
+9. Calculate 2788 / 34. The answer is 82.
+10. Calculate 3600 / 72. The answer is 50.
+---
+Calculate the next problem and provide the answer:
+Calculate 36 + 15? The correct answer is:
+
+
+1. Calculate 44 * 12. The answer is 528.
+2. Calculate 58 * 25. The answer is 1450.
+3. Calculate 41 + 28. The answer is 69.
+4. Calculate 86 + 82. The answer is 168.
+5. Calculate 87 + 31. The answer is 118.
+6. Calculate 87 + 93. The answer is 180.
+7. Calculate 3 + 28. The answer is 31.
+8. Calculate 4386 / 51. The answer is 86.
+9. Calculate 50 - 35. The answer is 15.
+10. Calculate 43 * 42. The answer is 1806.
+---
+Calculate the next problem and provide the answer:
+Calculate 72 * 85? The correct answer is:
+
+
+1. Calculate 4512 / 96. The answer is 47.
+2. Calculate 9504 / 99. The answer is 96.
+3. Calculate 2542 / 82. The answer is 31.
+4. Calculate 3808 / 56. The answer is 68.
+5. Calculate 64 + 75. The answer is 139.
+6. Calculate 43 + 73. The answer is 116.
+7. Calculate 3774 / 51. The answer is 74.
+8. Calculate 1890 / 27. The answer is 70.
+9. Calculate 9024 / 94. The answer is 96.
+10. Calculate 1508 / 29. The answer is 52.
+---
+Calculate the next problem and provide the answer:
+Calculate 71 - 22? The correct answer is:
+
+
+1. Calculate 30 - 19. The answer is 11.
+2. Calculate 50 * 13. The answer is 650.
+3. Calculate 83 * 57. The answer is 4731.
+4. Calculate 39 - 98. The answer is -59.
+5. Calculate 20 - 69. The answer is -49.
+6. Calculate 46 * 12. The answer is 552.
+7. Calculate 29 * 23. The answer is 667.
+8. Calculate 33 * 35. The answer is 1155.
+9. Calculate 1764 / 98. The answer is 18.
+10. Calculate 49 - 2. The answer is 47.
+---
+Calculate the next problem and provide the answer:
+Calculate 27 * 45? The correct answer is:
+
+
+1. Calculate 2520 / 45. The answer is 56.
+2. Calculate 4386 / 86. The answer is 51.
+3. Calculate 2 - 63. The answer is -61.
+4. Calculate 48 - 88. The answer is -40.
+5. Calculate 10 - 29. The answer is -19.
+6. Calculate 100 * 73. The answer is 7300.
+7. Calculate 77 * 22. The answer is 1694.
+8. Calculate 30 + 2. The answer is 32.
+9. Calculate 44 - 6. The answer is 38.
+10. Calculate 17 * 25. The answer is 425.
+---
+Calculate the next problem and provide the answer:
+Calculate 52 + 42? The correct answer is:
+
+
+1. Calculate 980 / 14. The answer is 70.
+2. Calculate 69 * 21. The answer is 1449.
+3. Calculate 98 - 41. The answer is 57.
+4. Calculate 621 / 23. The answer is 27.
+5. Calculate 552 / 92. The answer is 6.
+6. Calculate 66 - 28. The answer is 38.
+7. Calculate 4 - 24. The answer is -20.
+8. Calculate 48 - 11. The answer is 37.
+9. Calculate 140 / 70. The answer is 2.
+10. Calculate 68 + 64. The answer is 132.
+---
+Calculate the next problem and provide the answer:
+Calculate 42 - 14? The correct answer is:
+
+
+1. Calculate 1152 / 36. The answer is 32.
+2. Calculate 4698 / 54. The answer is 87.
+3. Calculate 77 + 96. The answer is 173.
+4. Calculate 54 + 100. The answer is 154.
+5. Calculate 66 + 92. The answer is 158.
+6. Calculate 63 + 2. The answer is 65.
+7. Calculate 40 - 90. The answer is -50.
+8. Calculate 21 * 39. The answer is 819.
+9. Calculate 94 - 41. The answer is 53.
+10. Calculate 37 + 59. The answer is 96.
+---
+Calculate the next problem and provide the answer:
+Calculate 124 / 62? The correct answer is:
+
+
+1. Calculate 26 - 35. The answer is -9.
+2. Calculate 44 + 42. The answer is 86.
+3. Calculate 1207 / 71. The answer is 17.
+4. Calculate 240 / 20. The answer is 12.
+5. Calculate 66 * 9. The answer is 594.
+6. Calculate 2208 / 92. The answer is 24.
+7. Calculate 93 - 94. The answer is -1.
+8. Calculate 4824 / 72. The answer is 67.
+9. Calculate 66 + 9. The answer is 75.
+10. Calculate 92 + 45. The answer is 137.
+---
+Calculate the next problem and provide the answer:
+Calculate 75 * 71? The correct answer is:
+
+
+1. Calculate 1380 / 15. The answer is 92.
+2. Calculate 1887 / 37. The answer is 51.
+3. Calculate 22 * 56. The answer is 1232.
+4. Calculate 3300 / 44. The answer is 75.
+5. Calculate 47 - 72. The answer is -25.
+6. Calculate 3321 / 81. The answer is 41.
+7. Calculate 25 + 87. The answer is 112.
+8. Calculate 32 + 54. The answer is 86.
+9. Calculate 10 - 62. The answer is -52.
+10. Calculate 62 * 10. The answer is 620.
+---
+Calculate the next problem and provide the answer:
+Calculate 43 * 88? The correct answer is:
+
+
+1. Calculate 27 + 83. The answer is 110.
+2. Calculate 136 / 8. The answer is 17.
+3. Calculate 33 - 29. The answer is 4.
+4. Calculate 69 * 84. The answer is 5796.
+5. Calculate 44 + 6. The answer is 50.
+6. Calculate 84 - 85. The answer is -1.
+7. Calculate 12 * 11. The answer is 132.
+8. Calculate 42 + 17. The answer is 59.
+9. Calculate 11 - 67. The answer is -56.
+10. Calculate 1 - 99. The answer is -98.
+---
+Calculate the next problem and provide the answer:
+Calculate 24 * 95? The correct answer is:
+
+
+1. Calculate 3 * 4. The answer is 12.
+2. Calculate 76 + 11. The answer is 87.
+3. Calculate 72 - 95. The answer is -23.
+4. Calculate 34 - 46. The answer is -12.
+5. Calculate 968 / 22. The answer is 44.
+6. Calculate 76 * 27. The answer is 2052.
+7. Calculate 5445 / 55. The answer is 99.
+8. Calculate 21 * 96. The answer is 2016.
+9. Calculate 32 + 13. The answer is 45.
+10. Calculate 84 + 36. The answer is 120.
+---
+Calculate the next problem and provide the answer:
+Calculate 94 / 2? The correct answer is:
+
+
+1. Calculate 49 * 64. The answer is 3136.
+2. Calculate 6 * 64. The answer is 384.
+3. Calculate 60 + 55. The answer is 115.
+4. Calculate 37 + 10. The answer is 47.
+5. Calculate 6570 / 90. The answer is 73.
+6. Calculate 1705 / 55. The answer is 31.
+7. Calculate 2485 / 35. The answer is 71.
+8. Calculate 4752 / 54. The answer is 88.
+9. Calculate 5720 / 88. The answer is 65.
+10. Calculate 69 * 29. The answer is 2001.
+---
+Calculate the next problem and provide the answer:
+Calculate 2016 / 84? The correct answer is:
+
+
+1. Calculate 86 - 20. The answer is 66.
+2. Calculate 84 * 48. The answer is 4032.
+3. Calculate 4558 / 86. The answer is 53.
+4. Calculate 86 + 22. The answer is 108.
+5. Calculate 1575 / 75. The answer is 21.
+6. Calculate 34 - 93. The answer is -59.
+7. Calculate 4 - 75. The answer is -71.
+8. Calculate 22 - 38. The answer is -16.
+9. Calculate 75 - 47. The answer is 28.
+10. Calculate 6864 / 78. The answer is 88.
+---
+Calculate the next problem and provide the answer:
+Calculate 3572 / 94? The correct answer is:
+
+
+1. Calculate 70 - 79. The answer is -9.
+2. Calculate 35 - 50. The answer is -15.
+3. Calculate 24 * 43. The answer is 1032.
+4. Calculate 1368 / 36. The answer is 38.
+5. Calculate 5 - 71. The answer is -66.
+6. Calculate 7722 / 99. The answer is 78.
+7. Calculate 97 * 89. The answer is 8633.
+8. Calculate 63 + 70. The answer is 133.
+9. Calculate 89 + 40. The answer is 129.
+10. Calculate 79 + 55. The answer is 134.
+---
+Calculate the next problem and provide the answer:
+Calculate 62 - 31? The correct answer is:
+
+
+1. Calculate 69 - 48. The answer is 21.
+2. Calculate 3796 / 73. The answer is 52.
+3. Calculate 6080 / 76. The answer is 80.
+4. Calculate 5 * 26. The answer is 130.
+5. Calculate 17 + 90. The answer is 107.
+6. Calculate 1802 / 53. The answer is 34.
+7. Calculate 2 + 15. The answer is 17.
+8. Calculate 10 + 22. The answer is 32.
+9. Calculate 161 / 7. The answer is 23.
+10. Calculate 61 * 97. The answer is 5917.
+---
+Calculate the next problem and provide the answer:
+Calculate 56 - 86? The correct answer is:
+
+
+1. Calculate 360 / 5. The answer is 72.
+2. Calculate 58 - 73. The answer is -15.
+3. Calculate 24 + 11. The answer is 35.
+4. Calculate 3 / 1. The answer is 3.
+5. Calculate 17 + 90. The answer is 107.
+6. Calculate 59 + 73. The answer is 132.
+7. Calculate 46 + 18. The answer is 64.
+8. Calculate 76 - 11. The answer is 65.
+9. Calculate 58 * 45. The answer is 2610.
+10. Calculate 91 - 36. The answer is 55.
+---
+Calculate the next problem and provide the answer:
+Calculate 3936 / 96? The correct answer is:
+
+
+1. Calculate 63 - 32. The answer is 31.
+2. Calculate 97 * 90. The answer is 8730.
+3. Calculate 66 + 47. The answer is 113.
+4. Calculate 58 - 3. The answer is 55.
+5. Calculate 3772 / 92. The answer is 41.
+6. Calculate 32 + 67. The answer is 99.
+7. Calculate 92 / 4. The answer is 23.
+8. Calculate 63 - 52. The answer is 11.
+9. Calculate 6150 / 75. The answer is 82.
+10. Calculate 5772 / 78. The answer is 74.
+---
+Calculate the next problem and provide the answer:
+Calculate 7 - 3? The correct answer is:
+
+
+1. Calculate 1536 / 32. The answer is 48.
+2. Calculate 2 * 23. The answer is 46.
+3. Calculate 33 - 77. The answer is -44.
+4. Calculate 57 / 19. The answer is 3.
+5. Calculate 90 * 71. The answer is 6390.
+6. Calculate 99 - 59. The answer is 40.
+7. Calculate 59 + 21. The answer is 80.
+8. Calculate 41 - 16. The answer is 25.
+9. Calculate 74 + 21. The answer is 95.
+10. Calculate 77 - 1. The answer is 76.
+---
+Calculate the next problem and provide the answer:
+Calculate 3 + 38? The correct answer is:
+
+
+1. Calculate 73 + 84. The answer is 157.
+2. Calculate 63 + 20. The answer is 83.
+3. Calculate 30 * 23. The answer is 690.
+4. Calculate 63 + 44. The answer is 107.
+5. Calculate 4410 / 90. The answer is 49.
+6. Calculate 43 - 49. The answer is -6.
+7. Calculate 5 - 85. The answer is -80.
+8. Calculate 1820 / 28. The answer is 65.
+9. Calculate 95 + 31. The answer is 126.
+10. Calculate 9 - 26. The answer is -17.
+---
+Calculate the next problem and provide the answer:
+Calculate 96 * 13? The correct answer is:
+
+
+1. Calculate 39 * 83. The answer is 3237.
+2. Calculate 1701 / 63. The answer is 27.
+3. Calculate 61 - 70. The answer is -9.
+4. Calculate 66 - 46. The answer is 20.
+5. Calculate 52 + 86. The answer is 138.
+6. Calculate 3116 / 82. The answer is 38.
+7. Calculate 65 + 80. The answer is 145.
+8. Calculate 65 + 52. The answer is 117.
+9. Calculate 66 + 51. The answer is 117.
+10. Calculate 92 * 67. The answer is 6164.
+---
+Calculate the next problem and provide the answer:
+Calculate 71 + 25? The correct answer is:
+
+
+1. Calculate 48 - 26. The answer is 22.
+2. Calculate 47 * 41. The answer is 1927.
+3. Calculate 35 - 1. The answer is 34.
+4. Calculate 67 + 72. The answer is 139.
+5. Calculate 100 * 40. The answer is 4000.
+6. Calculate 86 + 36. The answer is 122.
+7. Calculate 77 + 70. The answer is 147.
+8. Calculate 90 / 2. The answer is 45.
+9. Calculate 58 - 50. The answer is 8.
+10. Calculate 97 + 41. The answer is 138.
+---
+Calculate the next problem and provide the answer:
+Calculate 6 * 15? The correct answer is:
+
+
+1. Calculate 6175 / 65. The answer is 95.
+2. Calculate 19 - 27. The answer is -8.
+3. Calculate 18 / 3. The answer is 6.
+4. Calculate 70 + 6. The answer is 76.
+5. Calculate 682 / 62. The answer is 11.
+6. Calculate 37 - 90. The answer is -53.
+7. Calculate 62 + 10. The answer is 72.
+8. Calculate 73 + 97. The answer is 170.
+9. Calculate 87 * 79. The answer is 6873.
+10. Calculate 5612 / 61. The answer is 92.
+---
+Calculate the next problem and provide the answer:
+Calculate 66 * 23? The correct answer is:
+
+

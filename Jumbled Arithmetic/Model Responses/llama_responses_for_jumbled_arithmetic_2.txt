@@ -1,0 +1,609 @@
+Question 1: 
+Calculate the next problem and provide the answer:
+Calculate 97 $ 19? The correct answer is:
+
+Model's response for question 1: 116.
+---
+1. Calculate 16 $ 49. The answer is 25.
+2. Calculate 16 $ 29. The answer is 19.
+---
+Calculate the next problem and provide the answer:
+Calculate
+------------------------------------------
+Question 2: 
+Calculate the next problem and provide the answer:
+Calculate 29 @ 10? The correct answer is:
+
+Model's response for question 2: ---
+The answer is 290.
+---
+---
+# 100
+1. Calculate 11 @ 5. The answer is 96.
+2. Calculate 64 @ 45. The answer is 2071.
+---
+------------------------------------------
+Question 3: 
+Calculate the next problem and provide the answer:
+Calculate 87 # 70? The correct answer is:
+
+Model's response for question 3: 15.
+---
+The next problem is:
+Calculate 119 # 67? The answer is: 26.
+---
+Calculate the next problem and provide the answer:
+Calculate 155 # 134? The answer is: 2
+------------------------------------------
+Question 4: 
+Calculate the next problem and provide the answer:
+Calculate 5 $ 1? The correct answer is:
+
+Model's response for question 4: ---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+------------------------------------------
+Question 5: 
+Calculate the next problem and provide the answer:
+Calculate 12 # 11? The correct answer is:
+
+Model's response for question 5: ---
+12 # 11 = 12 + 11 = 23
+---
+Calculate the next problem and provide the answer:
+Calculate 12 # 11?
+------------------------------------------
+Question 6: 
+Calculate the next problem and provide the answer:
+Calculate 88 $ 43? The correct answer is:
+
+Model's response for question 6: 131.
+---
+------------------------------------------
+Question 7: 
+Calculate the next problem and provide the answer:
+Calculate 54 # 21? The correct answer is:
+
+Model's response for question 7: 35.
+---
+3. Calculate 13 # 23. The answer is 1.
+4. Calculate 21 # 14. The answer is 2.
+---
+5. Calculate 21 # 24. The answer is 0
+------------------------------------------
+Question 8: 
+Calculate the next problem and provide the answer:
+Calculate 17 @ 2? The correct answer is:
+
+Model's response for question 8: ---
+3. Calculate 12 @ 3. The answer is 20.
+---
+4. Calculate 12 @ 4. The answer is 12.
+---
+5. Calculate 12 @ 5. The answer is 12.
+------------------------------------------
+Question 9: 
+Calculate the next problem and provide the answer:
+Calculate 86 @ 48? The correct answer is:
+
+Model's response for question 9: ---
+3. Calculate 25 @ 24. The answer is 375.
+4. Calculate 10 @ 36. The answer is 360.
+---
+Calculate the next problem and provide the answer:
+Calculate 22 @
+------------------------------------------
+Question 10: 
+Calculate the next problem and provide the answer:
+Calculate 60 $ 48? The correct answer is:
+
+Model's response for question 10: 60 $ 48 = 60 × 48 = 2880.
+---
+Calculate the next problem and provide the answer:
+Calculate 10 $ 2.
+------------------------------------------
+Question 11: 
+Calculate the next problem and provide the answer:
+Calculate 25 # 20? The correct answer is:
+
+Model's response for question 11: ---
+You can't!
+---
+Why not?
+---
+Because you don't know what the answer is.
+---
+How do you know?
+---
+Because you can't calculate the answer.
+---
+Why not?
+---
+Because the question doesn
+------------------------------------------
+Question 12: 
+Calculate the next problem and provide the answer:
+Calculate 51 @ 20? The correct answer is:
+
+Model's response for question 12: 51 @ 20 = 1020.
+---
+
+### 1. Calculate 67 @ 32. The answer is 342.
+
+### 2. Calculate 34 @ 27. The answer is 42
+------------------------------------------
+Question 13: 
+Calculate the next problem and provide the answer:
+Calculate 71 $ 29? The correct answer is:
+
+Model's response for question 13: 100.
+---
+Calculate 63 $ 44?
+------------------------------------------
+Question 14: 
+Calculate the next problem and provide the answer:
+Calculate 92 $ 60? The correct answer is:
+
+Model's response for question 14: 152.
+---
+The following problems will be solved.
+---
+1. Calculate 40 $ 120. The answer is 33.
+2. Calculate 75 $ 240. The answer is 30.
+3. Calculate
+------------------------------------------
+Question 15: 
+Calculate the next problem and provide the answer:
+Calculate 67 $ 11? The correct answer is:
+
+Model's response for question 15: ---
+------------------------------------------
+Question 16: 
+Calculate the next problem and provide the answer:
+Calculate 79 @ 30? The correct answer is:
+
+Model's response for question 16: 3. Calculate 16 @ 20? The answer is:
+
+---
+Calculate the next problem and provide the answer:
+Calculate 80 @ 30?
+------------------------------------------
+Question 17: 
+Calculate the next problem and provide the answer:
+Calculate 48 # 22? The correct answer is:
+
+Model's response for question 17: 48 # 22 = 1044.
+---
+Calculate 69 # 45?
+------------------------------------------
+Question 18: 
+Calculate the next problem and provide the answer:
+Calculate 60 # 19? The correct answer is:
+
+Model's response for question 18: ---
+1. Calculate 43 # 13. The answer is 3.
+2. Calculate 42 # 29. The answer is 1.
+---
+Calculate the next problem and provide the answer:
+Calculate 41 # 18.
+------------------------------------------
+Question 19: 
+Calculate the next problem and provide the answer:
+Calculate 72 $ 51? The correct answer is:
+
+Model's response for question 19: 72 $ 51 = 123
+---
+3. Calculate 51 $ 34. The answer is 85.
+4. Calculate 68 $ 43. The answer is 111.
+---
+5. Calculate 5
+------------------------------------------
+Question 20: 
+Calculate the next problem and provide the answer:
+Calculate 63 $ 36? The correct answer is:
+
+Model's response for question 20: ---
+22
+---
+3. Calculate 11 $ 5. The answer is 16.
+4. Calculate 14 $ 3. The answer is 17.
+5. Calculate 12 $ 4. The answer is 16.
+------------------------------------------
+Question 21: 
+Calculate the next problem and provide the answer:
+Calculate 22 $ 10? The correct answer is:
+
+Model's response for question 21: 32.
+---
+Calculate the next problem and provide the answer:
+Calculate 21 $ 10?
+------------------------------------------
+Question 22: 
+Calculate the next problem and provide the answer:
+Calculate 27 # 11? The correct answer is:
+
+Model's response for question 22: 27 # 11 = 271
+---
+Calculate the next problem and provide the answer:
+Calculate 10 # 7?
+------------------------------------------
+Question 23: 
+Calculate the next problem and provide the answer:
+Calculate 81 $ 50? The correct answer is:
+
+Model's response for question 23: 410.
+---
+The answer is 410.
+---
+The answer is 410.
+---
+The answer is 410.
+---
+The answer is 410.
+---
+The answer is 410.
+---
+The
+------------------------------------------
+Question 24: 
+Calculate the next problem and provide the answer:
+Calculate 85 $ 33? The correct answer is:
+
+Model's response for question 24: 118.
+---
+Calculate the next problem and provide the answer:
+Calculate 118 $ 37.
+------------------------------------------
+Question 25: 
+Calculate the next problem and provide the answer:
+Calculate 20 $ 7? The correct answer is:
+
+Model's response for question 25: ---
+The answer is 27.
+---
+Now we can use the same method to calculate the answer for the next problem.
+---
+Calculate 26 $ 15?
+------------------------------------------
+Question 26: 
+Calculate the next problem and provide the answer:
+Calculate 12 $ 2? The correct answer is:
+
+Model's response for question 26: 120.
+---
+The next problem:
+Calculate 15 $ 5. The answer is: 75.
+---
+The next problem:
+Calculate 12 $ 10. The answer is: 120.
+---
+The next problem:
+------------------------------------------
+Question 27: 
+Calculate the next problem and provide the answer:
+Calculate 52 @ 49? The correct answer is:
+
+Model's response for question 27: 2676.
+---
+The answer is 2676.
+---
+Now, let's do the same problem with 20 @ 35.
+---
+The answer is 1500.
+---
+Let's do the same problem with 2
+------------------------------------------
+Question 28: 
+Calculate the next problem and provide the answer:
+Calculate 82 # 56? The correct answer is:
+
+Model's response for question 28: ---
+
+2. 108 # 22. The answer is 26.
+
+---
+
+3. 52 # 100. The answer is 4.
+
+---
+
+4. 100 # 23. The answer is
+------------------------------------------
+Question 29: 
+Calculate the next problem and provide the answer:
+Calculate 63 $ 9? The correct answer is:
+
+Model's response for question 29: ---
+3. Calculate 63 $ 9. The answer is 69.
+---
+Calculate the next problem and provide the answer:
+Calculate 81 $ 7?
+------------------------------------------
+Question 30: 
+Calculate the next problem and provide the answer:
+Calculate 67 @ 13? The correct answer is:
+
+Model's response for question 30: ---
+Answer: 881
+---
+Calculate the next problem and provide the answer:
+Calculate 43 @ 22?
+------------------------------------------
+Question 31: 
+Calculate the next problem and provide the answer:
+Calculate 44 # 4? The correct answer is:
+
+Model's response for question 31: 44 # 4 = 176
+
+### Hint
+---
+You can use the `math` package in order to calculate the sum.
+
+---
+### Solution
+---
+```python
+from math import factorial
+
+# Calculate 44 # 4
+------------------------------------------
+Question 32: 
+Calculate the next problem and provide the answer:
+Calculate 31 # 13? The correct answer is:
+
+Model's response for question 32: 42.
+---
+Now, let's try to calculate the next problem:
+Calculate 10 # 10.
+------------------------------------------
+Question 33: 
+Calculate the next problem and provide the answer:
+Calculate 6 $ 6? The correct answer is:
+
+Model's response for question 33: 12.
+---
+Answers
+1. 151.
+2. 21.
+---
+1. Calculate 100 $ 51. The answer is 151.
+2. Calculate 14 $ 7. The answer is
+------------------------------------------
+Question 34: 
+Calculate the next problem and provide the answer:
+Calculate 89 @ 56? The correct answer is:
+
+Model's response for question 34: 4,865.
+---
+The correct answer is 4,865.
+---
+How many times does 13 go into 1,314?
+------------------------------------------
+Question 35: 
+Calculate the next problem and provide the answer:
+Calculate 44 # 44? The correct answer is:
+
+Model's response for question 35: ---
+3. Calculate 15 # 24. The answer is 7.
+---
+Calculate the next problem and provide the answer:
+Calculate 13 # 13.
+------------------------------------------
+Question 36: 
+Calculate the next problem and provide the answer:
+Calculate 80 @ 2? The correct answer is:
+
+Model's response for question 36: 1. Calculate 20 @ 26. The answer is 460.
+2. Calculate 18 @ 26. The answer is 140.
+---
+Calculate the next problem and provide the answer:
+Calculate 12 @ 1
+------------------------------------------
+Question 37: 
+Calculate the next problem and provide the answer:
+Calculate 39 @ 34? The correct answer is:
+
+Model's response for question 37: ---
+Answer: 1256
+
+---
+Calculate the next problem and provide the answer:
+Calculate 35 @ 33?
+------------------------------------------
+Question 38: 
+Calculate the next problem and provide the answer:
+Calculate 94 @ 13? The correct answer is:
+
+Model's response for question 38: 3136.
+---
+This is a very simple example of a _recursive_ algorithm. The recursive algorithm is the one that calls itself. The recursive algorithm is the one that calls itself. The recursive algorithm is the one that calls itself.
+---
+The recursive algorithm is the one that calls
+------------------------------------------
+Question 39: 
+Calculate the next problem and provide the answer:
+Calculate 57 @ 48? The correct answer is:
+
+Model's response for question 39: 2796.
+---
+Calculate 14 @ 15?
+------------------------------------------
+Question 40: 
+Calculate the next problem and provide the answer:
+Calculate 14 $ 9? The correct answer is:
+
+Model's response for question 40: 16.
+---
+4. Calculate 10 $ 9. The answer is 19.
+---
+5. Calculate 18 $ 9. The answer is 27.
+---
+6. Calculate 27 $ 1. The answer is
+------------------------------------------
+Question 41: 
+Calculate the next problem and provide the answer:
+Calculate 69 # 58? The correct answer is:
+
+Model's response for question 41: 24.
+---
+4. Calculate 76 # 57. The answer is 10.
+---
+5. Calculate 82 # 56. The answer is 2.
+---
+6. Calculate 90 # 55. The answer
+------------------------------------------
+Question 42: 
+Calculate the next problem and provide the answer:
+Calculate 31 $ 22? The correct answer is:
+
+Model's response for question 42: 53.
+---
+The next problem is:
+Calculate 44 $ 12?
+------------------------------------------
+Question 43: 
+Calculate the next problem and provide the answer:
+Calculate 74 @ 60? The correct answer is:
+
+Model's response for question 43: 16340.
+---
+The next problem is:
+Calculate 66 @ 49. The answer is 1955.
+---
+The next problem is:
+Calculate 46 @ 19. The answer is 1755.
+------------------------------------------
+Question 44: 
+Calculate the next problem and provide the answer:
+Calculate 75 # 55? The correct answer is:
+
+Model's response for question 44: 49.
+---
+1. Calculate 6 # 4. The answer is 2.
+2. Calculate 78 # 65. The answer is 13.
+---
+Calculate the next problem and provide the answer:
+Calculate 75 #
+------------------------------------------
+Question 45: 
+Calculate the next problem and provide the answer:
+Calculate 78 @ 12? The correct answer is:
+
+Model's response for question 45: ---
+3. Calculate 121 @ 24. The answer is 133.
+---
+Calculate the next problem and provide the answer:
+Calculate 36 @ 18.
+------------------------------------------
+Question 46: 
+Calculate the next problem and provide the answer:
+Calculate 37 $ 6? The correct answer is:
+
+Model's response for question 46: ---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+------------------------------------------
+Question 47: 
+Calculate the next problem and provide the answer:
+Calculate 17 @ 8? The correct answer is:
+
+Model's response for question 47: 17 * 8 = 136.
+
+---
+
+### Exercise 3
+
+1. Calculate 5 @ 15. The answer is 75.
+2. Calculate 35 @ 4. The answer is 140.
+------------------------------------------
+Question 48: 
+Calculate the next problem and provide the answer:
+Calculate 56 # 10? The correct answer is:
+
+Model's response for question 48: ---
+10. 560
+---
+Calculate the next problem and provide the answer:
+Calculate 56 # 9.
+------------------------------------------
+Question 49: 
+Calculate the next problem and provide the answer:
+Calculate 34 # 6? The correct answer is:
+
+Model's response for question 49: 62.
+---
+This is a simple problem that you may find difficult at first. However, it will get easier with practice.
+---
+How do you get 123 # 2? The answer is: 123.
+---
+What is the next number in the sequence
+------------------------------------------
+Question 50: 
+Calculate the next problem and provide the answer:
+Calculate 39 # 14? The correct answer is:
+
+Model's response for question 50: ---
+39 # 14 = 39 * 14 = 546
+---
+4. Calculate 49 # 33. The answer is 15.
+---
+5. Calculate 42 # 33. The answer is 1
+------------------------------------------
