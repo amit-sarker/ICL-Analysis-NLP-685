@@ -1,0 +1,24 @@
+Question 18: Statement: My flight was delayed for several hours. Sentiment:
+Correct Answer: Negative
+Model's Response: Positive
+----------------------------------------
+Question 33: Statement: The concert will be held on Saturday. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 39: Statement: The deadline for the project is next Monday. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 46: Statement: I am impressed by your dedication. Sentiment:
+Correct Answer: Positive
+Model's Response: Neutral
+----------------------------------------
+Question 47: Statement: The wifi signal is weak in my room. Sentiment:
+Correct Answer: Negative
+Model's Response: Positive
+----------------------------------------
+Question 48: Statement: The grocery store is open 24 hours. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------

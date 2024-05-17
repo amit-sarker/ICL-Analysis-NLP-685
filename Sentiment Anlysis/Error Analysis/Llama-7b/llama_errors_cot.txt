@@ -1,0 +1,48 @@
+Question 8: Statement: The train arrives at 8 PM. Sentiment:
+Correct Answer: Neutral
+Model's Response: Negative
+----------------------------------------
+Question 10: Statement: I didn't like the movie at all. Sentiment:
+Correct Answer: Negative
+Model's Response: Positive
+----------------------------------------
+Question 12: Statement: The weather forecast is for rain all weekend. Sentiment:
+Correct Answer: Negative
+Model's Response: Positive
+----------------------------------------
+Question 15: Statement: The restaurant was closed when we arrived. Sentiment:
+Correct Answer: Negative
+Model's Response: Positive
+----------------------------------------
+Question 16: Statement: The museum is open daily from 10 AM to 6 PM. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 30: Statement: The class starts at 10 AM. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 33: Statement: The concert will be held on Saturday. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 36: Statement: The train station is just a few blocks away. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 40: Statement: I am so grateful for your help. Sentiment:
+Correct Answer: Positive
+Model's Response: Negative
+----------------------------------------
+Question 44: Statement: The laundry machine stopped working midway. Sentiment:
+Correct Answer: Negative
+Model's Response: Neutral
+----------------------------------------
+Question 45: Statement: The office is located on the third floor. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 48: Statement: The grocery store is open 24 hours. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------

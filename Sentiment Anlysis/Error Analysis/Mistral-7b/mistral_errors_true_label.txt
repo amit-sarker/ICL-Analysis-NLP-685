@@ -1,0 +1,16 @@
+Question 19: Statement: The library has a great selection of books. Sentiment:
+Correct Answer: Positive
+Model's Response: Neutral
+----------------------------------------
+Question 23: Statement: The road was closed due to an accident. Sentiment:
+Correct Answer: Negative
+Model's Response: Neutral
+----------------------------------------
+Question 44: Statement: The laundry machine stopped working midway. Sentiment:
+Correct Answer: Negative
+Model's Response: Neutral
+----------------------------------------
+Question 47: Statement: The wifi signal is weak in my room. Sentiment:
+Correct Answer: Negative
+Model's Response: Neutral
+----------------------------------------

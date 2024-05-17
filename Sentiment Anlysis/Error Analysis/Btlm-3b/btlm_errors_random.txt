@@ -1,0 +1,72 @@
+Question 3: Statement: Our meeting is scheduled for tomorrow. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 5: Statement: The traffic was horrendous this morning. Sentiment:
+Correct Answer: Negative
+Model's Response: Positive
+----------------------------------------
+Question 8: Statement: The train arrives at 8 PM. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 12: Statement: The weather forecast is for rain all weekend. Sentiment:
+Correct Answer: Negative
+Model's Response: Positive
+----------------------------------------
+Question 13: Statement: Our team meeting is on Wednesday. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 18: Statement: My flight was delayed for several hours. Sentiment:
+Correct Answer: Negative
+Model's Response: Positive
+----------------------------------------
+Question 21: Statement: The bus leaves every 30 minutes. Sentiment:
+Correct Answer: Neutral
+Model's Response: Negative
+----------------------------------------
+Question 24: Statement: The store opens at 9 AM on weekdays. Sentiment:
+Correct Answer: Neutral
+Model's Response: Negative
+----------------------------------------
+Question 27: Statement: The package arrived on time. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 29: Statement: The project is behind schedule. Sentiment:
+Correct Answer: Negative
+Model's Response: Positive
+----------------------------------------
+Question 30: Statement: The class starts at 10 AM. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 32: Statement: I forgot my umbrella and got soaked. Sentiment:
+Correct Answer: Negative
+Model's Response: Positive
+----------------------------------------
+Question 33: Statement: The concert will be held on Saturday. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 35: Statement: The food was undercooked and tasteless. Sentiment:
+Correct Answer: Negative
+Model's Response: Positive
+----------------------------------------
+Question 36: Statement: The train station is just a few blocks away. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 39: Statement: The deadline for the project is next Monday. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 42: Statement: The event will start at 7 PM. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
+Question 48: Statement: The grocery store is open 24 hours. Sentiment:
+Correct Answer: Neutral
+Model's Response: Positive
+----------------------------------------
