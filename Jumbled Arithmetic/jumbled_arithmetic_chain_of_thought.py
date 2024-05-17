@@ -11,7 +11,6 @@ def calculate_modified_arithmetic(a, b, operation):
 
 
 def generate_prompt():
-    # prompts = []
     operations = ['#', '$', '@']
     operation_explanations = {
         '#': "# is subtraction. a # b = a - b.",
@@ -20,7 +19,7 @@ def generate_prompt():
     }
 
     prompt = ""
-    for i in range(3):  # Generate 3 operations per prompt
+    for i in range(3):
         a = random.randint(5, 100)
         b = random.randint(1, a)
         op = operations[i]
@@ -28,7 +27,6 @@ def generate_prompt():
         prompt += f"{i + 1}. Calculate {a} {op} {b}. The answer is {result}.\n"
         prompt += f"Reason: {operation_explanations[op]} So, {a} {op} {b} = {result}\n"
 
-    # Add a new problem without the answer for the model to solve
     a, b = random.randint(1, 100), random.randint(1, 100)
     op = random.choice(operations)
     prompt += "---\nCalculate the next problem and provide the answer:\n"

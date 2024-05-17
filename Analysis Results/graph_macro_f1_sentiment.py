@@ -1,5 +1,5 @@
 import matplotlib
-matplotlib.use('Agg')  # Use the Agg backend for non-interactive plotting
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -8,12 +8,6 @@ models = [
     'Mamba-2.8b', 'Cerebras-btlm-3b', 'Mamba-7b',
     'Llama2-7b', 'Mistral-7b'
 ]
-
-# mamba_28 = [76.81, 50.16, 46.36, 56.12]
-# btlm = [51.43, 58.0, 21.42, 56.41]
-# mamba_7b = [66.3, 62.27, 52.94, 59.35]
-# llama = [64.46, 74.42, 27.7, 52.93]
-# mistral = [91.85, 89.56, 56.92, 89.37]
 
 demos_true_label = [76.81, 51.43, 66.3, 64.46, 91.85]
 demos_true_label_with_cot = [50.16, 58.0, 62.27, 74.42, 89.56]
@@ -43,7 +37,7 @@ def autolabel(rects):
         height = rect.get_height()
         ax.annotate('{}'.format(height),
                     xy=(rect.get_x() + rect.get_width() / 2, height),
-                    xytext=(0, 3),  # 3 points vertical offset
+                    xytext=(0, 3),
                     textcoords="offset points",
                     ha='center', va='bottom')
 

@@ -1,4 +1,3 @@
-# Sample data for statements and their sentiments
 statements = [
     ("The meal was delicious and the service was excellent.", "Positive"),
     ("It rained all day during our outdoor event.", "Negative"),
@@ -109,11 +108,10 @@ file_content = ""
 import random
 
 for i in range(50):
-    # Select indices ensuring they cycle through the examples
     idx1 = (i * 3) % len(statements)
     idx2 = (i * 3 + 1) % len(statements)
     idx3 = (i * 3 + 2) % len(statements)
-    next_idx = (i * 3 + 3) % len(statements)  # For the statement to classify
+    next_idx = (i * 3 + 3) % len(statements)
 
     sentiments = ['Positive', 'Negative', 'Neutral']
 
@@ -125,7 +123,6 @@ for i in range(50):
 Classify the sentiment of the following statement:\n\
 Statement: {new_statements[i][0]} Sentiment:\n\n\n"
 
-# Save to a file
 with open('sentiment_prompts_random_label.txt', 'w', encoding="utf-8") as file:
     file.write(file_content)
 

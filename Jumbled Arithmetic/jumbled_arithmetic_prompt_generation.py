@@ -2,9 +2,9 @@ import random
 
 def opposite_result(operation, a, b):
     if operation == '#':
-        return a - b  # Normally would be a + b
+        return a - b
     elif operation == '$':
-        return a + b  # Normally would be a - b
+        return a + b
     elif operation == '@':
         return (a + b) * (a - b)
 
@@ -30,6 +30,4 @@ with open("jumbled_arithmetic_2.txt", "w", encoding="utf-8") as file:
     for i in range(50):
         prompt = generate_prompt()
         file.write(f"{prompt}\n\n")
-
-# Example of one prompt
 

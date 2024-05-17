@@ -1,7 +1,5 @@
 import random
 
-from sklearn.metrics import f1_score
-
 
 def parse_file(file_path):
     questions = []

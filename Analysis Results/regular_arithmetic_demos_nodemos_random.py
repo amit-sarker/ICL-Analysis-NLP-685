@@ -1,9 +1,8 @@
 import matplotlib
-matplotlib.use('Agg')  # Use the Agg backend for non-interactive plotting
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Data
 models = [
     'Mamba-2.8b', 'Cerebras-btlm-3b', 'Mamba-7b',
     'Llama2-7b', 'Mistral-7b'
@@ -13,8 +12,8 @@ no_demos = [42, 18, 43, 37, 80]
 demos_true_label = [64, 23, 65, 40, 88]
 demos_random_label = [64, 24, 66, 44, 64]
 
-x = np.arange(len(models))  # The label locations
-width = 0.2  # The width of the bars
+x = np.arange(len(models))
+width = 0.2
 
 fig, ax = plt.subplots(figsize=(12, 4))
 
@@ -34,7 +33,7 @@ def autolabel(rects):
         height = rect.get_height()
         ax.annotate('{}'.format(height),
                     xy=(rect.get_x() + rect.get_width() / 2, height),
-                    xytext=(0, 3),  # 3 points vertical offset
+                    xytext=(0, 3),
                     textcoords="offset points",
                     ha='center', va='bottom')
 

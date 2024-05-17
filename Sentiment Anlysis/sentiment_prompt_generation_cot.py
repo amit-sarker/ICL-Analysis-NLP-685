@@ -1,4 +1,3 @@
-# Sample data for statements and their sentiments with reasons
 statements_with_reasons = [
     ("The meal was delicious and the service was excellent.", "Positive", "The statement describes enjoyment and good service."),
     ("It rained all day during our outdoor event.", "Negative", "The statement describes an unfavorable situation."),
@@ -106,7 +105,6 @@ new_statements = [
 ]
 
 file_content = ""
-# Generate 50 unique prompts with reasons
 for i in range(50):
     idx1 = (i * 3) % len(statements_with_reasons)
     idx2 = (i * 3 + 1) % len(statements_with_reasons)
@@ -122,9 +120,5 @@ Classify the sentiment of the following statement:\n\
 Statement: {new_statements[i][0]} Sentiment:\n\n\n"
 
 
-
-    # prompts.append(prompt)
-
-# Save prompts to a text file
 with open('sentiment_prompts_cot.txt', 'w', encoding="utf-8") as file:
     file.write(file_content)
