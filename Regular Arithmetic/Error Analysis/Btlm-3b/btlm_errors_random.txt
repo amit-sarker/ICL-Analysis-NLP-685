@@ -1,0 +1,190 @@
+Question 1: Calculate 65 + 60? The correct answer is:
+Correct Answer: 125
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 2: Calculate 90 + 23? The correct answer is:
+Correct Answer: 113
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 3: Calculate 57 / 53? The correct answer is:
+Correct Answer: 1
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 4: Calculate 65 + 55? The correct answer is:
+Correct Answer: 120
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 5: Calculate 84 * 49? The correct answer is:
+Correct Answer: 4116
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 6: Calculate 85 + 60? The correct answer is:
+Correct Answer: 145
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 7: Calculate 22 / 22? The correct answer is:
+Correct Answer: 1
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 10: Calculate 73 / 48? The correct answer is:
+Correct Answer: 1
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 11: Calculate 77 * 41? The correct answer is:
+Correct Answer: 3157
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 12: Calculate 28 - 10? The correct answer is:
+Correct Answer: 18
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 14: Calculate 92 * 55? The correct answer is:
+Correct Answer: 5060
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 16: Calculate 38 / 25? The correct answer is:
+Correct Answer: 1
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 17: Calculate 93 / 50? The correct answer is:
+Correct Answer: 1
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 18: Calculate 25 * 17? The correct answer is:
+Correct Answer: 425
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 20: Calculate 91 * 47? The correct answer is:
+Correct Answer: 4277
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 22: Calculate 85 * 14? The correct answer is:
+Correct Answer: 1190
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 23: Calculate 89 / 7? The correct answer is:
+Correct Answer: 12
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 24: Calculate 67 + 56? The correct answer is:
+Correct Answer: 123
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 25: Calculate 42 - 39? The correct answer is:
+Correct Answer: 3
+Model's Response: 43
+Correct: False
+----------------------------------------
+Question 27: Calculate 81 * 63? The correct answer is:
+Correct Answer: 5103
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 28: Calculate 52 - 7? The correct answer is:
+Correct Answer: 45
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 31: Calculate 90 + 40? The correct answer is:
+Correct Answer: 130
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 32: Calculate 57 + 43? The correct answer is:
+Correct Answer: 100
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 33: Calculate 64 + 34? The correct answer is:
+Correct Answer: 98
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 34: Calculate 32 + 30? The correct answer is:
+Correct Answer: 62
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 35: Calculate 69 * 17? The correct answer is:
+Correct Answer: 1173
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 36: Calculate 41 / 15? The correct answer is:
+Correct Answer: 2
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 37: Calculate 27 * 21? The correct answer is:
+Correct Answer: 567
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 38: Calculate 61 / 19? The correct answer is:
+Correct Answer: 3
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 39: Calculate 92 + 38? The correct answer is:
+Correct Answer: 130
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 41: Calculate 77 / 7? The correct answer is:
+Correct Answer: 11
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 42: Calculate 91 + 37? The correct answer is:
+Correct Answer: 128
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 44: Calculate 46 + 43? The correct answer is:
+Correct Answer: 89
+Model's Response: 49
+Correct: False
+----------------------------------------
+Question 45: Calculate 81 * 63? The correct answer is:
+Correct Answer: 5103
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 46: Calculate 83 + 75? The correct answer is:
+Correct Answer: 158
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 47: Calculate 95 - 57? The correct answer is:
+Correct Answer: 38
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 48: Calculate 95 + 88? The correct answer is:
+Correct Answer: 183
+Model's Response: None
+Correct: False
+----------------------------------------
+Question 49: Calculate 77 * 68? The correct answer is:
+Correct Answer: 5236
+Model's Response: None
+Correct: False
+----------------------------------------
